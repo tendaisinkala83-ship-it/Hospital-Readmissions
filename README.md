@@ -1,19 +1,24 @@
 # Hospital Readmissions
 
 ## Overview
-This repository contains a project aimed at analyzing hospital readmissions and understanding the factors that contribute to them. The goal is to derive insights that can help in reducing readmission rates.
+Hospital readmissions are costly and often preventable. This project analyzes patient admission data to identify key factors contributing to 30-day hospital readmissions.
 
-## Features
-- Data analysis on hospital readmissions
-- Visualization of key insights
-- Extensive documentation
+The analysis was performed using MYSQL, and insights were visualized in an interactive dashboard built with Tableau.
 
-## Prerequisites
+## Business Problem
+Hospital administrators want to:
+- Reduce 30 day readmission rates
+- Identify  high-risk patient groups
+- understand patterns in diagnoses, age, and length of stay
+- Improve patient care while reducing financial penalties
+
+## Tool & Technologies
 - Python 3.x
 - pandas
-- matplotlib
-- seaborn
+- numpy
+- faker
 - Tableau
+- MYSQL
 
 ## Installation
 1. Clone the repository:
@@ -53,10 +58,17 @@ Hospital-Readmissions/
 ```
 
 ## Key Insights
-- Project reveals trends in readmission rates by diagnosis and other factors.
+-  Elderly patients(75+) had the highest readmission rate.
+-  Certain chronic conditions showed significantly higher recurrence.
+-  Longer length of stay correlated with increased readmission probability.
+-  Emergency admissions had higher readmission rates than elective admissions.
 
-## Technologies
-- Python
-- pandas
-- Tableau
-- MySQL/MySQL
+## Business Recommendations
+- Implement targeted post-discharge follow-ups for high-risk groups.
+- Develop chronic disease management programs.
+- Improve discharge planning for emergency admissions.
+- Monitor patients with extended hospital stays more closely.
+
+## Contact
+Tendai Sinkala
+sinkalat99@gmail.com
