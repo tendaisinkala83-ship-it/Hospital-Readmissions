@@ -143,10 +143,16 @@ Hospital-Readmissions/
 
 ## Key Insights
 Document your main findings here:
-- Readmission Rate: [Your percentage]
-- Most Common Risk Factors: [List main factors]
-- High-Risk Patient Groups: [Description]
-- Preventive Measures: [Recommendations]
+- Elderly patients (75+) had the highest readmission rate.
+- Certain chronic conditions such COPD showed significantly higher recurrence.
+- Longer length of stay correlated with increased readmission probability.
+- Emergency admissions had higher readmission rates than elective admissions.
+
+## Business Recommendations
+- Implement targeted post-discharge follow-ups for high-risk groups
+- Develop chronic disease management programs
+- improve discharge planning for emergency admissions
+- Monitor patients with extended hospital stays more closely
 
 ## Technologies
 - **Python**: Synthetic data generation using Faker and pandas libraries
