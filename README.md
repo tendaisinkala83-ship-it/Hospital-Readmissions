@@ -1,16 +1,17 @@
 # Hospital Readmissions
 
 ## Overview
-Hospital readmissions are costly and often preventable. This project analyzes patient admission data to identify key factors contributing to 30-day hospital readmissions.
+Hospital readmissions within 30days are a critical indicator of care quality and a major cost driver for healthcare systems. This project analyzes patient demgraphics, diagnosis categories, discharge timing, and operational factors to  identify drivers of 30 day readmissions and highlight opportunities for intervention.
 
-The analysis was performed using MYSQL, and insights were visualized in an interactive dashboard built with Tableau.
+The analysis was performed using MYSQL for data modeling and SQL analysis, and insights were visualized in an interactive dashboard built with Tableau.
 
-## Business Problem
-Hospital administrators want to:
-- Reduce 30 day readmission rates
-- Identify  high-risk patient groups
-- understand patterns in diagnoses, age, and length of stay
-- Improve patient care while reducing financial penalties
+## Objectives
+- Calculate overall 30-day readmission rate
+- Identify  high-risk diagnosis groups
+- Analyze the relationship between length of stay and readmissions
+- Assess impact of weekend vs. weekday discharge
+- Segment risk by age group and payer
+- Develop an executive-level interactive dashboard
 
 ## Tool & Technologies
 - Python 3.x
@@ -20,16 +21,32 @@ Hospital administrators want to:
 - Tableau
 - MYSQL
 
-## Installation
-1. Clone the repository:
-   ```
-   git clone https://github.com/<your-username>/Hospital-Readmissions.git
-   cd Hospital-Readmissions
-   ```
-2. Install the required Python packages:
-   ```
-   pip install -r requirements.txt
-   ```
+## Data & Schema Design
+A synthetic hospital admissions dataset was generated in Python and imported into MySQL.
+The dataset was normalized into three relational tables:
+
+**Patients**
+- Pateint_id
+- age_group
+- sex
+- race
+- payer
+
+**Admissions**
+- admission_id
+- patient_id
+- admission_date
+- discharge_date
+- length_of_stay
+- readmitted_30d
+- discharge_day_type(derived field)
+
+**diagnoses**
+- admission_id
+- diagnosis_group
+
+This structure mirrors real_world healthcare database design and enables multi-table SQL joins for risk segmentation analysis.
+   
 
 ## Database Setup
 - To set up the database, import the provided CSV files into your database management system (e.g., MySQL, PostgreSQL):
