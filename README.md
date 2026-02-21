@@ -12,15 +12,15 @@ The analysis was performed using MYSQL for data modeling and SQL analysis, and i
 - Assess impact of weekend vs. weekday discharge
 - Segment risk by age group and payer
 - Develop an executive-level interactive dashboard
+  
 
 ## Tool & Technologies
-- Python 3.x
-- pandas
-- numpy
-- faker
-- Tableau
-- MYSQL
-
+- **MYSQL**- data storage and SQL analysis
+- **SQL**- aggregations, joins, segmentation queries
+- **Tableau**- interactive dashboard development
+- **Python(data generation stage)**- synthetic dataset creation
+  
+  
 ## Data & Schema Design
 A synthetic hospital admissions dataset was generated in Python and imported into MySQL.
 The dataset was normalized into three relational tables:
@@ -48,20 +48,42 @@ The dataset was normalized into three relational tables:
 This structure mirrors real_world healthcare database design and enables multi-table SQL joins for risk segmentation analysis.
    
 
-## Database Setup
-- To set up the database, import the provided CSV files into your database management system (e.g., MySQL, PostgreSQL):
-  - `Patients.csv`
-  - `Admissions.csv`
-  - `Diagnoses.csv`
+## Key SQL Analyses
 
-## Tableau Setup
-1. Open Tableau.
-2. Connect to your database.
-3. Load the `Patients`, `Admissions`, and `Diagnoses` tables.
+The following analytical queries were performed:
+ 
+  - Overall readmission rate calculation
+  - Readmission rate by diagnosis group
+  - Length of stay bucket analysis
+  - Weekend vs. weekday discharge comparison
+  - Age group risk segnentation
+  - Payer-based readmission analysis
+  - Multi-factor high-risk patient profiling
+Example:
+SELECT
+   d.diagnosis_group,
+   COUNT(*) AS total_admissions,
+   ROUND(AVG(a.readmittied_30d) * 100, 2) AS readmission_rate_pct
+FROM admissions a
+JOIN diagnoses d
+   ON a.admission_id = d.admission_id
+GROUP BY d. diagnosis_group
+ORDER BY readmission_rate_pct DESC;
 
-## Usage
-- Run the analysis scripts in the `src` directory.
-- Visualize the results using Tableau.
+
+## Dashboard Overview
+
+The Tableau dashboard includes:
+
+- Executive KPI summary (Admissions, Readmissions, Readmission %, Avg LOS)
+- Readmission rate by diagnosis group
+- Length of stay vs readmission analysis
+- Weekend vs weekday discharge comparison
+- Age group segmentation
+- Payer-risk analysis
+- Interactive filters for exploratory analysis
+The dashboard is designed for hospital leadership and operational decision-makers.
+
 
 ## Project Structure
 ```
@@ -75,16 +97,19 @@ Hospital-Readmissions/
 ```
 
 ## Key Insights
--  Elderly patients(75+) had the highest readmission rate.
--  Certain chronic conditions showed significantly higher recurrence.
--  Longer length of stay correlated with increased readmission probability.
--  Emergency admissions had higher readmission rates than elective admissions.
+-  Elderly patients(75+) and specific payer categories show higher readmission rates.
+-  Certain chronic conditions showed significantly higher readmission risk.
+-  Longer length of stay do not consistently reduce readmission likelihood.
+-  Weekend discharges show elevated readmission rates, indicating possible operational gaps.
 
-## Business Recommendations
+## Business Implications
+
+This analysis demonstrates how structured data modelling and segmentation can support:
 - Implement targeted post-discharge follow-ups for high-risk groups.
 - Develop chronic disease management programs.
 - Improve discharge planning for emergency admissions.
 - Monitor patients with extended hospital stays more closely.
+- Financial impact mitigation related to readmission penalties.
 
 ## Contact
 Tendai Sinkala
