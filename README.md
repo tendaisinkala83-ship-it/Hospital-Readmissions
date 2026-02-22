@@ -61,7 +61,7 @@ The following analytical queries were performed;
 - Payer-based readmission analysis
 - Multi-factor high-risk patient profiling
 Example:
-
+```
 SELECT
     d.diagnosis-group,
     COUNT(*) AS total_admissions,
@@ -71,6 +71,7 @@ JOIN diagnoses d
         ON a.admission_id = d.admission_id
 GROUP BY d.diagnosis_group
 ORDER BY readmission_rate_pct DESC;
+```
 
 
 ## Dashboard Overview
