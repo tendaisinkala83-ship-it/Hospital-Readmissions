@@ -86,15 +86,17 @@ The dashboard is designed for hospital leadership and operational decision-maker
 
 
 ## Project Structure
-```
-Hospital-Readmissions/
-├── Patients.csv
-├── Admissions.csv
-├── Diagnoses.csv
-├── src/
-├── README.md
-└── requirements.txt
-```
+
+/sql_queries
+    baseline_metrics.sql
+    risk_segmentation.sql
+    payer_analysis.sql
+/tableau_dashboard
+    hospital_readmissions_dashboard.twbx
+/data_schema
+    schema_design.sql
+README.md
+
 
 ## Key Insights
 -  Elderly patients(75+) and specific payer categories show higher readmission rates.
@@ -110,6 +112,18 @@ This analysis demonstrates how structured data modelling and segmentation can su
 - Improve discharge planning for emergency admissions.
 - Monitor patients with extended hospital stays more closely.
 - Financial impact mitigation related to readmission penalties.
+
+##How to Reproduce
+
+1. Import dataset into MYSQL
+2. Create normalized tables(patients, admissions, diagnoses)
+3. Run SQL scripts located in / sql_queries
+4. Connect Tableau to database
+5. Open dashboard file and explore
+
+##About the Analyst
+
+This project was developed by a data analyst with a healthcare background, combing clinical domain knowledge with SQL and BI tools to drive operational insights.
 
 ## Contact
 Tendai Sinkala
