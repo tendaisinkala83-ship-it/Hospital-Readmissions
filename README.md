@@ -124,6 +124,11 @@ This analysis demonstrates how structured data modeling and segmentation can sup
 4. Connect Tableau to database.
 5. Open dashboard file and explore.
 
+## Interactive Dashboard
+
+View the live dashboard here:
+https://public.tableau.com/views/Book1_17713461403530/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## About the Analyst  
 
 This project was develpoed by a data analyst with a healthcare background, combining clinical domain knowlegde with SQL and BI tools to drive operational insights.
