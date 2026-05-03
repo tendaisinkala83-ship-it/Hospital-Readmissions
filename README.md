@@ -122,7 +122,7 @@ This analysis demonstrates how structured data modeling and segmentation can sup
 2. Create normalized tables(patients, admissions, diagnoses).  
 3. Run SQL scripts located in/sql_queries.
 4. Connect Tableau to database.
-5. Open dashboard file and exploe.
+5. Open dashboard file and explore.
 
 ## About the Analyst  
 
