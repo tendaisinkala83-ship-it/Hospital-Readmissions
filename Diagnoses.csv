@@ -1,0 +1,10001 @@
+admission_id,diagnosis_group
+474,"Heart Failure"
+1717,Other
+3017,Stroke
+3757,AMI
+4180,Other
+5458,"Heart Failure"
+6210,Stroke
+139,Other
+282,Pnuemonia
+1666,Other
+5211,Pnuemonia
+7262,Other
+8124,"Heart Failure"
+9036,"Heart Failure"
+121,Other
+647,Other
+1910,AMI
+1451,Other
+3252,Pnuemonia
+3445,Other
+4566,Stroke
+7052,Other
+7898,"Heart Failure"
+9081,"Heart Failure"
+10986,Other
+5698,Other
+6061,Other
+1680,Other
+6281,Other
+7218,COPD
+9126,"Heart Failure"
+11040,Other
+11393,Other
+31,AMI
+273,COPD
+990,"Heart Failure"
+1606,AMI
+9063,"Heart Failure"
+10152,Other
+10955,"Heart Failure"
+11747,"Heart Failure"
+7691,COPD
+8780,COPD
+9182,Pnuemonia
+3137,Stroke
+4960,Other
+1035,COPD
+10954,"Heart Failure"
+11634,Pnuemonia
+3097,AMI
+515,Pnuemonia
+1842,AMI
+3072,"Heart Failure"
+3536,AMI
+547,Other
+1761,Other
+3004,"Heart Failure"
+9599,AMI
+6439,"Heart Failure"
+9084,Pnuemonia
+8106,Other
+9600,Pnuemonia
+10597,COPD
+5587,COPD
+6549,COPD
+6989,Pnuemonia
+8479,Pnuemonia
+11168,Other
+11994,COPD
+3597,Pnuemonia
+4286,Pnuemonia
+4753,Pnuemonia
+5803,AMI
+7283,Other
+7858,Other
+9354,Other
+6629,Other
+7490,"Heart Failure"
+9786,Other
+11553,"Heart Failure"
+12445,"Heart Failure"
+6126,AMI
+6436,Other
+6956,COPD
+7767,Stroke
+9707,AMI
+10082,"Heart Failure"
+218,COPD
+1770,COPD
+2476,COPD
+3284,"Heart Failure"
+4024,"Heart Failure"
+427,Other
+527,Stroke
+1827,COPD
+2498,Pnuemonia
+587,Other
+2358,Other
+4126,Other
+4653,COPD
+6529,COPD
+6853,AMI
+8248,Other
+3421,Other
+5301,"Heart Failure"
+3504,AMI
+5547,Other
+7521,AMI
+7971,Pnuemonia
+1571,Other
+3329,Other
+3704,"Heart Failure"
+2201,Other
+4187,Pnuemonia
+6060,COPD
+10723,Pnuemonia
+11708,COPD
+12075,COPD
+7033,Other
+8907,Other
+6505,AMI
+8419,Pnuemonia
+1183,"Heart Failure"
+1570,Pnuemonia
+2176,Pnuemonia
+3309,"Heart Failure"
+8105,"Heart Failure"
+8333,Pnuemonia
+8680,Stroke
+10540,"Heart Failure"
+1112,AMI
+3610,Other
+4050,Pnuemonia
+4427,Other
+11385,COPD
+12131,"Heart Failure"
+6921,Stroke
+8966,Pnuemonia
+10486,Other
+5881,Pnuemonia
+7504,Other
+9242,Stroke
+10655,Other
+10977,"Heart Failure"
+9537,Other
+8708,"Heart Failure"
+10005,COPD
+10390,Pnuemonia
+1782,COPD
+3491,Other
+151,AMI
+2835,Pnuemonia
+3866,Pnuemonia
+5731,Other
+7787,Other
+2216,"Heart Failure"
+1582,Other
+2628,COPD
+10785,Pnuemonia
+11642,COPD
+12024,AMI
+12203,AMI
+9998,Pnuemonia
+2822,Pnuemonia
+4449,Other
+5289,AMI
+6411,"Heart Failure"
+7132,Pnuemonia
+8450,"Heart Failure"
+8904,"Heart Failure"
+9410,"Heart Failure"
+3821,"Heart Failure"
+4176,Other
+5189,Pnuemonia
+5444,Other
+10452,Other
+4628,Other
+6167,Pnuemonia
+8237,Stroke
+9682,"Heart Failure"
+2172,Other
+1975,Other
+2148,AMI
+2866,Stroke
+4837,Other
+5917,Other
+7999,Other
+8246,Pnuemonia
+2149,COPD
+3754,Stroke
+5853,"Heart Failure"
+6208,AMI
+7752,Other
+9369,COPD
+10243,"Heart Failure"
+11936,COPD
+3876,Pnuemonia
+5782,Pnuemonia
+6666,"Heart Failure"
+7899,Other
+1668,AMI
+3703,"Heart Failure"
+5050,"Heart Failure"
+6283,"Heart Failure"
+11496,"Heart Failure"
+11658,Other
+12018,Pnuemonia
+12342,Pnuemonia
+5263,COPD
+6704,"Heart Failure"
+502,COPD
+932,Other
+228,Stroke
+1486,AMI
+3446,Other
+661,COPD
+6733,Other
+8905,Other
+9356,Stroke
+10347,Pnuemonia
+11847,Stroke
+4178,COPD
+5029,AMI
+6759,Stroke
+7938,Pnuemonia
+328,COPD
+816,AMI
+3642,AMI
+11476,Pnuemonia
+11931,AMI
+12197,Pnuemonia
+5489,Stroke
+6078,Pnuemonia
+7764,COPD
+11146,AMI
+11408,Pnuemonia
+11943,"Heart Failure"
+9776,Other
+10762,"Heart Failure"
+60,COPD
+552,Other
+1675,COPD
+7986,COPD
+9385,Other
+10542,Stroke
+7479,COPD
+5596,"Heart Failure"
+2200,Other
+2972,"Heart Failure"
+6935,Other
+8480,Other
+10189,"Heart Failure"
+10813,Other
+668,AMI
+2185,Pnuemonia
+2566,Pnuemonia
+3005,Other
+4326,Pnuemonia
+4559,"Heart Failure"
+10914,Other
+9990,Other
+11601,AMI
+12096,Other
+12282,Pnuemonia
+2161,Stroke
+4002,Stroke
+5142,"Heart Failure"
+6041,Other
+8007,Other
+9368,Pnuemonia
+1259,AMI
+2287,Other
+2640,Other
+10433,Other
+9922,COPD
+10563,Other
+2593,Other
+3543,Other
+6904,COPD
+6504,AMI
+7109,Pnuemonia
+8227,Pnuemonia
+9423,"Heart Failure"
+1002,Other
+1350,"Heart Failure"
+1863,Other
+8505,Other
+9110,Other
+9708,Stroke
+5634,Stroke
+6445,Pnuemonia
+8731,Other
+10340,AMI
+5512,Other
+6528,Other
+7518,Other
+5,Pnuemonia
+251,Other
+948,AMI
+2946,"Heart Failure"
+4811,Other
+86,Other
+667,Other
+1879,COPD
+10614,"Heart Failure"
+12074,AMI
+12374,AMI
+10024,Other
+11170,"Heart Failure"
+12169,Other
+9397,Other
+11196,Stroke
+12231,Other
+12555,Pnuemonia
+2716,Pnuemonia
+4499,Stroke
+290,"Heart Failure"
+896,Pnuemonia
+2517,Pnuemonia
+3384,COPD
+10019,AMI
+10389,Pnuemonia
+11021,"Heart Failure"
+10828,Other
+11666,Other
+12429,"Heart Failure"
+460,Other
+1034,"Heart Failure"
+1338,Pnuemonia
+2227,"Heart Failure"
+4946,"Heart Failure"
+358,COPD
+956,Stroke
+1493,COPD
+3080,Pnuemonia
+8488,Pnuemonia
+10487,AMI
+11671,Other
+8551,"Heart Failure"
+10550,Other
+12117,Other
+12239,COPD
+791,"Heart Failure"
+1748,Stroke
+2357,"Heart Failure"
+4829,Stroke
+6220,"Heart Failure"
+5770,AMI
+7201,Other
+9109,Other
+2170,COPD
+2540,Pnuemonia
+3682,AMI
+9943,Stroke
+11714,"Heart Failure"
+4195,"Heart Failure"
+1594,COPD
+3121,Pnuemonia
+5635,"Heart Failure"
+6227,"Heart Failure"
+6712,Other
+7110,Other
+8118,Other
+1480,COPD
+2780,"Heart Failure"
+3791,AMI
+4414,AMI
+5772,Other
+11465,AMI
+12373,Pnuemonia
+12588,Other
+7055,Pnuemonia
+8545,"Heart Failure"
+4361,Other
+5350,COPD
+6618,AMI
+742,Other
+1332,Pnuemonia
+1740,COPD
+2171,COPD
+3392,AMI
+3106,Pnuemonia
+3598,Other
+4525,"Heart Failure"
+6102,AMI
+6256,"Heart Failure"
+1797,COPD
+2607,Stroke
+1681,Other
+3501,"Heart Failure"
+3925,COPD
+4221,COPD
+367,Other
+6789,Other
+1781,Stroke
+10335,AMI
+11696,"Heart Failure"
+12122,"Heart Failure"
+12481,Other
+9760,AMI
+10713,Other
+368,Pnuemonia
+1878,Pnuemonia
+7297,Stroke
+1619,Stroke
+2795,"Heart Failure"
+4742,Pnuemonia
+6206,AMI
+824,COPD
+10706,Pnuemonia
+11971,Other
+12550,Pnuemonia
+6050,AMI
+8147,COPD
+9719,Other
+4794,"Heart Failure"
+6577,COPD
+8367,"Heart Failure"
+9292,"Heart Failure"
+8814,Other
+9497,Stroke
+9086,"Heart Failure"
+1384,Other
+1719,COPD
+2311,COPD
+3098,"Heart Failure"
+551,Other
+2130,AMI
+2979,COPD
+4287,"Heart Failure"
+5827,COPD
+6667,Other
+4207,AMI
+4738,"Heart Failure"
+5524,Other
+7444,Other
+9215,Other
+8104,Pnuemonia
+7359,COPD
+7793,Other
+9551,Other
+10705,"Heart Failure"
+11310,Pnuemonia
+11520,Other
+11668,Pnuemonia
+12081,"Heart Failure"
+562,"Heart Failure"
+3914,Other
+3129,Pnuemonia
+3394,"Heart Failure"
+4565,Other
+6278,AMI
+9787,"Heart Failure"
+10461,"Heart Failure"
+12052,COPD
+1994,"Heart Failure"
+3116,Other
+4999,AMI
+1373,Pnuemonia
+2844,Other
+4623,Other
+5049,Pnuemonia
+4490,"Heart Failure"
+4179,Other
+4793,Other
+2367,Other
+2010,Other
+10556,Other
+11911,COPD
+4406,Pnuemonia
+9785,Other
+11563,AMI
+12111,Other
+5775,Other
+6816,AMI
+7472,Other
+8622,COPD
+246,Other
+11513,AMI
+11679,Pnuemonia
+12183,Stroke
+12296,Stroke
+9454,Stroke
+10377,Other
+11975,AMI
+12112,Other
+11115,Other
+11821,Other
+12267,"Heart Failure"
+12403,Pnuemonia
+10586,Other
+9621,Stroke
+10419,Other
+11854,COPD
+12461,AMI
+1133,Other
+2366,Stroke
+3942,Stroke
+4220,AMI
+4943,"Heart Failure"
+6424,COPD
+7827,Other
+8655,Pnuemonia
+1617,Other
+2685,Pnuemonia
+3894,COPD
+4526,Other
+295,Other
+894,Pnuemonia
+1912,Other
+3608,"Heart Failure"
+3823,Stroke
+4158,COPD
+5959,AMI
+11329,Other
+12140,Other
+2177,Stroke
+8801,AMI
+9321,Stroke
+4569,AMI
+4194,"Heart Failure"
+5222,Stroke
+10953,"Heart Failure"
+12036,"Heart Failure"
+12537,Other
+11464,COPD
+12369,"Heart Failure"
+12559,Pnuemonia
+12594,Pnuemonia
+5859,Stroke
+7623,AMI
+8682,COPD
+9466,Pnuemonia
+7944,Other
+8993,"Heart Failure"
+11142,"Heart Failure"
+1027,AMI
+1605,COPD
+2577,Pnuemonia
+3198,COPD
+3812,AMI
+5095,Other
+11106,"Heart Failure"
+6149,Stroke
+8070,Other
+5668,Stroke
+6197,"Heart Failure"
+8207,Other
+8334,COPD
+9331,AMI
+9865,COPD
+11129,COPD
+288,Stroke
+489,Other
+810,COPD
+6199,"Heart Failure"
+7609,COPD
+5178,COPD
+9672,"Heart Failure"
+1048,Other
+1967,Other
+2786,"Heart Failure"
+11007,COPD
+429,AMI
+1345,Other
+2757,"Heart Failure"
+1333,AMI
+2615,Other
+3244,AMI
+6334,Other
+6602,AMI
+7274,Other
+7380,"Heart Failure"
+8877,Stroke
+10476,Other
+10731,Pnuemonia
+1845,Other
+2824,Other
+735,"Heart Failure"
+2186,AMI
+3286,Other
+4069,Stroke
+10162,Stroke
+1968,Other
+2845,Other
+6328,Other
+8139,COPD
+10221,"Heart Failure"
+6641,AMI
+4139,"Heart Failure"
+5535,Other
+7480,Other
+9083,COPD
+6198,"Heart Failure"
+6834,Pnuemonia
+7108,COPD
+5408,COPD
+6058,"Heart Failure"
+7382,COPD
+8569,Other
+10692,Other
+1516,Pnuemonia
+7917,"Heart Failure"
+9912,"Heart Failure"
+1882,Stroke
+3522,COPD
+5443,Pnuemonia
+7527,Stroke
+3829,Pnuemonia
+5780,Stroke
+7519,Stroke
+7334,"Heart Failure"
+8066,Other
+2613,Other
+3158,Other
+4270,"Heart Failure"
+5686,Pnuemonia
+2843,Other
+4694,Pnuemonia
+5989,Other
+6630,AMI
+8375,Other
+378,AMI
+1696,Other
+4624,"Heart Failure"
+5118,Other
+7217,AMI
+8521,"Heart Failure"
+11507,Stroke
+11475,Other
+11683,Stroke
+12308,AMI
+12616,Stroke
+384,Other
+1769,Pnuemonia
+1613,Stroke
+2173,Pnuemonia
+10672,Other
+10050,Other
+10033,Other
+10912,Pnuemonia
+3493,Pnuemonia
+4625,Pnuemonia
+5903,COPD
+1065,Other
+2516,"Heart Failure"
+3310,COPD
+3683,"Heart Failure"
+9424,Stroke
+11147,"Heart Failure"
+7751,Other
+8742,COPD
+6540,"Heart Failure"
+6999,Pnuemonia
+11353,"Heart Failure"
+12025,Other
+12209,AMI
+7107,"Heart Failure"
+8535,Other
+8789,Other
+39,COPD
+1170,Stroke
+9214,Other
+10018,COPD
+11153,Other
+2601,Other
+4013,"Heart Failure"
+7246,"Heart Failure"
+8197,AMI
+9393,"Heart Failure"
+10748,"Heart Failure"
+840,AMI
+1391,AMI
+2286,Pnuemonia
+4235,COPD
+696,"Heart Failure"
+1460,"Heart Failure"
+2855,Stroke
+640,Pnuemonia
+1266,"Heart Failure"
+5826,"Heart Failure"
+6805,Pnuemonia
+8544,AMI
+2284,Stroke
+4196,Other
+4781,Other
+5544,Other
+6458,Pnuemonia
+7815,Pnuemonia
+7937,Other
+8351,Other
+8580,"Heart Failure"
+1509,Other
+6833,"Heart Failure"
+2162,Pnuemonia
+4259,Other
+5345,Other
+6955,Pnuemonia
+4982,Stroke
+6478,Other
+8547,COPD
+10336,Pnuemonia
+11572,"Heart Failure"
+9579,"Heart Failure"
+9876,Other
+513,Other
+4206,COPD
+2352,AMI
+17,"Heart Failure"
+8633,Other
+9464,COPD
+10937,Stroke
+12182,Other
+6875,Other
+2143,Pnuemonia
+2696,Other
+8254,Other
+8992,Other
+10369,Other
+5795,"Heart Failure"
+4247,Other
+5579,AMI
+5828,"Heart Failure"
+6788,"Heart Failure"
+54,Pnuemonia
+450,Other
+1017,COPD
+401,Other
+1607,Stroke
+2443,Pnuemonia
+10076,COPD
+10943,COPD
+11625,Stroke
+12190,Pnuemonia
+10315,"Heart Failure"
+11491,Other
+12063,"Heart Failure"
+12192,COPD
+5716,Pnuemonia
+9433,COPD
+11185,Pnuemonia
+11935,COPD
+12498,Pnuemonia
+6183,COPD
+7763,Pnuemonia
+9191,Pnuemonia
+964,AMI
+2667,"Heart Failure"
+3330,Pnuemonia
+3775,Stroke
+785,COPD
+1122,AMI
+2722,"Heart Failure"
+3053,AMI
+5127,Other
+10258,"Heart Failure"
+8946,Other
+10622,"Heart Failure"
+9778,Other
+10257,Pnuemonia
+11210,Pnuemonia
+12357,Other
+12615,"Heart Failure"
+1572,"Heart Failure"
+3293,Pnuemonia
+5065,"Heart Failure"
+6958,"Heart Failure"
+2003,COPD
+3943,"Heart Failure"
+608,"Heart Failure"
+8758,Pnuemonia
+9550,Other
+11237,"Heart Failure"
+10090,Other
+11249,Other
+11957,"Heart Failure"
+3958,Pnuemonia
+5258,Other
+7199,COPD
+8835,COPD
+6656,"Heart Failure"
+7544,Other
+1019,Other
+1191,Other
+1623,Stroke
+2973,Pnuemonia
+10623,"Heart Failure"
+12069,Other
+12581,AMI
+9842,AMI
+11101,Stroke
+11550,Pnuemonia
+12238,Other
+11209,Other
+11840,Pnuemonia
+12432,Other
+12573,"Heart Failure"
+9136,COPD
+10177,Other
+11726,AMI
+10057,COPD
+11328,AMI
+11657,"Heart Failure"
+12080,Other
+110,"Heart Failure"
+253,"Heart Failure"
+8194,"Heart Failure"
+9566,Other
+10111,Stroke
+11447,"Heart Failure"
+3055,Other
+3262,Pnuemonia
+4393,Other
+4812,Pnuemonia
+10642,Other
+11635,Pnuemonia
+9021,COPD
+10066,Other
+10323,Pnuemonia
+9830,COPD
+10067,"Heart Failure"
+9137,Other
+2199,Pnuemonia
+4093,"Heart Failure"
+5774,Stroke
+7022,Pnuemonia
+8844,Other
+9347,Other
+11006,Pnuemonia
+11767,AMI
+649,"Heart Failure"
+9939,Other
+10511,AMI
+11589,"Heart Failure"
+12465,AMI
+9745,Pnuemonia
+1718,"Heart Failure"
+9206,AMI
+10431,COPD
+11695,Other
+4648,AMI
+2687,COPD
+8935,Other
+10395,Stroke
+1763,"Heart Failure"
+105,COPD
+1069,COPD
+1411,Pnuemonia
+2381,Other
+2998,AMI
+3578,Pnuemonia
+5030,Stroke
+6851,Stroke
+9831,Stroke
+10503,Other
+11087,"Heart Failure"
+2368,Other
+4127,Stroke
+4936,Other
+6937,Other
+7323,AMI
+8792,AMI
+10742,"Heart Failure"
+3875,Pnuemonia
+4343,Pnuemonia
+11271,COPD
+11477,"Heart Failure"
+5585,COPD
+6565,Stroke
+10747,COPD
+11770,Other
+12431,"Heart Failure"
+695,AMI
+927,Other
+1190,Other
+1648,COPD
+11141,Other
+11773,Other
+12280,Stroke
+12385,Stroke
+1258,Stroke
+2884,Pnuemonia
+3228,AMI
+11029,Other
+12065,Other
+2178,Other
+3725,Other
+653,AMI
+1899,Pnuemonia
+4323,"Heart Failure"
+5545,Pnuemonia
+5935,"Heart Failure"
+8044,COPD
+8096,Stroke
+2805,AMI
+4719,COPD
+6311,Pnuemonia
+6475,Stroke
+5281,Other
+5963,Other
+7432,Other
+7666,"Heart Failure"
+3694,Other
+6121,"Heart Failure"
+2060,Pnuemonia
+3172,"Heart Failure"
+7812,Other
+9047,Stroke
+11,Other
+727,"Heart Failure"
+2066,AMI
+3151,Other
+10580,Other
+5618,Pnuemonia
+6280,Stroke
+6576,Other
+7960,Stroke
+8766,Pnuemonia
+9074,Other
+11046,Other
+8255,Other
+9235,Stroke
+7322,Other
+7608,Pnuemonia
+8489,"Heart Failure"
+3419,"Heart Failure"
+3892,"Heart Failure"
+360,"Heart Failure"
+1734,Other
+2668,"Heart Failure"
+7257,AMI
+8775,Other
+10803,Pnuemonia
+11903,Stroke
+3018,Other
+2807,Stroke
+9610,"Heart Failure"
+10141,"Heart Failure"
+7961,COPD
+9857,AMI
+11195,"Heart Failure"
+2614,Stroke
+4433,AMI
+6148,"Heart Failure"
+7625,Stroke
+2740,Other
+4324,COPD
+6207,COPD
+3973,Stroke
+5880,COPD
+7918,AMI
+9422,Pnuemonia
+3913,COPD
+2565,Other
+783,Other
+1798,Other
+3230,Pnuemonia
+5309,Stroke
+4159,Stroke
+4441,Other
+6544,Other
+10763,Stroke
+11169,Other
+12302,COPD
+7423,Pnuemonia
+8229,Other
+10304,Other
+11422,Pnuemonia
+12199,COPD
+12521,COPD
+6591,Pnuemonia
+7418,COPD
+2629,"Heart Failure"
+3079,Stroke
+3571,AMI
+4866,Stroke
+5745,Stroke
+4,COPD
+2449,"Heart Failure"
+3957,AMI
+5439,"Heart Failure"
+4268,Other
+4541,Stroke
+5190,Other
+6157,Other
+7371,Pnuemonia
+8885,AMI
+7118,Pnuemonia
+9131,AMI
+4715,AMI
+6228,Stroke
+4394,COPD
+5860,Pnuemonia
+1618,Other
+2051,Other
+3456,Other
+5066,Pnuemonia
+4801,Other
+6517,Pnuemonia
+10282,AMI
+11697,Pnuemonia
+12126,Other
+8944,COPD
+9950,Pnuemonia
+11396,Other
+11838,Other
+1167,Stroke
+1682,Other
+2870,COPD
+4258,Stroke
+451,Pnuemonia
+759,Pnuemonia
+5331,COPD
+5733,Other
+7034,"Heart Failure"
+6818,Stroke
+8522,Pnuemonia
+10571,Other
+12099,Pnuemonia
+3081,"Heart Failure"
+4935,Pnuemonia
+6329,"Heart Failure"
+7156,COPD
+9226,AMI
+9789,"Heart Failure"
+10578,"Heart Failure"
+11579,Stroke
+8370,"Heart Failure"
+9293,"Heart Failure"
+7351,AMI
+7998,Other
+1741,AMI
+2730,AMI
+4813,"Heart Failure"
+5839,Stroke
+1458,Other
+106,Pnuemonia
+1326,COPD
+2340,Other
+4052,Pnuemonia
+1955,Other
+3303,COPD
+4764,Stroke
+4830,Pnuemonia
+6196,Other
+6657,"Heart Failure"
+8871,AMI
+9634,Other
+11244,COPD
+11761,"Heart Failure"
+12248,Other
+383,Other
+1881,Stroke
+4068,Stroke
+5151,Other
+6768,Other
+8449,"Heart Failure"
+9035,Other
+1424,COPD
+2428,Stroke
+2666,Other
+3673,Stroke
+7658,Pnuemonia
+8388,COPD
+5068,"Heart Failure"
+7220,Other
+1944,Other
+3197,Pnuemonia
+7139,"Heart Failure"
+7925,Pnuemonia
+27,Pnuemonia
+467,AMI
+1841,Pnuemonia
+8369,COPD
+8876,Pnuemonia
+10310,COPD
+8621,AMI
+10502,Other
+632,Pnuemonia
+4225,COPD
+4795,Stroke
+1237,"Heart Failure"
+1788,Pnuemonia
+10962,"Heart Failure"
+5349,AMI
+5895,Stroke
+7106,Other
+245,Other
+1598,Other
+2120,AMI
+2526,"Heart Failure"
+2002,Other
+2836,Stroke
+4586,Other
+9612,Other
+10988,Other
+11782,COPD
+12015,"Heart Failure"
+4594,"Heart Failure"
+9011,AMI
+10558,Other
+11552,COPD
+12457,"Heart Failure"
+7284,"Heart Failure"
+8039,"Heart Failure"
+8612,Pnuemonia
+9146,Other
+11354,Other
+12141,Other
+12542,COPD
+6340,Other
+6867,Pnuemonia
+8961,COPD
+9161,AMI
+10870,AMI
+10172,"Heart Failure"
+11802,"Heart Failure"
+12472,"Heart Failure"
+12654,"Heart Failure"
+6550,"Heart Failure"
+7958,"Heart Failure"
+8331,COPD
+10114,Other
+5197,Pnuemonia
+9370,Other
+11164,COPD
+11545,Other
+5744,AMI
+7781,Stroke
+8681,COPD
+9276,AMI
+10235,Other
+8277,AMI
+10183,AMI
+11769,Pnuemonia
+4824,Other
+2110,Other
+2400,"Heart Failure"
+3555,"Heart Failure"
+5337,"Heart Failure"
+1979,"Heart Failure"
+3643,AMI
+4585,Other
+6881,Other
+8209,"Heart Failure"
+9496,Pnuemonia
+11243,COPD
+8552,Stroke
+9815,"Heart Failure"
+10160,Other
+5390,Pnuemonia
+7473,Other
+8122,Other
+6732,Stroke
+2312,Stroke
+415,"Heart Failure"
+867,COPD
+1815,"Heart Failure"
+2703,"Heart Failure"
+2433,Stroke
+2954,Other
+3994,Other
+2278,Other
+4177,Other
+2885,"Heart Failure"
+5649,AMI
+6760,"Heart Failure"
+887,Other
+2297,"Heart Failure"
+3029,Stroke
+4466,Pnuemonia
+1808,COPD
+7626,COPD
+7789,Pnuemonia
+8957,"Heart Failure"
+10113,COPD
+329,"Heart Failure"
+3969,"Heart Failure"
+4325,COPD
+6394,"Heart Failure"
+5671,COPD
+7265,AMI
+8883,Other
+10773,AMI
+4081,COPD
+4510,COPD
+1542,Other
+3016,COPD
+3636,"Heart Failure"
+4151,"Heart Failure"
+10326,AMI
+6200,"Heart Failure"
+8148,Other
+7647,Other
+9216,Stroke
+10199,"Heart Failure"
+9720,Pnuemonia
+10771,Stroke
+11740,"Heart Failure"
+12356,COPD
+8553,Stroke
+9636,Stroke
+11341,Other
+3624,"Heart Failure"
+4765,"Heart Failure"
+28,Pnuemonia
+928,Other
+3276,AMI
+4681,Other
+8398,Pnuemonia
+9404,COPD
+10743,COPD
+11624,Pnuemonia
+9683,Other
+10039,"Heart Failure"
+10242,AMI
+10911,Other
+4137,COPD
+8321,"Heart Failure"
+9332,Pnuemonia
+11346,Other
+12402,AMI
+5718,Other
+7389,AMI
+8696,COPD
+10316,Other
+6437,Pnuemonia
+8293,Pnuemonia
+1683,Pnuemonia
+3096,Other
+4382,Other
+6042,Other
+1667,Pnuemonia
+2886,AMI
+4638,AMI
+4337,Stroke
+6297,Stroke
+6769,"Heart Failure"
+134,COPD
+1001,COPD
+3089,Stroke
+5160,COPD
+7442,Pnuemonia
+7983,Other
+8306,COPD
+3934,"Heart Failure"
+1121,COPD
+2804,Stroke
+4743,Pnuemonia
+5650,Pnuemonia
+6255,Stroke
+8471,COPD
+784,"Heart Failure"
+6675,COPD
+7134,Other
+122,"Heart Failure"
+1037,Pnuemonia
+1846,Other
+3801,COPD
+5975,"Heart Failure"
+7665,Other
+123,"Heart Failure"
+1150,"Heart Failure"
+2702,Other
+6953,AMI
+857,Stroke
+1649,Pnuemonia
+1946,Pnuemonia
+2221,Other
+4667,"Heart Failure"
+6601,Other
+7058,Other
+7373,AMI
+247,Other
+793,Stroke
+1779,Pnuemonia
+1966,Pnuemonia
+3606,Pnuemonia
+5103,AMI
+5742,Pnuemonia
+1592,Pnuemonia
+2758,Other
+4682,Pnuemonia
+6181,Other
+2978,Other
+3617,"Heart Failure"
+5294,Other
+6990,COPD
+8490,Other
+3607,Other
+8376,AMI
+9398,AMI
+2036,AMI
+3041,COPD
+3464,COPD
+437,COPD
+87,Pnuemonia
+614,Pnuemonia
+5636,COPD
+11521,Stroke
+12358,Other
+12634,Stroke
+12658,Other
+3254,Stroke
+3990,Pnuemonia
+5771,COPD
+7057,Stroke
+7848,AMI
+8062,Other
+8765,COPD
+7076,AMI
+7431,"Heart Failure"
+8413,"Heart Failure"
+10405,AMI
+11951,"Heart Failure"
+10868,COPD
+11960,Other
+12268,"Heart Failure"
+12491,Other
+1459,Other
+2230,Stroke
+2463,"Heart Failure"
+3130,COPD
+93,Other
+966,"Heart Failure"
+1000,COPD
+1883,AMI
+2945,"Heart Failure"
+3220,AMI
+776,Other
+1439,"Heart Failure"
+7309,COPD
+8049,Other
+8837,Other
+10733,"Heart Failure"
+5962,AMI
+7422,Pnuemonia
+9452,COPD
+11551,Stroke
+1655,Other
+7706,AMI
+8579,AMI
+9033,Other
+1151,Other
+2477,Other
+3245,Pnuemonia
+6490,COPD
+7832,Pnuemonia
+9864,Pnuemonia
+10292,Stroke
+8332,Other
+10375,Stroke
+689,"Heart Failure"
+2299,Stroke
+3088,COPD
+4300,Other
+9241,Other
+9516,AMI
+10219,Stroke
+11049,"Heart Failure"
+11653,Stroke
+11818,Stroke
+12323,Stroke
+648,"Heart Failure"
+858,AMI
+1294,AMI
+2867,"Heart Failure"
+114,COPD
+706,COPD
+917,Pnuemonia
+2228,Other
+2785,Stroke
+4637,Other
+5773,AMI
+6253,Other
+7421,"Heart Failure"
+9506,Other
+10862,Other
+10963,Other
+3840,Other
+7900,COPD
+10020,Pnuemonia
+407,Stroke
+1545,COPD
+2448,AMI
+7592,Other
+8195,AMI
+6734,COPD
+594,Pnuemonia
+8650,Other
+9613,COPD
+11367,Pnuemonia
+9637,Stroke
+6404,"Heart Failure"
+7295,AMI
+7927,Stroke
+9840,AMI
+744,AMI
+1152,COPD
+2630,"Heart Failure"
+3584,Stroke
+11308,COPD
+12196,COPD
+12335,Pnuemonia
+12589,Other
+8782,"Heart Failure"
+3219,Pnuemonia
+3671,Other
+4148,COPD
+5961,COPD
+4249,COPD
+3502,Pnuemonia
+5410,AMI
+7248,Stroke
+7895,Other
+5217,Pnuemonia
+3145,COPD
+9635,Other
+11630,Other
+12289,AMI
+12441,AMI
+9267,COPD
+10673,"Heart Failure"
+11603,Pnuemonia
+11969,"Heart Failure"
+626,AMI
+1267,Pnuemonia
+1501,Other
+11008,"Heart Failure"
+6849,Other
+7381,Stroke
+8320,"Heart Failure"
+10174,Other
+9345,"Heart Failure"
+9732,Other
+10654,COPD
+11540,Other
+7798,Other
+4336,Other
+8163,COPD
+9814,Other
+11062,Other
+12043,Stroke
+12366,Pnuemonia
+2250,"Heart Failure"
+3371,Other
+5433,Stroke
+6905,COPD
+9096,Other
+9841,AMI
+11197,"Heart Failure"
+5617,Other
+6848,COPD
+4921,"Heart Failure"
+4335,"Heart Failure"
+5351,Pnuemonia
+8126,COPD
+2229,Stroke
+9664,COPD
+9384,Stroke
+11063,Other
+473,Other
+774,AMI
+2239,AMI
+10056,COPD
+11814,COPD
+12136,COPD
+1942,"Heart Failure"
+4713,Other
+6516,COPD
+7443,Other
+9020,COPD
+3609,"Heart Failure"
+129,Other
+9650,Pnuemonia
+11647,Pnuemonia
+12476,COPD
+12656,Pnuemonia
+1293,Other
+2454,"Heart Failure"
+4511,COPD
+6354,"Heart Failure"
+1595,"Heart Failure"
+1884,"Heart Failure"
+3766,AMI
+8967,Pnuemonia
+3138,"Heart Failure"
+4082,Other
+4640,AMI
+6257,"Heart Failure"
+10045,Pnuemonia
+11675,Other
+11881,Other
+12529,COPD
+7731,Other
+2342,Stroke
+2595,"Heart Failure"
+56,COPD
+374,AMI
+589,Other
+926,Pnuemonia
+10848,"Heart Failure"
+12060,Other
+461,"Heart Failure"
+1954,Pnuemonia
+7972,Pnuemonia
+9396,"Heart Failure"
+9816,Other
+4983,Pnuemonia
+6211,COPD
+7648,Pnuemonia
+8651,Other
+8461,"Heart Failure"
+10101,COPD
+7591,AMI
+8473,AMI
+6998,COPD
+5017,COPD
+8908,"Heart Failure"
+9148,AMI
+9856,AMI
+514,Pnuemonia
+1704,COPD
+2505,Other
+3991,AMI
+5014,"Heart Failure"
+7596,Other
+9312,"Heart Failure"
+2701,"Heart Failure"
+3107,"Heart Failure"
+6171,Pnuemonia
+4802,Pnuemonia
+5858,Pnuemonia
+7543,Stroke
+5515,Other
+7594,Other
+8041,"Heart Failure"
+4227,Other
+6209,COPD
+8305,"Heart Failure"
+3030,COPD
+7745,AMI
+2264,COPD
+2026,Stroke
+3715,Other
+4434,Pnuemonia
+6064,Pnuemonia
+741,Other
+1397,Other
+734,COPD
+2021,Pnuemonia
+3904,Pnuemonia
+5586,Stroke
+7462,"Heart Failure"
+8503,"Heart Failure"
+9997,Stroke
+11020,"Heart Failure"
+12094,COPD
+1320,Other
+2906,COPD
+3253,"Heart Failure"
+1647,Pnuemonia
+2215,Pnuemonia
+3865,Other
+4922,COPD
+5958,"Heart Failure"
+8038,COPD
+8722,Other
+11211,Pnuemonia
+12249,Other
+12518,"Heart Failure"
+12624,"Heart Failure"
+5435,AMI
+6880,Other
+2404,COPD
+578,"Heart Failure"
+1787,Other
+3644,Other
+4919,Pnuemonia
+1423,Pnuemonia
+1762,Stroke
+2083,COPD
+3579,Stroke
+4439,Other
+1272,COPD
+2103,"Heart Failure"
+67,AMI
+1177,COPD
+2769,COPD
+5560,Other
+6049,"Heart Failure"
+2313,Pnuemonia
+11186,Other
+5825,Other
+6758,Other
+7148,"Heart Failure"
+8208,COPD
+7688,Other
+9357,Stroke
+11394,"Heart Failure"
+11709,Other
+777,Other
+2167,Pnuemonia
+4169,Other
+4626,AMI
+9893,AMI
+11631,Stroke
+12295,Other
+5019,Other
+6279,Other
+7698,"Heart Failure"
+9949,Other
+10698,Other
+11102,AMI
+6092,COPD
+4756,AMI
+6393,AMI
+6988,"Heart Failure"
+4380,COPD
+6282,Pnuemonia
+7056,COPD
+1312,Other
+2285,Other
+252,"Heart Failure"
+1654,Pnuemonia
+1855,Stroke
+2398,COPD
+10767,"Heart Failure"
+12041,"Heart Failure"
+12444,AMI
+4862,Pnuemonia
+5620,Other
+7730,COPD
+9268,Stroke
+9866,COPD
+3886,Pnuemonia
+5451,"Heart Failure"
+396,"Heart Failure"
+1253,Other
+2191,Other
+3492,COPD
+6770,Pnuemonia
+7804,Stroke
+8781,Other
+9843,Other
+262,Pnuemonia
+1440,Other
+1653,COPD
+2082,COPD
+972,Other
+2594,Stroke
+2921,Stroke
+5947,"Heart Failure"
+2665,COPD
+4754,"Heart Failure"
+6539,Other
+6830,Other
+11444,AMI
+726,"Heart Failure"
+1194,Pnuemonia
+2572,Other
+3616,"Heart Failure"
+8536,"Heart Failure"
+10621,"Heart Failure"
+11512,COPD
+12046,AMI
+6477,Stroke
+8884,Other
+9863,Pnuemonia
+10818,COPD
+1750,"Heart Failure"
+3741,"Heart Failure"
+4778,COPD
+6590,Pnuemonia
+5407,COPD
+5709,Other
+4517,"Heart Failure"
+6333,"Heart Failure"
+6865,Pnuemonia
+7649,Other
+4404,Other
+4803,COPD
+5104,Stroke
+9762,"Heart Failure"
+10143,Other
+11395,COPD
+2694,Pnuemonia
+6664,Other
+6878,AMI
+6507,"Heart Failure"
+7335,Pnuemonia
+9302,Stroke
+10877,Stroke
+8236,"Heart Failure"
+10841,AMI
+12042,COPD
+1556,"Heart Failure"
+2997,Other
+1584,Other
+1826,Other
+7200,Stroke
+7901,COPD
+9085,Other
+10976,"Heart Failure"
+1050,AMI
+1210,Other
+3095,Other
+3409,Pnuemonia
+402,Stroke
+1508,"Heart Failure"
+15,Stroke
+187,COPD
+1036,COPD
+4516,"Heart Failure"
+5814,Pnuemonia
+6323,Other
+6817,Stroke
+8434,Other
+2504,Other
+4492,AMI
+6219,"Heart Failure"
+7595,COPD
+1809,Other
+2412,"Heart Failure"
+3181,Other
+7794,Pnuemonia
+9547,Pnuemonia
+10218,Other
+11713,Other
+7749,Pnuemonia
+9670,COPD
+11340,COPD
+4561,COPD
+7545,Stroke
+8857,Stroke
+10302,"Heart Failure"
+12008,COPD
+10562,Other
+11987,Pnuemonia
+12453,COPD
+8845,Pnuemonia
+6705,COPD
+7209,COPD
+8741,Pnuemonia
+10557,Other
+10676,Other
+4226,AMI
+5699,Stroke
+6852,Other
+7021,"Heart Failure"
+10374,COPD
+11615,AMI
+9322,Pnuemonia
+10142,Pnuemonia
+11746,Other
+369,Stroke
+590,"Heart Failure"
+1132,Stroke
+1864,Other
+2174,Pnuemonia
+2715,"Heart Failure"
+4043,Other
+8352,AMI
+9485,COPD
+10783,Pnuemonia
+6033,AMI
+6864,Other
+2468,"Heart Failure"
+4527,Stroke
+6351,Pnuemonia
+767,Pnuemonia
+1051,Pnuemonia
+7562,COPD
+9460,Other
+10504,"Heart Failure"
+7707,Stroke
+9538,AMI
+10784,"Heart Failure"
+11822,"Heart Failure"
+12473,"Heart Failure"
+12653,Stroke
+5143,"Heart Failure"
+5061,Pnuemonia
+434,Other
+181,Pnuemonia
+281,"Heart Failure"
+4298,Other
+6350,Other
+7180,Stroke
+7915,Other
+2922,Other
+4560,Pnuemonia
+5359,COPD
+2020,COPD
+4092,AMI
+5140,"Heart Failure"
+507,Other
+931,"Heart Failure"
+1385,Pnuemonia
+11022,Stroke
+9451,"Heart Failure"
+10605,Pnuemonia
+10829,"Heart Failure"
+11541,"Heart Failure"
+6105,Other
+7689,Other
+9151,Pnuemonia
+10640,Other
+10885,Stroke
+11519,Stroke
+11667,COPD
+7341,Other
+2244,Stroke
+4103,Other
+182,COPD
+554,COPD
+1555,"Heart Failure"
+8433,Pnuemonia
+8656,"Heart Failure"
+10404,"Heart Failure"
+4771,Other
+7077,"Heart Failure"
+10477,Pnuemonia
+1292,AMI
+1487,Other
+2741,Other
+4397,Other
+6221,Pnuemonia
+6840,COPD
+5037,Stroke
+6306,AMI
+7038,Stroke
+9032,Other
+500,Stroke
+1749,"Heart Failure"
+3229,Pnuemonia
+5119,Pnuemonia
+5743,COPD
+6527,Pnuemonia
+3064,Pnuemonia
+5105,Stroke
+7320,"Heart Failure"
+7627,Other
+9220,AMI
+10929,Pnuemonia
+9731,Stroke
+11148,Stroke
+3014,Stroke
+7624,Pnuemonia
+2464,Other
+3420,AMI
+3615,AMI
+4104,"Heart Failure"
+10804,Pnuemonia
+11287,Stroke
+12321,AMI
+12610,"Heart Failure"
+9165,Pnuemonia
+9806,COPD
+11649,Stroke
+5776,Other
+6787,Other
+8420,Other
+9777,COPD
+4571,Other
+5231,Pnuemonia
+6179,Other
+2821,"Heart Failure"
+2928,"Heart Failure"
+11131,Stroke
+3933,Other
+4150,Other
+5546,Other
+5318,Other
+6589,Other
+7528,AMI
+8048,"Heart Failure"
+11355,COPD
+12299,Pnuemonia
+12415,"Heart Failure"
+12562,"Heart Failure"
+7155,Other
+5670,COPD
+4042,Other
+5695,Pnuemonia
+5990,"Heart Failure"
+7505,Stroke
+1346,Other
+1934,Other
+3970,Stroke
+3386,COPD
+8435,COPD
+9775,Pnuemonia
+6711,Other
+7593,Stroke
+8791,Pnuemonia
+8478,Other
+10161,COPD
+1507,Other
+2584,Stroke
+3256,Other
+5077,"Heart Failure"
+5763,"Heart Failure"
+6459,Other
+7628,Stroke
+10604,AMI
+11632,AMI
+12350,Pnuemonia
+12622,Other
+4360,Other
+4579,COPD
+5346,Other
+7690,Stroke
+751,COPD
+11171,Other
+11974,AMI
+12285,Other
+6506,"Heart Failure"
+8162,Other
+9056,Stroke
+9969,"Heart Failure"
+1898,"Heart Failure"
+2823,AMI
+1073,Other
+2806,Other
+4398,"Heart Failure"
+5897,COPD
+5781,Other
+5804,Other
+7161,Pnuemonia
+8959,Other
+525,COPD
+2129,"Heart Failure"
+11425,Stroke
+11805,Stroke
+10434,AMI
+11832,Other
+12411,"Heart Failure"
+4668,Other
+5571,Pnuemonia
+718,Pnuemonia
+1252,Other
+2388,"Heart Failure"
+9403,Pnuemonia
+5112,Pnuemonia
+6879,Other
+8276,"Heart Failure"
+10244,COPD
+7924,Stroke
+8640,Other
+10418,Other
+5257,Other
+5487,AMI
+6832,"Heart Failure"
+7160,"Heart Failure"
+2298,Other
+9434,Stroke
+10451,Other
+11733,Other
+12017,COPD
+11257,"Heart Failure"
+12142,Other
+1943,COPD
+5789,AMI
+7788,"Heart Failure"
+3672,Other
+10541,"Heart Failure"
+11732,"Heart Failure"
+12336,AMI
+12477,Other
+5247,Other
+5669,Stroke
+6225,Pnuemonia
+8098,AMI
+10035,COPD
+9828,Stroke
+10432,Stroke
+10761,Other
+2343,Other
+3864,COPD
+5018,COPD
+8873,Stroke
+10256,"Heart Failure"
+4077,"Heart Failure"
+6062,Other
+7463,COPD
+8253,Other
+10690,Stroke
+11226,Other
+11947,Other
+12462,AMI
+5242,"Heart Failure"
+6920,Stroke
+7273,COPD
+8868,AMI
+9254,COPD
+9517,AMI
+10603,Other
+2401,Other
+2596,"Heart Failure"
+4412,Pnuemonia
+6239,Other
+6971,Pnuemonia
+11511,COPD
+12213,COPD
+12494,Other
+12544,"Heart Failure"
+4998,Pnuemonia
+6508,Pnuemonia
+967,Other
+2405,Other
+4121,Stroke
+6034,Other
+5622,Other
+3194,Other
+4714,Other
+6654,Other
+7360,Other
+5805,Pnuemonia
+5685,Stroke
+7171,COPD
+9150,Other
+10193,AMI
+4580,"Heart Failure"
+5934,AMI
+2909,Other
+3385,AMI
+4796,Pnuemonia
+1359,Other
+3056,Other
+3572,AMI
+4564,Stroke
+7687,Other
+6059,COPD
+8097,Other
+9217,"Heart Failure"
+10896,Other
+1828,Other
+2059,Stroke
+8697,Other
+10594,Pnuemonia
+206,"Heart Failure"
+707,AMI
+1897,Other
+8294,COPD
+8960,COPD
+7780,COPD
+8029,Other
+8962,Other
+9145,Other
+11050,"Heart Failure"
+3705,COPD
+4440,"Heart Failure"
+4755,"Heart Failure"
+6631,"Heart Failure"
+7247,"Heart Failure"
+7943,Other
+9484,AMI
+10579,AMI
+9255,COPD
+9898,COPD
+10348,AMI
+11810,COPD
+11262,Other
+12076,COPD
+12414,COPD
+12545,COPD
+5084,Pnuemonia
+5852,Stroke
+7298,Stroke
+8730,Other
+169,COPD
+299,AMI
+717,Other
+1520,COPD
+5166,Other
+6479,"Heart Failure"
+6289,Other
+9911,Pnuemonia
+10928,COPD
+11886,Pnuemonia
+12407,Other
+9981,"Heart Failure"
+11785,Pnuemonia
+12035,"Heart Failure"
+4377,"Heart Failure"
+5488,Pnuemonia
+5450,"Heart Failure"
+6727,COPD
+7606,"Heart Failure"
+4604,Other
+6090,Other
+8196,Other
+8009,COPD
+3995,Other
+7117,Other
+1018,COPD
+1371,AMI
+4758,Stroke
+4984,Stroke
+6655,Other
+11114,COPD
+11498,"Heart Failure"
+11970,AMI
+12535,Pnuemonia
+3114,Other
+4376,Pnuemonia
+6018,Other
+7607,Stroke
+8467,Stroke
+9948,Stroke
+11223,COPD
+7054,Other
+9663,COPD
+11565,Other
+9669,Stroke
+9751,Stroke
+3619,Other
+5391,COPD
+5656,COPD
+2846,Other
+3339,"Heart Failure"
+7945,"Heart Failure"
+8698,Pnuemonia
+10273,COPD
+8468,"Heart Failure"
+9449,Stroke
+9941,Other
+10450,AMI
+165,Pnuemonia
+588,"Heart Failure"
+352,"Heart Failure"
+963,AMI
+2670,Other
+4690,Other
+6790,COPD
+7374,Other
+8123,Other
+10535,Stroke
+12110,Other
+12480,"Heart Failure"
+12617,Pnuemonia
+11497,COPD
+11889,"Heart Failure"
+12430,AMI
+12548,"Heart Failure"
+8317,AMI
+10176,"Heart Failure"
+11564,Other
+4311,Other
+4884,"Heart Failure"
+6587,Pnuemonia
+563,Pnuemonia
+1047,Other
+1896,Pnuemonia
+6829,Other
+8451,AMI
+9942,AMI
+11445,Pnuemonia
+4420,Pnuemonia
+5610,Other
+6946,"Heart Failure"
+7897,COPD
+7629,"Heart Failure"
+9649,Pnuemonia
+10274,Other
+11961,Stroke
+10308,Stroke
+12040,Other
+12341,"Heart Failure"
+12633,AMI
+219,COPD
+1096,Stroke
+8945,"Heart Failure"
+10208,Other
+10890,Other
+2525,"Heart Failure"
+4033,"Heart Failure"
+6159,Other
+7796,COPD
+3558,Other
+4723,Other
+939,Pnuemonia
+2035,Stroke
+4078,"Heart Failure"
+5518,"Heart Failure"
+5991,COPD
+6315,Pnuemonia
+7447,Stroke
+7782,Stroke
+8906,COPD
+9695,COPD
+1169,Pnuemonia
+426,"Heart Failure"
+9929,Other
+10565,Other
+11081,Stroke
+6639,"Heart Failure"
+1914,Stroke
+2765,COPD
+4581,"Heart Failure"
+10435,"Heart Failure"
+11745,"Heart Failure"
+921,AMI
+4658,Stroke
+2052,AMI
+2573,Other
+4299,COPD
+2061,Other
+53,"Heart Failure"
+477,Stroke
+9046,Other
+10281,Other
+11904,Other
+12460,"Heart Failure"
+12650,Other
+7420,Pnuemonia
+1068,"Heart Failure"
+2434,Pnuemonia
+4076,Other
+4387,Other
+6316,Other
+7837,Pnuemonia
+9640,Other
+3199,COPD
+4821,Stroke
+6850,Stroke
+8683,COPD
+6254,"Heart Failure"
+6847,Stroke
+7417,Stroke
+8800,AMI
+6903,"Heart Failure"
+8815,"Heart Failure"
+4219,Pnuemonia
+2012,"Heart Failure"
+4051,"Heart Failure"
+6156,AMI
+9567,Other
+10975,Other
+1462,Other
+1913,COPD
+3685,Other
+4749,Pnuemonia
+6170,Pnuemonia
+4911,Other
+6902,Pnuemonia
+8927,COPD
+10876,Other
+1866,Other
+3320,Other
+4977,AMI
+5290,AMI
+6063,"Heart Failure"
+6104,Pnuemonia
+11423,"Heart Failure"
+12337,Other
+12507,Pnuemonia
+12636,COPD
+2553,Other
+4669,Pnuemonia
+5697,Pnuemonia
+11224,Pnuemonia
+11734,"Heart Failure"
+12297,Other
+12533,Pnuemonia
+7170,Other
+7813,Pnuemonia
+2315,Other
+3831,Pnuemonia
+4879,COPD
+7001,Other
+5992,"Heart Failure"
+7814,Other
+8387,Pnuemonia
+7522,Other
+7959,Stroke
+8788,Other
+8292,Other
+9400,Other
+10376,COPD
+239,"Heart Failure"
+733,COPD
+6476,Other
+5094,AMI
+7181,Other
+7580,"Heart Failure"
+10322,"Heart Failure"
+11300,Pnuemonia
+11874,"Heart Failure"
+2444,Pnuemonia
+8977,Stroke
+10040,Other
+10595,"Heart Failure"
+12151,COPD
+6489,AMI
+7520,Pnuemonia
+3285,"Heart Failure"
+5139,Other
+6866,Pnuemonia
+8377,Other
+8976,"Heart Failure"
+10772,"Heart Failure"
+6665,Stroke
+7310,Other
+7947,Other
+10055,Pnuemonia
+7419,Other
+7984,Other
+8570,COPD
+9548,Pnuemonia
+10936,Pnuemonia
+7183,Stroke
+7650,"Heart Failure"
+9507,COPD
+10574,COPD
+9486,COPD
+10175,Other
+10368,Other
+6750,Pnuemonia
+8395,Other
+9034,AMI
+9892,Pnuemonia
+10309,AMI
+11654,COPD
+7000,Other
+8948,COPD
+9721,Pnuemonia
+11707,Other
+2733,COPD
+4381,Other
+5580,Other
+6103,"Heart Failure"
+6155,Other
+7289,COPD
+8150,Other
+8568,COPD
+9465,Stroke
+10412,Other
+494,Other
+1305,"Heart Failure"
+1865,COPD
+3550,COPD
+2554,Other
+4491,Other
+5616,"Heart Failure"
+6258,AMI
+8319,"Heart Failure"
+1229,"Heart Failure"
+825,Pnuemonia
+5633,COPD
+7372,"Heart Failure"
+8760,COPD
+11152,COPD
+11669,"Heart Failure"
+12447,AMI
+12621,COPD
+5517,"Heart Failure"
+6892,Pnuemonia
+8149,Other
+9475,Pnuemonia
+10441,COPD
+11446,Other
+11888,Pnuemonia
+12095,Stroke
+9371,COPD
+10411,"Heart Failure"
+2081,COPD
+2326,COPD
+9301,Other
+11157,"Heart Failure"
+4896,COPD
+5308,Stroke
+7182,"Heart Failure"
+8856,Other
+9075,Other
+10596,Stroke
+10830,COPD
+11706,Other
+8311,Stroke
+3122,Stroke
+4334,Pnuemonia
+5621,Pnuemonia
+697,COPD
+1254,"Heart Failure"
+2704,"Heart Failure"
+3940,Stroke
+11030,Other
+12188,COPD
+905,Other
+11080,Other
+11839,AMI
+9761,AMI
+11301,Stroke
+11986,Pnuemonia
+12451,"Heart Failure"
+8030,Other
+8397,"Heart Failure"
+11258,Other
+11088,Other
+12016,Pnuemonia
+12574,COPD
+12655,COPD
+9048,Pnuemonia
+10367,"Heart Failure"
+11670,"Heart Failure"
+3436,Other
+3716,Other
+8882,"Heart Failure"
+9788,Pnuemonia
+10173,Other
+11130,COPD
+66,Pnuemonia
+610,"Heart Failure"
+5593,COPD
+6158,Stroke
+6690,Pnuemonia
+8641,Pnuemonia
+4570,AMI
+4852,Pnuemonia
+6353,Stroke
+8504,"Heart Failure"
+7352,Other
+9022,Stroke
+7342,COPD
+6205,AMI
+9266,AMI
+11345,Other
+11641,Other
+10764,COPD
+655,Other
+1008,AMI
+1757,Pnuemonia
+1832,"Heart Failure"
+2796,Other
+3171,Pnuemonia
+109,"Heart Failure"
+340,AMI
+10089,Other
+11786,COPD
+12226,Other
+12384,Stroke
+5926,COPD
+10467,COPD
+11968,Stroke
+12565,Other
+1706,AMI
+2341,COPD
+4248,COPD
+4498,Other
+320,Other
+528,Pnuemonia
+950,Other
+9294,COPD
+11061,Pnuemonia
+12064,Pnuemonia
+10380,Stroke
+2649,Other
+3585,Other
+3972,Stroke
+4748,"Heart Failure"
+5960,Other
+895,Other
+1067,Other
+2714,COPD
+4426,"Heart Failure"
+10819,COPD
+11890,Other
+12047,Other
+2669,Other
+4693,Other
+6073,Other
+6676,AMI
+5051,"Heart Failure"
+5879,Pnuemonia
+553,Stroke
+10125,AMI
+856,Other
+1476,Other
+4556,Pnuemonia
+6592,Stroke
+8043,AMI
+9162,Other
+7324,Other
+8958,Stroke
+9453,"Heart Failure"
+8275,Other
+10334,AMI
+10814,COPD
+4138,AMI
+5216,AMI
+6271,Other
+7053,AMI
+8265,Pnuemonia
+1020,Other
+2011,Other
+2871,"Heart Failure"
+4079,"Heart Failure"
+5741,AMI
+7296,"Heart Failure"
+564,"Heart Failure"
+1461,COPD
+5000,Other
+6168,Other
+8228,"Heart Failure"
+3971,COPD
+4836,COPD
+6355,Stroke
+6638,"Heart Failure"
+10889,Other
+12051,Stroke
+155,Pnuemonia
+3503,Other
+4851,"Heart Failure"
+5619,AMI
+4413,Other
+4920,AMI
+5330,Stroke
+6575,"Heart Failure"
+10875,COPD
+11781,Other
+11923,Pnuemonia
+12525,"Heart Failure"
+9709,Other
+11562,COPD
+11853,Pnuemonia
+567,Stroke
+1705,Stroke
+3410,Other
+7523,"Heart Failure"
+5696,COPD
+6368,Other
+7154,Other
+11225,Pnuemonia
+3341,"Heart Failure"
+4080,Stroke
+5632,AMI
+6617,COPD
+3863,Other
+1372,"Heart Failure"
+2908,AMI
+4557,Other
+6330,Stroke
+752,Stroke
+1184,Pnuemonia
+1593,Other
+2432,"Heart Failure"
+9611,COPD
+11577,AMI
+4572,"Heart Failure"
+6640,AMI
+8389,Other
+9940,AMI
+7235,AMI
+7579,"Heart Failure"
+8984,"Heart Failure"
+10987,"Heart Failure"
+6936,Stroke
+8140,Other
+10112,Other
+6367,Other
+7478,Pnuemonia
+8440,"Heart Failure"
+95,AMI
+8836,Pnuemonia
+10765,Stroke
+1940,"Heart Failure"
+4012,"Heart Failure"
+4944,Other
+775,Stroke
+1319,COPD
+2097,Other
+3750,Other
+5976,AMI
+7244,Other
+8040,COPD
+8396,AMI
+353,Pnuemonia
+8546,Pnuemonia
+10440,"Heart Failure"
+11817,"Heart Failure"
+1543,AMI
+2541,Other
+4692,Pnuemonia
+1640,Stroke
+2037,Pnuemonia
+3196,"Heart Failure"
+4691,AMI
+9910,Pnuemonia
+2999,COPD
+957,AMI
+2673,Other
+3393,Pnuemonia
+10276,Stroke
+16,Other
+298,COPD
+792,"Heart Failure"
+9742,Other
+10356,Other
+933,"Heart Failure"
+801,"Heart Failure"
+2041,Other
+3880,Other
+5732,Other
+2022,Other
+3830,Stroke
+1216,AMI
+3135,COPD
+7208,"Heart Failure"
+7795,Other
+113,Other
+630,COPD
+70,"Heart Failure"
+965,"Heart Failure"
+1304,AMI
+8872,Other
+10633,Stroke
+11059,AMI
+1880,Other
+3263,"Heart Failure"
+4405,Other
+6438,Other
+2935,COPD
+4825,COPD
+6713,Other
+7092,Other
+1215,COPD
+2936,Stroke
+255,COPD
+386,Other
+542,Stroke
+1278,"Heart Failure"
+8256,Other
+9277,Pnuemonia
+10222,Other
+11922,Pnuemonia
+5452,COPD
+8303,AMI
+4850,Pnuemonia
+5611,Other
+8729,AMI
+5300,AMI
+659,Other
+947,Other
+1188,Stroke
+1947,"Heart Failure"
+5188,Other
+5419,Other
+6166,Stroke
+10812,Pnuemonia
+11154,Other
+11967,Other
+12421,COPD
+207,Other
+987,Pnuemonia
+2111,Stroke
+8790,Other
+10190,"Heart Failure"
+9875,Other
+11048,AMI
+5392,Other
+5898,COPD
+4613,AMI
+6180,Stroke
+6460,COPD
+11047,"Heart Failure"
+308,COPD
+1041,AMI
+2766,Other
+4867,"Heart Failure"
+3905,Other
+7526,Pnuemonia
+8125,"Heart Failure"
+8470,Other
+9228,COPD
+5015,Stroke
+10391,COPD
+11107,Other
+385,"Heart Failure"
+1724,AMI
+435,Pnuemonia
+607,Pnuemonia
+1515,Other
+6495,Other
+8157,Other
+8870,AMI
+9476,Pnuemonia
+335,Other
+1236,AMI
+2327,"Heart Failure"
+2695,Pnuemonia
+2325,Pnuemonia
+4106,Other
+6820,"Heart Failure"
+7343,AMI
+5747,Other
+7867,"Heart Failure"
+2955,COPD
+11457,"Heart Failure"
+11803,Pnuemonia
+12506,Other
+12614,AMI
+5514,Pnuemonia
+7563,"Heart Failure"
+9219,Pnuemonia
+9763,Other
+4558,Stroke
+6461,Other
+8469,Pnuemonia
+568,AMI
+743,Other
+7732,COPD
+8895,"Heart Failure"
+9673,"Heart Failure"
+10766,COPD
+11578,"Heart Failure"
+7075,Other
+8222,Stroke
+9920,Other
+11539,COPD
+8600,COPD
+7985,"Heart Failure"
+1630,"Heart Failure"
+3054,Other
+5067,"Heart Failure"
+4528,"Heart Failure"
+5369,Pnuemonia
+5572,Other
+7264,"Heart Failure"
+1780,COPD
+2050,COPD
+2413,"Heart Failure"
+2654,Other
+3123,COPD
+4310,Pnuemonia
+5472,AMI
+4555,"Heart Failure"
+5513,Stroke
+7288,Other
+4094,AMI
+534,Other
+1641,"Heart Failure"
+3195,COPD
+4242,Other
+4419,Stroke
+5159,Stroke
+7263,Other
+7266,AMI
+3557,AMI
+5368,Other
+7434,Pnuemonia
+1003,Other
+1168,Other
+10555,"Heart Failure"
+10921,Pnuemonia
+345,"Heart Failure"
+1154,"Heart Failure"
+1357,Other
+9394,Other
+9839,Stroke
+11327,Pnuemonia
+12365,"Heart Failure"
+524,Other
+1066,COPD
+1425,Stroke
+2112,COPD
+546,"Heart Failure"
+1144,Pnuemonia
+1796,COPD
+8221,Pnuemonia
+9147,"Heart Failure"
+9744,Other
+10746,"Heart Failure"
+12176,Other
+5870,Pnuemonia
+7765,Pnuemonia
+9641,"Heart Failure"
+6226,Pnuemonia
+7946,AMI
+8523,"Heart Failure"
+5925,Other
+3015,Other
+5048,COPD
+753,Pnuemonia
+3297,"Heart Failure"
+5210,COPD
+5746,Other
+6957,Other
+7267,Pnuemonia
+9111,"Heart Failure"
+10488,COPD
+8363,Other
+10357,Other
+9891,"Heart Failure"
+7987,Pnuemonia
+11100,"Heart Failure"
+11448,"Heart Failure"
+12413,Other
+6403,AMI
+3277,Pnuemonia
+6134,Stroke
+1608,AMI
+1933,"Heart Failure"
+3073,Other
+7141,"Heart Failure"
+1736,Stroke
+2073,COPD
+654,"Heart Failure"
+9568,Pnuemonia
+11371,"Heart Failure"
+11880,Other
+3463,Other
+4828,Other
+6301,Pnuemonia
+8506,"Heart Failure"
+10612,Other
+12086,Other
+12503,Stroke
+6091,COPD
+6603,COPD
+9082,Other
+9565,Pnuemonia
+10034,Other
+11187,AMI
+12034,"Heart Failure"
+12534,Other
+9227,Other
+11188,Other
+12160,Stroke
+6566,Other
+7416,Other
+6954,COPD
+8774,Other
+10611,Other
+11891,COPD
+115,Other
+274,Pnuemonia
+10613,Other
+9355,Other
+2207,Pnuemonia
+2847,Pnuemonia
+1284,COPD
+7746,Pnuemonia
+8247,Other
+2731,Pnuemonia
+3956,"Heart Failure"
+5138,"Heart Failure"
+6017,Pnuemonia
+3134,Other
+4703,COPD
+5438,"Heart Failure"
+29,Other
+839,"Heart Failure"
+1918,COPD
+2834,Other
+9909,Pnuemonia
+11222,AMI
+6002,AMI
+6973,Stroke
+8956,Other
+9989,COPD
+3893,Other
+4288,Other
+6201,Pnuemonia
+8172,"Heart Failure"
+911,Stroke
+2353,COPD
+3993,Other
+4647,"Heart Failure"
+6819,COPD
+7433,"Heart Failure"
+142,COPD
+641,"Heart Failure"
+2089,Pnuemonia
+8304,AMI
+8592,Other
+10194,"Heart Failure"
+11848,Stroke
+1631,Pnuemonia
+2175,Pnuemonia
+3968,"Heart Failure"
+4639,Other
+4149,Other
+5016,COPD
+5717,COPD
+7245,Other
+3143,Pnuemonia
+3500,Stroke
+4641,"Heart Failure"
+8006,"Heart Failure"
+10077,Stroke
+10275,Other
+10704,Other
+8720,Other
+6016,"Heart Failure"
+7503,"Heart Failure"
+9392,"Heart Failure"
+458,Other
+256,"Heart Failure"
+1049,Other
+1854,Pnuemonia
+3591,Other
+1052,Other
+1735,AMI
+6619,"Heart Failure"
+8429,COPD
+10191,COPD
+10674,Other
+7361,COPD
+2283,Pnuemonia
+3623,"Heart Failure"
+7219,"Heart Failure"
+8975,Stroke
+9549,COPD
+10715,Pnuemonia
+4945,AMI
+6352,AMI
+4395,Other
+4627,Other
+5379,"Heart Failure"
+2296,"Heart Failure"
+4309,Pnuemonia
+5916,AMI
+8421,Other
+9132,COPD
+9346,Pnuemonia
+11436,COPD
+684,COPD
+2160,COPD
+2705,Pnuemonia
+4512,Other
+4269,Other
+6312,Stroke
+2403,Pnuemonia
+7440,AMI
+9553,"Heart Failure"
+11602,"Heart Failure"
+12143,Other
+4959,Stroke
+6797,Stroke
+8947,Other
+10303,Other
+7277,COPD
+8599,Pnuemonia
+217,Other
+501,Other
+1956,Pnuemonia
+2756,Other
+3822,COPD
+4912,Pnuemonia
+6290,"Heart Failure"
+7847,Other
+6395,Pnuemonia
+36,AMI
+2639,Pnuemonia
+3338,"Heart Failure"
+5389,Other
+6972,Pnuemonia
+1583,"Heart Failure"
+2042,Pnuemonia
+2787,"Heart Failure"
+875,Other
+2238,Other
+2062,Other
+2990,COPD
+35,Pnuemonia
+436,Other
+1911,"Heart Failure"
+2671,"Heart Failure"
+8318,COPD
+8759,Other
+1228,"Heart Failure"
+2717,Other
+3003,"Heart Failure"
+3625,Other
+4976,"Heart Failure"
+7750,Other
+9450,Other
+10714,"Heart Failure"
+5141,Other
+7142,Pnuemonia
+7931,Stroke
+8943,Other
+9414,Other
+9706,AMI
+9064,AMI
+375,COPD
+529,"Heart Failure"
+9790,Pnuemonia
+9996,Stroke
+195,Other
+1452,Stroke
+3164,Stroke
+85,COPD
+1159,"Heart Failure"
+2956,Other
+3932,COPD
+10536,Other
+9791,"Heart Failure"
+10641,COPD
+11680,Pnuemonia
+12292,Pnuemonia
+6110,COPD
+7321,Stroke
+7729,AMI
+8779,"Heart Failure"
+6079,Stroke
+7916,Other
+8816,Other
+7829,Stroke
+9555,COPD
+4120,Other
+5762,Other
+7833,AMI
+698,COPD
+1192,Pnuemonia
+1669,Stroke
+94,AMI
+2953,Pnuemonia
+9012,Other
+9779,"Heart Failure"
+6620,Other
+9399,"Heart Failure"
+10707,"Heart Failure"
+11665,Other
+12077,Other
+10519,Other
+11942,Other
+12440,COPD
+12543,Other
+484,AMI
+1726,"Heart Failure"
+2606,Other
+9554,"Heart Failure"
+1941,Other
+6272,Other
+5432,Pnuemonia
+3828,"Heart Failure"
+5248,Other
+5936,Other
+7256,COPD
+2759,Pnuemonia
+4731,Pnuemonia
+3128,AMI
+4757,Other
+5948,Other
+6341,Other
+3062,"Heart Failure"
+5038,Pnuemonia
+1153,COPD
+2641,"Heart Failure"
+5269,Pnuemonia
+7340,Other
+8368,Other
+683,Other
+1506,"Heart Failure"
+1807,Other
+3340,"Heart Failure"
+5268,Other
+6874,Pnuemonia
+8364,Other
+10038,COPD
+10337,AMI
+11938,Other
+12370,Other
+12551,Other
+3251,Stroke
+3618,AMI
+4465,COPD
+5525,Other
+8078,Pnuemonia
+9921,Other
+10293,COPD
+9236,Other
+9743,Other
+11648,"Heart Failure"
+9183,COPD
+9671,Pnuemonia
+10675,Other
+11561,"Heart Failure"
+1856,"Heart Failure"
+2732,Stroke
+949,COPD
+1445,Other
+6423,Other
+7489,Other
+8350,COPD
+8481,COPD
+10220,Pnuemonia
+10732,Stroke
+11809,Other
+7133,Other
+8709,Other
+10259,Other
+1247,Other
+1544,"Heart Failure"
+2768,COPD
+8654,COPD
+10200,"Heart Failure"
+11771,Other
+12009,Other
+5062,Other
+6184,Pnuemonia
+8028,Pnuemonia
+9295,"Heart Failure"
+8412,Other
+8926,COPD
+10708,"Heart Failure"
+8472,"Heart Failure"
+10092,Stroke
+10869,Stroke
+12053,Other
+4493,"Heart Failure"
+5498,Stroke
+5896,COPD
+7926,Other
+10564,Pnuemonia
+10913,"Heart Failure"
+5977,Stroke
+8008,Stroke
+6846,Other
+8757,Pnuemonia
+9391,"Heart Failure"
+6691,"Heart Failure"
+9832,AMI
+10091,Stroke
+11384,Pnuemonia
+11580,Other
+6735,Stroke
+988,AMI
+2442,COPD
+2723,Other
+351,Other
+1725,Stroke
+4396,Pnuemonia
+2650,Other
+3941,Other
+5516,Other
+2314,Stroke
+2686,Other
+3556,"Heart Failure"
+3874,Other
+283,"Heart Failure"
+609,Pnuemonia
+2121,AMI
+3867,Pnuemonia
+5237,Stroke
+2767,Other
+3684,"Heart Failure"
+4735,"Heart Failure"
+6169,Pnuemonia
+4542,Pnuemonia
+287,Other
+459,"Heart Failure"
+9395,Other
+11356,COPD
+12212,Stroke
+414,Pnuemonia
+9829,Other
+11041,AMI
+11705,Other
+9696,COPD
+6588,COPD
+7116,Stroke
+5229,Other
+6446,Other
+4676,Pnuemonia
+5221,Other
+5840,Pnuemonia
+8896,"Heart Failure"
+10442,Other
+10796,Other
+11060,Pnuemonia
+10217,"Heart Failure"
+11924,Other
+4509,"Heart Failure"
+9127,Other
+11124,AMI
+11777,Stroke
+7082,"Heart Failure"
+2907,Other
+3115,COPD
+3992,Other
+4838,Other
+5907,Pnuemonia
+6835,Other
+7828,"Heart Failure"
+989,Pnuemonia
+1919,COPD
+314,Pnuemonia
+452,Other
+631,"Heart Failure"
+906,Stroke
+615,"Heart Failure"
+1251,Pnuemonia
+2991,AMI
+10255,Stroke
+11912,AMI
+12327,Other
+3170,"Heart Failure"
+7896,Other
+5198,Stroke
+6574,"Heart Failure"
+6796,Stroke
+1193,Pnuemonia
+2905,Other
+3551,Stroke
+5230,Pnuemonia
+1980,COPD
+2672,Other
+3951,"Heart Failure"
+4362,COPD
+5199,Pnuemonia
+6795,"Heart Failure"
+4371,Pnuemonia
+4947,AMI
+5434,Other
+5937,"Heart Failure"
+5409,Other
+6714,"Heart Failure"
+7811,Pnuemonia
+8312,Stroke
+1072,COPD
+2365,Other
+3535,Stroke
+2399,Stroke
+3144,Pnuemonia
+3980,AMI
+3113,Stroke
+4105,"Heart Failure"
+6369,"Heart Failure"
+8164,"Heart Failure"
+8869,Pnuemonia
+10260,AMI
+11309,AMI
+7020,"Heart Failure"
+336,"Heart Failure"
+910,Pnuemonia
+533,COPD
+7441,Pnuemonia
+2419,Other
+2648,Pnuemonia
+8027,AMI
+9959,Other
+7140,Stroke
+7797,Other
+9919,"Heart Failure"
+11397,"Heart Failure"
+10339,Other
+11693,Pnuemonia
+9960,COPD
+3063,Stroke
+6182,Other
+7091,AMI
+909,Pnuemonia
+2184,COPD
+3255,"Heart Failure"
+11097,"Heart Failure"
+7699,Other
+8378,Pnuemonia
+3774,Other
+6335,Pnuemonia
+7766,"Heart Failure"
+8721,COPD
+9590,"Heart Failure"
+10741,AMI
+11424,Other
+2747,"Heart Failure"
+3580,Pnuemonia
+5150,COPD
+6668,Other
+8897,"Heart Failure"
+9164,Pnuemonia
+10691,Other
+11768,"Heart Failure"
+9163,Other
+11094,AMI
+11621,AMI
+11997,"Heart Failure"
+7319,Pnuemonia
+9350,Other
+9811,"Heart Failure"
+8215,"Heart Failure"
+7515,"Heart Failure"
+9382,"Heart Failure"
+5460,"Heart Failure"
+6950,Pnuemonia
+7525,AMI
+7954,"Heart Failure"
+6993,Pnuemonia
+4197,COPD
+4716,"Heart Failure"
+6624,COPD
+7105,"Heart Failure"
+3387,Pnuemonia
+3789,Other
+4430,Other
+3398,Pnuemonia
+3701,"Heart Failure"
+1279,"Heart Failure"
+1621,AMI
+2643,Other
+3668,"Heart Failure"
+10838,Other
+11787,Other
+4951,Other
+6223,Other
+1756,"Heart Failure"
+2323,AMI
+878,"Heart Failure"
+1830,Pnuemonia
+3084,Pnuemonia
+3776,Other
+416,COPD
+1636,Pnuemonia
+2748,COPD
+9557,Other
+11229,"Heart Failure"
+11983,"Heart Failure"
+12391,Other
+582,Other
+1442,AMI
+2658,"Heart Failure"
+8626,Other
+10203,AMI
+9439,Other
+10083,Other
+10311,"Heart Failure"
+172,"Heart Failure"
+3094,COPD
+5009,Other
+8561,Stroke
+10036,COPD
+811,"Heart Failure"
+2246,Other
+2475,Stroke
+3945,AMI
+3582,Stroke
+5420,COPD
+7500,Stroke
+8055,"Heart Failure"
+1098,Pnuemonia
+2257,Pnuemonia
+3761,Other
+9388,COPD
+8634,"Heart Failure"
+9733,Pnuemonia
+9116,"Heart Failure"
+10166,Pnuemonia
+11763,Other
+12443,Other
+1124,"Heart Failure"
+4353,Other
+5584,Other
+6969,Other
+4011,Other
+7395,"Heart Failure"
+8235,COPD
+10182,Other
+11830,Pnuemonia
+1869,Pnuemonia
+2915,Other
+4428,"Heart Failure"
+4865,COPD
+5833,Other
+2430,Pnuemonia
+2713,Other
+8347,Stroke
+8672,Other
+9596,AMI
+10682,Pnuemonia
+4495,"Heart Failure"
+5754,"Heart Failure"
+7677,Other
+7874,"Heart Failure"
+5562,COPD
+6836,Stroke
+8326,"Heart Failure"
+8676,"Heart Failure"
+2749,Pnuemonia
+3648,Other
+5241,Other
+5793,Other
+9106,"Heart Failure"
+10015,Pnuemonia
+11344,Pnuemonia
+11958,Stroke
+4752,Pnuemonia
+9440,"Heart Failure"
+10800,COPD
+11978,"Heart Failure"
+3461,Other
+10837,COPD
+12240,AMI
+12509,COPD
+11313,Other
+11710,Other
+11905,Other
+4666,Pnuemonia
+5305,"Heart Failure"
+2394,Stroke
+2882,Other
+3641,Stroke
+4790,AMI
+5468,Other
+11076,Other
+12187,Pnuemonia
+9209,Other
+11322,AMI
+11953,"Heart Failure"
+12474,"Heart Failure"
+9008,Pnuemonia
+9248,Other
+888,Other
+2030,COPD
+3480,Other
+5387,Other
+2007,Stroke
+4030,Other
+6933,"Heart Failure"
+7202,"Heart Failure"
+9108,COPD
+10887,Other
+9982,Other
+10805,AMI
+12235,Pnuemonia
+5836,Other
+6519,Other
+8005,COPD
+603,AMI
+1658,Stroke
+2537,"Heart Failure"
+9581,COPD
+9651,COPD
+11092,Other
+12305,Other
+12558,Pnuemonia
+2429,AMI
+3654,Pnuemonia
+8511,Pnuemonia
+9972,Other
+11535,COPD
+11651,Other
+2289,Other
+3790,AMI
+5376,"Heart Failure"
+10332,Pnuemonia
+10618,Other
+11375,"Heart Failure"
+11783,AMI
+952,Stroke
+4354,Pnuemonia
+10820,Other
+1712,Other
+2294,Other
+2515,COPD
+2802,Pnuemonia
+4522,Other
+5888,Other
+6845,Other
+3250,Stroke
+4550,"Heart Failure"
+5440,COPD
+6433,Other
+120,COPD
+333,AMI
+789,COPD
+258,AMI
+5163,AMI
+5630,Other
+6583,COPD
+1850,Stroke
+2659,Other
+11459,Stroke
+12315,Other
+3562,Stroke
+4538,Other
+5388,Stroke
+7017,COPD
+126,AMI
+981,Other
+10636,COPD
+11794,Pnuemonia
+9501,Pnuemonia
+7060,Other
+8891,Other
+10110,"Heart Failure"
+10680,Stroke
+10903,Pnuemonia
+877,Pnuemonia
+2682,AMI
+3850,Pnuemonia
+5966,"Heart Failure"
+2446,"Heart Failure"
+9361,COPD
+10710,Other
+11125,COPD
+11952,"Heart Failure"
+7661,Stroke
+8054,"Heart Failure"
+889,"Heart Failure"
+2113,Other
+3563,Other
+4806,Other
+7778,"Heart Failure"
+8423,Other
+10265,Other
+11176,Other
+4488,Other
+5753,"Heart Failure"
+6359,Pnuemonia
+7043,"Heart Failure"
+23,COPD
+424,COPD
+1414,Other
+2071,Pnuemonia
+3771,Pnuemonia
+4463,"Heart Failure"
+9438,Pnuemonia
+5756,COPD
+8075,Other
+8589,COPD
+5475,"Heart Failure"
+6756,"Heart Failure"
+7597,Pnuemonia
+666,"Heart Failure"
+1602,Other
+1852,Pnuemonia
+3827,Pnuemonia
+2462,"Heart Failure"
+3686,Stroke
+4584,"Heart Failure"
+2631,AMI
+3743,Other
+5306,Stroke
+7252,Pnuemonia
+229,Stroke
+441,Pnuemonia
+916,"Heart Failure"
+4141,Other
+8918,COPD
+10061,AMI
+10991,Stroke
+4603,COPD
+663,Other
+1329,AMI
+1635,COPD
+10331,Other
+11833,Other
+11966,Pnuemonia
+6365,Other
+8346,AMI
+74,Other
+5327,AMI
+1924,Other
+924,"Heart Failure"
+2019,Other
+4265,"Heart Failure"
+4665,Stroke
+6217,"Heart Failure"
+7872,Pnuemonia
+6585,Pnuemonia
+7884,Other
+9821,Other
+11656,COPD
+1915,Other
+2371,AMI
+4386,Other
+4700,Other
+4101,Pnuemonia
+5088,Pnuemonia
+7258,Other
+7779,Other
+9467,"Heart Failure"
+464,Other
+1298,COPD
+11190,Other
+349,Stroke
+778,Other
+2179,"Heart Failure"
+3234,"Heart Failure"
+5449,Stroke
+5851,"Heart Failure"
+5239,Pnuemonia
+11361,Other
+5835,Other
+6291,Other
+7524,Other
+3762,Other
+5543,AMI
+7005,Other
+7760,COPD
+4769,Pnuemonia
+5039,AMI
+6767,Other
+7841,"Heart Failure"
+6855,AMI
+8160,Other
+11273,Other
+11676,Stroke
+12270,"Heart Failure"
+12404,COPD
+2045,Other
+73,Other
+224,Pnuemonia
+8850,Pnuemonia
+9222,Pnuemonia
+3187,Other
+4350,AMI
+8152,AMI
+8748,Pnuemonia
+10075,Other
+11360,Pnuemonia
+6747,Other
+7695,Other
+8675,COPD
+9016,"Heart Failure"
+8636,Other
+9509,Stroke
+9897,"Heart Failure"
+8170,AMI
+10049,Stroke
+3057,"Heart Failure"
+211,COPD
+376,Other
+1814,"Heart Failure"
+5722,Other
+6648,Pnuemonia
+7354,Other
+8662,"Heart Failure"
+9166,Other
+10501,Pnuemonia
+11608,COPD
+1226,COPD
+3124,Pnuemonia
+3753,Pnuemonia
+8747,Stroke
+9985,Stroke
+10517,Stroke
+4702,Other
+5288,Other
+7271,Pnuemonia
+8664,COPD
+7644,"Heart Failure"
+9765,Other
+6806,COPD
+8217,AMI
+8585,Pnuemonia
+9140,Other
+10086,Pnuemonia
+10266,"Heart Failure"
+10627,Pnuemonia
+321,Pnuemonia
+1614,"Heart Failure"
+8702,Pnuemonia
+9156,Other
+10159,Stroke
+4610,"Heart Failure"
+5848,"Heart Failure"
+7891,Other
+9264,Other
+2522,"Heart Failure"
+2837,Pnuemonia
+3370,COPD
+4797,Stroke
+205,Pnuemonia
+740,"Heart Failure"
+1473,"Heart Failure"
+3321,Other
+4374,AMI
+189,Other
+10683,AMI
+11524,Other
+12283,Pnuemonia
+12599,"Heart Failure"
+5325,AMI
+5832,Other
+11378,AMI
+11914,"Heart Failure"
+12138,Other
+12508,Pnuemonia
+5678,"Heart Failure"
+6633,Pnuemonia
+7942,COPD
+2046,Other
+4020,"Heart Failure"
+8394,"Heart Failure"
+9556,COPD
+10972,Other
+12170,"Heart Failure"
+1387,Pnuemonia
+3327,AMI
+4417,Stroke
+5740,COPD
+7437,Pnuemonia
+8763,AMI
+10720,Other
+12001,Other
+9853,Stroke
+3049,COPD
+3326,Pnuemonia
+765,Other
+1773,Other
+3112,Other
+3466,COPD
+4953,Other
+10147,Other
+11198,Other
+12210,"Heart Failure"
+12568,AMI
+8274,COPD
+9023,COPD
+10207,"Heart Failure"
+11584,"Heart Failure"
+3720,AMI
+4889,COPD
+5132,Other
+6522,COPD
+11174,Other
+11835,Other
+12257,Stroke
+12618,Other
+5089,Pnuemonia
+6944,Other
+5108,AMI
+7259,Stroke
+10570,Stroke
+5361,Pnuemonia
+6694,COPD
+7634,"Heart Failure"
+8391,Other
+9010,Other
+10460,"Heart Failure"
+11925,COPD
+12377,COPD
+8076,"Heart Failure"
+8738,COPD
+10371,AMI
+421,Other
+1420,"Heart Failure"
+6420,Other
+7516,"Heart Failure"
+9265,AMI
+10416,Other
+11208,AMI
+12234,Stroke
+5712,COPD
+7276,"Heart Failure"
+2898,Pnuemonia
+4952,COPD
+5919,Pnuemonia
+430,Other
+1538,COPD
+7210,"Heart Failure"
+9291,AMI
+11302,Other
+2706,"Heart Failure"
+3795,AMI
+4767,Other
+6432,Other
+7611,Pnuemonia
+9133,AMI
+4236,Pnuemonia
+7578,Other
+8608,"Heart Failure"
+9930,Other
+10320,COPD
+3275,AMI
+4535,"Heart Failure"
+5023,Other
+190,Pnuemonia
+9916,Other
+3288,Pnuemonia
+3638,"Heart Failure"
+11502,Other
+11944,"Heart Failure"
+12173,Other
+12608,Pnuemonia
+2309,AMI
+3182,"Heart Failure"
+4313,"Heart Failure"
+11261,AMI
+12108,AMI
+10840,"Heart Failure"
+11074,Other
+12287,Pnuemonia
+403,COPD
+6877,Stroke
+3407,"Heart Failure"
+5370,COPD
+6141,Stroke
+9007,"Heart Failure"
+9716,"Heart Failure"
+10127,AMI
+10525,Other
+7449,"Heart Failure"
+9090,Stroke
+10901,Pnuemonia
+11867,Stroke
+12250,Other
+12619,Pnuemonia
+918,Other
+2094,Pnuemonia
+3817,Stroke
+4059,"Heart Failure"
+6492,"Heart Failure"
+7285,COPD
+8226,Pnuemonia
+8764,AMI
+9441,COPD
+11528,AMI
+12367,AMI
+163,Stroke
+388,Other
+1860,COPD
+2770,COPD
+344,AMI
+1364,Other
+2248,Stroke
+8736,Other
+9975,Other
+3439,AMI
+4047,Stroke
+4740,"Heart Failure"
+5429,"Heart Failure"
+3656,Other
+4872,COPD
+6013,COPD
+6455,COPD
+6780,"Heart Failure"
+8534,COPD
+7445,COPD
+9117,Other
+9349,"Heart Failure"
+11373,Other
+10861,"Heart Failure"
+11775,COPD
+12442,Other
+12631,Other
+3526,"Heart Failure"
+5261,Other
+5932,COPD
+8513,Pnuemonia
+6095,Pnuemonia
+8214,Pnuemonia
+5496,Pnuemonia
+7551,Other
+9284,AMI
+11260,Other
+3859,"Heart Failure"
+4366,Stroke
+4839,Other
+7051,Stroke
+8578,Stroke
+10711,"Heart Failure"
+2006,COPD
+2523,Other
+3192,AMI
+4842,"Heart Failure"
+680,Stroke
+1311,"Heart Failure"
+2812,COPD
+8182,Pnuemonia
+9121,Other
+9905,Other
+5123,"Heart Failure"
+5503,AMI
+6304,Pnuemonia
+7965,"Heart Failure"
+3719,Other
+4689,"Heart Failure"
+5378,"Heart Failure"
+5927,Stroke
+6305,AMI
+7883,"Heart Failure"
+2140,Pnuemonia
+2988,COPD
+3249,COPD
+3495,Pnuemonia
+2124,"Heart Failure"
+2900,Stroke
+3554,COPD
+5165,Other
+4452,Other
+4768,AMI
+11482,Other
+2431,Other
+3698,Pnuemonia
+10484,COPD
+5033,Other
+5505,COPD
+758,Other
+1271,"Heart Failure"
+3227,"Heart Failure"
+9677,"Heart Failure"
+11299,COPD
+4537,Stroke
+6614,AMI
+8264,Pnuemonia
+8798,Other
+10252,COPD
+10681,Stroke
+11011,Stroke
+11566,Other
+4436,Other
+5153,COPD
+6551,Other
+481,Pnuemonia
+2025,"Heart Failure"
+3721,AMI
+7481,Other
+8032,COPD
+9274,Pnuemonia
+9570,COPD
+11405,Other
+12380,Other
+2881,"Heart Failure"
+4600,Other
+3225,Other
+4282,Pnuemonia
+332,COPD
+605,"Heart Failure"
+934,Pnuemonia
+2567,Pnuemonia
+5666,Stroke
+7233,Pnuemonia
+9329,Pnuemonia
+10165,Other
+11217,Other
+12104,COPD
+9653,AMI
+10126,Other
+7860,COPD
+9813,Other
+10290,Other
+11918,COPD
+10599,COPD
+11421,Pnuemonia
+6888,Other
+8917,"Heart Failure"
+10740,COPD
+11882,"Heart Failure"
+5256,Other
+6298,COPD
+8240,"Heart Failure"
+9177,Pnuemonia
+745,"Heart Failure"
+1893,"Heart Failure"
+3140,Pnuemonia
+4750,"Heart Failure"
+1482,Other
+3141,Other
+891,"Heart Failure"
+2683,Other
+4338,COPD
+8879,"Heart Failure"
+9974,"Heart Failure"
+117,"Heart Failure"
+5834,Pnuemonia
+7993,"Heart Failure"
+3477,Pnuemonia
+3797,Other
+4592,Pnuemonia
+5465,Other
+9038,COPD
+10886,"Heart Failure"
+11245,"Heart Failure"
+5794,Pnuemonia
+7299,Stroke
+8739,"Heart Failure"
+6542,Pnuemonia
+8345,Other
+9838,Other
+11593,"Heart Failure"
+468,Pnuemonia
+1632,"Heart Failure"
+3349,"Heart Failure"
+4222,Other
+2737,Pnuemonia
+4438,Other
+11523,Pnuemonia
+12228,COPD
+12602,Other
+12664,Stroke
+7955,Other
+5446,Stroke
+8609,"Heart Failure"
+9822,Pnuemonia
+10187,COPD
+10439,AMI
+9283,Other
+11232,"Heart Failure"
+12277,Other
+390,COPD
+658,"Heart Failure"
+1964,Other
+11161,Other
+12157,COPD
+6949,COPD
+8973,Other
+4505,AMI
+7461,Pnuemonia
+9491,Stroke
+9915,Other
+11637,Other
+3185,Stroke
+10017,"Heart Failure"
+8756,Pnuemonia
+9468,Stroke
+11112,Stroke
+11576,"Heart Failure"
+6912,COPD
+8484,"Heart Failure"
+9435,"Heart Failure"
+1296,Pnuemonia
+3153,"Heart Failure"
+3383,Other
+5134,Stroke
+11075,Pnuemonia
+4303,"Heart Failure"
+5702,COPD
+10406,"Heart Failure"
+11895,Other
+12355,Other
+12575,Stroke
+275,Other
+1189,Other
+1379,"Heart Failure"
+764,Pnuemonia
+1722,Other
+3099,Other
+1009,Other
+1434,COPD
+1120,COPD
+1490,Stroke
+3126,Stroke
+4070,"Heart Failure"
+2916,Other
+7825,Pnuemonia
+9627,Other
+3207,"Heart Failure"
+4965,Stroke
+5998,COPD
+10769,Pnuemonia
+11104,"Heart Failure"
+10204,Pnuemonia
+10950,COPD
+9582,Other
+11180,Pnuemonia
+11567,"Heart Failure"
+12254,Other
+2024,Pnuemonia
+2214,"Heart Failure"
+6844,Stroke
+8533,Other
+9197,Stroke
+5779,Pnuemonia
+6161,COPD
+769,"Heart Failure"
+2652,Other
+3111,Other
+5549,"Heart Failure"
+6726,"Heart Failure"
+5180,Other
+5469,Stroke
+6434,Other
+1158,Stroke
+2967,"Heart Failure"
+3986,Other
+4289,Other
+10779,Stroke
+11725,AMI
+1016,"Heart Failure"
+1548,"Heart Failure"
+2739,COPD
+7179,"Heart Failure"
+9080,Stroke
+10438,COPD
+11866,Other
+7981,"Heart Failure"
+9849,"Heart Failure"
+6456,"Heart Failure"
+7653,Other
+9534,Other
+10264,Stroke
+5953,Stroke
+9311,Pnuemonia
+130,Stroke
+1412,"Heart Failure"
+215,Pnuemonia
+1381,Other
+2407,COPD
+6938,Other
+8073,AMI
+9737,Other
+6118,AMI
+7074,Other
+7464,COPD
+8587,Other
+9970,"Heart Failure"
+8577,COPD
+4100,Other
+5955,Stroke
+8060,AMI
+6911,"Heart Failure"
+9122,Pnuemonia
+11096,AMI
+11470,AMI
+5110,COPD
+6799,Other
+7676,Other
+8057,"Heart Failure"
+6739,Pnuemonia
+2474,"Heart Failure"
+4513,"Heart Failure"
+10947,COPD
+11548,Other
+4913,Stroke
+9053,Pnuemonia
+10643,Other
+11751,AMI
+7514,Other
+8776,Other
+10543,Pnuemonia
+2580,Pnuemonia
+4722,Other
+381,Pnuemonia
+303,Stroke
+4375,Pnuemonia
+5555,Other
+4923,AMI
+5701,Other
+7404,Other
+8849,"Heart Failure"
+1517,Pnuemonia
+3260,"Heart Failure"
+4472,Other
+6480,"Heart Failure"
+7072,Other
+2792,"Heart Failure"
+7939,COPD
+10053,COPD
+10472,Stroke
+11626,Other
+8165,"Heart Failure"
+9768,Pnuemonia
+10694,COPD
+11201,"Heart Failure"
+807,"Heart Failure"
+2279,Pnuemonia
+3508,"Heart Failure"
+5928,Other
+2878,Other
+4734,Pnuemonia
+2212,Other
+2711,Other
+1990,AMI
+2213,AMI
+549,Stroke
+2483,"Heart Failure"
+3215,Pnuemonia
+3677,Other
+6594,"Heart Failure"
+6813,Other
+7762,"Heart Failure"
+1989,Other
+3998,Stroke
+9852,Other
+11387,Pnuemonia
+1077,Other
+2983,Stroke
+4205,Stroke
+4987,Other
+6249,Other
+6130,Pnuemonia
+7311,Other
+8415,COPD
+2793,"Heart Failure"
+3009,Other
+5008,"Heart Failure"
+8512,Other
+8771,Other
+5111,Other
+6392,Pnuemonia
+5313,"Heart Failure"
+5116,Stroke
+5983,Other
+6981,Stroke
+2736,Stroke
+3809,AMI
+5362,Other
+6259,Other
+104,Other
+498,Other
+10811,Stroke
+12156,AMI
+12316,AMI
+5213,Pnuemonia
+5994,"Heart Failure"
+11086,AMI
+12294,Other
+12620,Stroke
+12648,Stroke
+1633,Stroke
+3295,AMI
+3752,Other
+4124,Other
+248,"Heart Failure"
+1200,Other
+5078,AMI
+5494,"Heart Failure"
+10064,Other
+7112,Pnuemonia
+4779,Stroke
+5131,COPD
+5542,"Heart Failure"
+5594,Other
+6775,AMI
+9593,Stroke
+11533,Stroke
+4283,AMI
+5430,Other
+6366,Pnuemonia
+10063,"Heart Failure"
+8077,Other
+8645,Other
+9233,COPD
+10007,AMI
+8524,"Heart Failure"
+10492,Stroke
+3438,"Heart Failure"
+3856,Other
+5135,"Heart Failure"
+5371,"Heart Failure"
+3885,Other
+6037,Stroke
+8169,COPD
+8575,COPD
+10263,"Heart Failure"
+1427,Stroke
+2852,"Heart Failure"
+5824,COPD
+6862,AMI
+8456,Other
+389,Stroke
+1894,"Heart Failure"
+2560,Other
+5194,"Heart Failure"
+6746,COPD
+8497,Pnuemonia
+8532,Other
+8997,Other
+2372,Other
+3083,Other
+4877,"Heart Failure"
+5564,Pnuemonia
+11377,Other
+7459,Stroke
+7721,Other
+8327,Other
+8712,Other
+729,Other
+2092,Other
+2633,"Heart Failure"
+11199,AMI
+12216,Pnuemonia
+12490,"Heart Failure"
+12598,"Heart Failure"
+3798,COPD
+4534,COPD
+5676,COPD
+8931,AMI
+9851,Other
+11311,"Heart Failure"
+11894,AMI
+3125,Pnuemonia
+4562,COPD
+10745,Other
+12171,"Heart Failure"
+8425,"Heart Failure"
+1457,Other
+2965,COPD
+3294,Pnuemonia
+4969,Stroke
+5260,AMI
+5504,Other
+6057,Pnuemonia
+7388,COPD
+5136,Stroke
+216,Other
+387,"Heart Failure"
+1587,Other
+2114,Other
+871,COPD
+2542,Other
+3060,Pnuemonia
+4733,Stroke
+6468,COPD
+4808,Other
+6083,AMI
+7492,Stroke
+4602,"Heart Failure"
+5164,COPD
+5790,Stroke
+6472,Other
+5329,AMI
+6642,COPD
+2986,Other
+6560,Pnuemonia
+1101,"Heart Failure"
+11402,Pnuemonia
+12225,Other
+8225,"Heart Failure"
+10319,Pnuemonia
+2602,"Heart Failure"
+3217,Pnuemonia
+3406,Stroke
+4331,"Heart Failure"
+3090,"Heart Failure"
+9342,AMI
+11429,Pnuemonia
+11893,Pnuemonia
+5540,Other
+6974,Pnuemonia
+8475,COPD
+10381,Other
+7817,AMI
+2608,COPD
+4086,COPD
+9198,"Heart Failure"
+10006,COPD
+3467,COPD
+5485,Pnuemonia
+6419,Stroke
+7363,"Heart Failure"
+8974,Other
+9801,"Heart Failure"
+11248,Other
+12255,Other
+12626,COPD
+12635,Stroke
+6193,Stroke
+6543,COPD
+8112,Other
+9714,Stroke
+8949,Other
+10321,"Heart Failure"
+11573,Other
+12360,"Heart Failure"
+8053,Pnuemonia
+9054,Other
+10471,COPD
+10916,COPD
+7552,Stroke
+119,Other
+377,Other
+537,Other
+4822,Other
+5005,"Heart Failure"
+6863,"Heart Failure"
+7908,"Heart Failure"
+11084,Pnuemonia
+8785,Pnuemonia
+9984,Other
+10982,Pnuemonia
+8701,"Heart Failure"
+10206,Other
+6129,COPD
+7301,"Heart Failure"
+7996,"Heart Failure"
+8455,Pnuemonia
+9890,Other
+6192,Pnuemonia
+6932,Pnuemonia
+7928,Other
+1176,Pnuemonia
+2450,"Heart Failure"
+3895,Stroke
+5314,"Heart Failure"
+6761,AMI
+8241,"Heart Failure"
+6643,Other
+9522,Other
+958,Other
+7466,COPD
+8563,Stroke
+9782,Pnuemonia
+147,COPD
+1419,AMI
+1752,Other
+10846,Other
+662,Pnuemonia
+2032,Pnuemonia
+84,Stroke
+531,Other
+1859,Pnuemonia
+2810,COPD
+3462,AMI
+4699,AMI
+993,"Heart Failure"
+1269,Other
+2763,"Heart Failure"
+3718,Other
+7585,AMI
+7892,"Heart Failure"
+9823,Pnuemonia
+10548,COPD
+4000,Other
+5032,"Heart Failure"
+8673,Other
+9230,AMI
+10485,Other
+11811,Other
+10527,COPD
+11984,Other
+12085,Pnuemonia
+9955,AMI
+11010,Other
+8183,Stroke
+317,"Heart Failure"
+445,Stroke
+882,COPD
+2466,Other
+1547,Stroke
+2957,COPD
+4416,AMI
+6097,Stroke
+7225,COPD
+8711,Pnuemonia
+9783,Other
+5448,Other
+7251,Pnuemonia
+2809,Other
+3006,COPD
+1202,COPD
+2053,"Heart Failure"
+4172,AMI
+10426,Pnuemonia
+3161,Pnuemonia
+3967,Other
+3304,Stroke
+3514,AMI
+8644,"Heart Failure"
+7994,AMI
+9528,Other
+10048,Other
+6959,Other
+8598,COPD
+9850,AMI
+7617,"Heart Failure"
+7941,COPD
+8627,Other
+6512,COPD
+1395,Other
+1976,Other
+2858,Stroke
+5889,Other
+7873,"Heart Failure"
+9693,Other
+1742,Other
+3494,"Heart Failure"
+4264,"Heart Failure"
+11163,Other
+2583,COPD
+4373,Stroke
+2472,COPD
+1546,"Heart Failure"
+2880,Pnuemonia
+3300,Other
+7772,"Heart Failure"
+2856,Pnuemonia
+3910,Pnuemonia
+4611,COPD
+3242,AMI
+5152,Other
+7049,Stroke
+10678,AMI
+12163,Pnuemonia
+12450,Other
+8936,Other
+2300,Pnuemonia
+3100,Other
+5031,"Heart Failure"
+754,Other
+1163,COPD
+1394,"Heart Failure"
+1765,Other
+7402,COPD
+9362,COPD
+10815,AMI
+11442,COPD
+3612,AMI
+4875,"Heart Failure"
+11259,Other
+11827,AMI
+12448,Pnuemonia
+12514,Stroke
+9231,"Heart Failure"
+10267,Other
+10925,Stroke
+12288,COPD
+9045,Stroke
+9511,Stroke
+2493,Pnuemonia
+3722,Pnuemonia
+2460,"Heart Failure"
+3854,Other
+4673,Other
+7890,COPD
+9348,"Heart Failure"
+11305,AMI
+3208,Other
+4399,"Heart Failure"
+2072,AMI
+4045,Stroke
+4931,"Heart Failure"
+4874,"Heart Failure"
+5931,Stroke
+7664,"Heart Failure"
+9155,AMI
+1491,Pnuemonia
+1997,Stroke
+2513,"Heart Failure"
+3835,Other
+5628,COPD
+5956,AMI
+8103,Other
+10664,COPD
+12109,Other
+7662,COPD
+9320,"Heart Failure"
+9616,"Heart Failure"
+869,Other
+1413,COPD
+1795,COPD
+6596,Other
+6238,COPD
+8257,"Heart Failure"
+9870,COPD
+1930,Pnuemonia
+3312,"Heart Failure"
+7312,Other
+8013,"Heart Failure"
+5520,Pnuemonia
+6968,"Heart Failure"
+6886,COPD
+7424,"Heart Failure"
+9373,Other
+257,"Heart Failure"
+482,Other
+1483,COPD
+4044,"Heart Failure"
+5343,Other
+6376,Other
+7933,"Heart Failure"
+9138,Pnuemonia
+9383,COPD
+11078,Other
+580,Other
+1771,"Heart Failure"
+3040,AMI
+8625,Stroke
+9802,Pnuemonia
+10283,Pnuemonia
+24,Pnuemonia
+992,COPD
+1302,"Heart Failure"
+2395,Stroke
+5777,Pnuemonia
+10617,Stroke
+11852,"Heart Failure"
+12061,"Heart Failure"
+12580,"Heart Failure"
+3962,"Heart Failure"
+5930,Pnuemonia
+10697,Other
+11400,Other
+12372,Pnuemonia
+12638,COPD
+10022,"Heart Failure"
+4861,Other
+5307,Other
+1472,Other
+11043,Pnuemonia
+12172,Pnuemonia
+2901,Other
+3534,"Heart Failure"
+4843,Pnuemonia
+5856,Stroke
+6994,"Heart Failure"
+10370,COPD
+11784,AMI
+12340,Other
+12541,COPD
+490,AMI
+1234,Pnuemonia
+2406,COPD
+3236,Other
+6094,AMI
+7007,Other
+5574,AMI
+6109,Other
+7845,Pnuemonia
+8839,AMI
+8019,Pnuemonia
+9437,Pnuemonia
+11231,Other
+12089,"Heart Failure"
+10721,COPD
+11140,Other
+11932,"Heart Failure"
+12405,Other
+10437,Pnuemonia
+12002,Pnuemonia
+1225,Pnuemonia
+2370,COPD
+3825,Stroke
+5474,Pnuemonia
+10062,AMI
+11750,Other
+12489,AMI
+12526,"Heart Failure"
+1233,Other
+2779,Stroke
+10518,Other
+11484,Pnuemonia
+11837,COPD
+3839,Other
+5265,COPD
+6649,"Heart Failure"
+5086,COPD
+10722,Stroke
+11993,"Heart Failure"
+12530,AMI
+11026,"Heart Failure"
+11692,"Heart Failure"
+12130,"Heart Failure"
+10584,Other
+12039,"Heart Failure"
+12571,COPD
+12611,Other
+10000,Stroke
+11508,Pnuemonia
+51,Other
+1100,COPD
+6025,AMI
+7426,Other
+9305,Stroke
+10835,COPD
+645,"Heart Failure"
+1679,Other
+2461,Other
+11298,"Heart Failure"
+11526,Stroke
+12000,Other
+2423,Other
+3588,COPD
+5297,"Heart Failure"
+11374,Pnuemonia
+11831,Other
+12381,AMI
+5683,Other
+5064,AMI
+7073,"Heart Failure"
+8858,COPD
+10665,Other
+10744,Other
+11701,Stroke
+9652,COPD
+10900,"Heart Failure"
+11900,"Heart Failure"
+12353,Pnuemonia
+4746,"Heart Failure"
+6693,Other
+8805,Other
+10300,Other
+1407,Pnuemonia
+672,Other
+1825,Pnuemonia
+2966,Pnuemonia
+1099,AMI
+2360,"Heart Failure"
+3146,Stroke
+5004,"Heart Failure"
+4632,Stroke
+6274,Stroke
+2085,Pnuemonia
+2562,Other
+3513,COPD
+3742,COPD
+1330,Other
+8193,Pnuemonia
+8373,Pnuemonia
+8881,COPD
+10345,Other
+11483,Other
+12137,"Heart Failure"
+6024,Other
+8444,Other
+8916,Other
+9488,Stroke
+9803,COPD
+1227,"Heart Failure"
+1634,Other
+3523,Stroke
+5081,"Heart Failure"
+9715,Other
+10238,COPD
+11549,Other
+11982,Pnuemonia
+9328,Pnuemonia
+5319,Stroke
+475,AMI
+1209,Pnuemonia
+1603,"Heart Failure"
+3440,Other
+7308,Other
+7992,"Heart Failure"
+8819,Other
+10839,COPD
+1315,COPD
+2581,AMI
+4587,AMI
+5603,Other
+907,"Heart Failure"
+2095,COPD
+3417,COPD
+2941,AMI
+4473,Other
+6005,Stroke
+7507,Other
+1988,AMI
+3907,Other
+2132,Other
+4173,COPD
+4751,Pnuemonia
+6216,Other
+1849,Other
+3589,Stroke
+5277,"Heart Failure"
+8406,Stroke
+8670,"Heart Failure"
+10753,"Heart Failure"
+10919,Other
+12105,"Heart Failure"
+12593,Other
+2644,AMI
+3898,Pnuemonia
+8012,Stroke
+8555,Other
+10312,Other
+11235,Pnuemonia
+58,Stroke
+7103,Other
+8308,COPD
+7612,Stroke
+9353,Stroke
+11246,AMI
+11793,AMI
+316,Stroke
+1711,"Heart Failure"
+721,Other
+1673,Pnuemonia
+2093,Other
+3587,Other
+2712,Pnuemonia
+3657,Other
+3883,Stroke
+4477,"Heart Failure"
+3952,Other
+5179,Pnuemonia
+10213,Other
+11688,Other
+12202,Other
+7759,Pnuemonia
+8737,Stroke
+9290,Other
+2771,Other
+3568,"Heart Failure"
+710,COPD
+1208,Stroke
+2387,AMI
+4182,"Heart Failure"
+10473,COPD
+2552,Other
+4546,Pnuemonia
+6608,Pnuemonia
+6582,Other
+8128,"Heart Failure"
+1672,AMI
+831,Pnuemonia
+1162,Stroke
+1834,COPD
+1010,COPD
+1297,Stroke
+1929,Pnuemonia
+2096,Pnuemonia
+8328,AMI
+10016,Stroke
+6466,Other
+4090,Pnuemonia
+5047,AMI
+5684,"Heart Failure"
+6634,"Heart Failure"
+5760,Other
+6782,"Heart Failure"
+7934,Other
+4780,Other
+6000,Other
+7953,Other
+9781,Other
+5602,"Heart Failure"
+6521,COPD
+7260,AMI
+1660,Stroke
+2820,Stroke
+4563,"Heart Failure"
+1982,Pnuemonia
+2223,"Heart Failure"
+8416,COPD
+9044,Stroke
+10372,AMI
+9956,AMI
+10539,Pnuemonia
+439,Pnuemonia
+627,Pnuemonia
+2295,AMI
+3272,"Heart Failure"
+4462,Other
+7758,Other
+9873,Other
+420,"Heart Failure"
+5974,Other
+311,COPD
+1733,AMI
+1978,Stroke
+5739,Other
+7401,Other
+8874,AMI
+5214,AMI
+6004,COPD
+7178,Other
+6071,"Heart Failure"
+982,Other
+1785,AMI
+3163,Other
+4322,Other
+2987,Other
+5377,COPD
+6559,COPD
+8138,COPD
+9812,Other
+702,Pnuemonia
+1526,COPD
+6191,Other
+499,"Heart Failure"
+1751,Stroke
+2738,COPD
+5275,AMI
+9107,Other
+4551,COPD
+5299,AMI
+6983,Pnuemonia
+7979,Stroke
+9617,Other
+4593,AMI
+6342,Other
+6940,Other
+293,"Heart Failure"
+1732,AMI
+2524,Pnuemonia
+4674,Other
+6781,AMI
+7050,Pnuemonia
+9071,AMI
+10926,Stroke
+12227,Other
+12298,Other
+8018,"Heart Failure"
+9580,"Heart Failure"
+11126,Other
+3826,Stroke
+9200,Other
+8307,"Heart Failure"
+6142,Other
+7465,"Heart Failure"
+9168,Pnuemonia
+10508,Pnuemonia
+214,"Heart Failure"
+1433,Other
+3184,Other
+4967,"Heart Failure"
+324,COPD
+959,COPD
+2536,Stroke
+3362,Other
+11452,"Heart Failure"
+12256,Stroke
+10695,Other
+10949,COPD
+12090,Other
+12186,Other
+357,Other
+709,"Heart Failure"
+1783,Stroke
+10679,Pnuemonia
+10847,Pnuemonia
+11515,Stroke
+11907,Other
+148,Pnuemonia
+1220,Other
+2518,Stroke
+4634,Other
+3978,Pnuemonia
+6012,Other
+7059,AMI
+8605,Stroke
+9799,Pnuemonia
+10600,COPD
+11764,Stroke
+8554,"Heart Failure"
+10181,AMI
+11527,Pnuemonia
+11788,AMI
+11236,AMI
+11597,AMI
+6992,"Heart Failure"
+8132,Other
+9158,AMI
+10712,Other
+4161,Other
+5648,Other
+11434,Stroke
+12198,Stroke
+12412,Pnuemonia
+3655,Other
+9913,Stroke
+10344,Stroke
+10343,Stroke
+11032,Other
+11403,"Heart Failure"
+3569,COPD
+4192,Other
+7484,COPD
+9419,AMI
+10833,AMI
+7212,Other
+7962,"Heart Failure"
+8379,Stroke
+10023,Pnuemonia
+5631,Pnuemonia
+6685,"Heart Failure"
+7610,"Heart Failure"
+7094,"Heart Failure"
+3226,Pnuemonia
+4942,COPD
+6513,Other
+1260,Other
+2415,"Heart Failure"
+4478,AMI
+5601,Other
+6138,Pnuemonia
+5486,Other
+8086,Pnuemonia
+8297,Other
+1721,Pnuemonia
+2529,Other
+3525,COPD
+18,Stroke
+309,Pnuemonia
+483,Stroke
+1327,Other
+100,Pnuemonia
+1245,Pnuemonia
+2414,AMI
+3833,"Heart Failure"
+2589,Other
+4186,Other
+7355,COPD
+9061,Other
+11073,Pnuemonia
+11481,"Heart Failure"
+5691,Other
+5537,Other
+9281,"Heart Failure"
+10934,Pnuemonia
+11744,COPD
+12271,COPD
+1981,Other
+3206,"Heart Failure"
+3811,COPD
+2334,COPD
+3818,Other
+4291,COPD
+10728,Pnuemonia
+8045,Stroke
+8910,Stroke
+10458,"Heart Failure"
+11202,Other
+673,Other
+806,Stroke
+2133,Other
+9119,Other
+9304,Pnuemonia
+9957,COPD
+4140,Pnuemonia
+5985,Pnuemonia
+7386,Other
+8586,Other
+8562,"Heart Failure"
+9024,Pnuemonia
+10918,Other
+10084,AMI
+11404,Other
+11901,Stroke
+72,Pnuemonia
+1528,Other
+581,Other
+160,AMI
+6370,Other
+7748,Stroke
+8635,Other
+9662,Other
+235,COPD
+938,Other
+8239,Pnuemonia
+8915,COPD
+10167,Other
+11218,"Heart Failure"
+3911,"Heart Failure"
+1836,"Heart Failure"
+1652,"Heart Failure"
+1831,Other
+3271,COPD
+9824,Other
+10635,Other
+12050,Stroke
+12499,"Heart Failure"
+285,Other
+1690,Other
+5193,Pnuemonia
+6176,"Heart Failure"
+6910,Other
+2473,Other
+3946,Other
+4474,Other
+6412,Pnuemonia
+9196,Other
+10961,COPD
+8131,Other
+2873,Other
+4475,COPD
+6374,Other
+6595,Other
+8607,COPD
+7345,COPD
+9372,Pnuemonia
+11241,Other
+2893,"Heart Failure"
+4117,"Heart Failure"
+2642,"Heart Failure"
+3851,Other
+923,Other
+2535,Other
+3452,Other
+4215,Other
+7198,Pnuemonia
+8998,Other
+10549,Other
+11789,Pnuemonia
+1691,"Heart Failure"
+2620,"Heart Failure"
+4476,Pnuemonia
+310,Pnuemonia
+1589,"Heart Failure"
+10860,Stroke
+11568,Pnuemonia
+10037,Other
+10445,AMI
+10417,"Heart Failure"
+11079,COPD
+12124,Other
+12587,COPD
+6716,AMI
+7935,Other
+4241,"Heart Failure"
+5723,Other
+7586,"Heart Failure"
+5087,Stroke
+6116,Other
+11162,Other
+11791,"Heart Failure"
+12425,Other
+10780,Other
+12148,Other
+12364,COPD
+7328,COPD
+8309,COPD
+8824,Stroke
+9523,Other
+2872,Other
+4099,AMI
+5523,COPD
+5912,Pnuemonia
+7964,Stroke
+974,AMI
+2190,Pnuemonia
+3570,"Heart Failure"
+8414,Other
+10140,Other
+10509,AMI
+11820,Stroke
+4810,"Heart Failure"
+5679,Stroke
+6038,Pnuemonia
+6899,COPD
+9625,Pnuemonia
+11469,Other
+12116,"Heart Failure"
+2621,Other
+7803,Stroke
+9062,Other
+9420,Pnuemonia
+11272,Other
+12019,Other
+10457,"Heart Failure"
+10660,"Heart Failure"
+5938,AMI
+8035,AMI
+11095,Pnuemonia
+11441,Other
+12164,COPD
+12577,Stroke
+5887,Pnuemonia
+6530,Pnuemonia
+7329,AMI
+9405,"Heart Failure"
+837,COPD
+1171,COPD
+1939,AMI
+1505,"Heart Failure"
+3405,Other
+7006,COPD
+9092,Pnuemonia
+10544,"Heart Failure"
+9597,Other
+11103,AMI
+512,Other
+1923,Other
+3101,AMI
+8037,Other
+8826,COPD
+9272,Other
+1380,COPD
+2047,Stroke
+2899,"Heart Failure"
+2226,"Heart Failure"
+3699,Pnuemonia
+5501,Other
+6488,Pnuemonia
+7365,Stroke
+9259,Other
+11336,COPD
+6435,Other
+7956,"Heart Failure"
+9973,COPD
+1358,"Heart Failure"
+2054,Other
+2280,COPD
+8496,"Heart Failure"
+9221,AMI
+11113,COPD
+11846,Stroke
+8034,Other
+5901,Stroke
+6573,Other
+4876,Other
+5929,COPD
+7016,"Heart Failure"
+8848,Other
+9914,"Heart Failure"
+11468,"Heart Failure"
+12092,Other
+3061,Other
+4115,Other
+5121,AMI
+6901,Other
+10951,Other
+12123,Other
+71,Other
+1134,Other
+1720,"Heart Failure"
+3639,Other
+10727,COPD
+11801,"Heart Failure"
+12387,"Heart Failure"
+11025,"Heart Failure"
+711,COPD
+975,AMI
+11522,Other
+12273,"Heart Failure"
+12435,Stroke
+4873,Other
+6814,AMI
+8056,COPD
+1928,Pnuemonia
+2684,"Heart Failure"
+4805,Other
+5397,AMI
+6454,Pnuemonia
+8213,Other
+1518,COPD
+1844,COPD
+3640,"Heart Failure"
+10465,COPD
+5806,Other
+6377,"Heart Failure"
+7159,"Heart Failure"
+8700,Other
+9282,AMI
+10342,AMI
+11756,COPD
+3635,COPD
+4996,Pnuemonia
+5791,Other
+5553,AMI
+6378,Stroke
+8520,Stroke
+3360,Stroke
+4453,AMI
+5466,COPD
+6707,Other
+2142,"Heart Failure"
+2857,"Heart Failure"
+3855,Pnuemonia
+5344,Stroke
+5298,Pnuemonia
+5101,Stroke
+5890,Other
+566,COPD
+841,COPD
+2451,COPD
+11282,AMI
+11574,"Heart Failure"
+11939,Stroke
+4759,COPD
+5467,Pnuemonia
+9508,Other
+10251,Pnuemonia
+10453,Other
+11919,Other
+12058,Pnuemonia
+12497,Stroke
+3512,Other
+5470,Other
+7291,Stroke
+9009,Other
+4046,COPD
+4349,Other
+5939,Pnuemonia
+7614,Other
+8807,COPD
+9767,"Heart Failure"
+1689,Pnuemonia
+2917,Pnuemonia
+4573,AMI
+5079,Other
+942,Other
+2131,Stroke
+3882,Pnuemonia
+10696,Other
+11439,Other
+11836,Other
+6147,Other
+7403,Pnuemonia
+4116,Pnuemonia
+5267,Pnuemonia
+7325,"Heart Failure"
+9208,Other
+998,COPD
+1206,Other
+1585,"Heart Failure"
+3010,Other
+3614,Stroke
+4950,COPD
+6218,COPD
+9418,Other
+5120,Other
+5902,"Heart Failure"
+6385,AMI
+7114,Pnuemonia
+8144,Other
+7512,Other
+9079,Other
+9759,COPD
+11338,COPD
+2084,Other
+3659,COPD
+9263,COPD
+10507,Other
+11093,"Heart Failure"
+12229,Pnuemonia
+11077,Other
+12214,"Heart Failure"
+12301,"Heart Failure"
+12399,"Heart Failure"
+6939,"Heart Failure"
+7450,AMI
+9232,"Heart Failure"
+5007,COPD
+6703,Other
+7491,"Heart Failure"
+1156,Stroke
+2408,Stroke
+3299,COPD
+8930,COPD
+1164,Stroke
+7982,Stroke
+9489,Pnuemonia
+10415,Other
+11467,Pnuemonia
+4979,COPD
+5554,"Heart Failure"
+7451,COPD
+8542,Other
+10483,COPD
+11845,Other
+5667,Other
+6945,COPD
+294,Other
+1115,Other
+161,COPD
+9592,Stroke
+10212,Pnuemonia
+11575,"Heart Failure"
+10806,Stroke
+7293,"Heart Failure"
+8405,Other
+8531,Other
+4032,"Heart Failure"
+4507,Pnuemonia
+5973,"Heart Failure"
+7128,Other
+9535,COPD
+9958,Other
+11178,Pnuemonia
+12326,Stroke
+1812,COPD
+2361,Stroke
+7802,Other
+9936,Pnuemonia
+48,COPD
+5219,Other
+5583,AMI
+6783,"Heart Failure"
+7211,Other
+3539,Other
+4319,Pnuemonia
+5233,Pnuemonia
+6843,Stroke
+6613,Other
+7843,"Heart Failure"
+8955,COPD
+10836,Stroke
+7275,Other
+6607,Stroke
+8061,AMI
+4915,"Heart Failure"
+5195,"Heart Failure"
+7270,"Heart Failure"
+4966,AMI
+32,Stroke
+5792,Pnuemonia
+6117,"Heart Failure"
+7678,Other
+8762,Other
+59,"Heart Failure"
+5495,Stroke
+7387,Other
+8483,Other
+8890,Other
+2308,"Heart Failure"
+11219,Other
+11702,Other
+77,Stroke
+446,"Heart Failure"
+9157,COPD
+10545,AMI
+10917,Other
+7364,Other
+8954,Other
+10729,AMI
+9070,Other
+10653,COPD
+11085,Other
+10394,Stroke
+11460,Other
+11913,Stroke
+12560,"Heart Failure"
+639,"Heart Failure"
+548,"Heart Failure"
+1432,Stroke
+3347,"Heart Failure"
+4018,Other
+973,Stroke
+1421,"Heart Failure"
+1393,AMI
+5459,Other
+6740,"Heart Failure"
+9189,COPD
+2210,COPD
+2764,"Heart Failure"
+4642,COPD
+6717,COPD
+3838,Pnuemonia
+4461,COPD
+6032,Other
+7458,COPD
+3541,Other
+4871,COPD
+6715,COPD
+3953,Pnuemonia
+4175,COPD
+5519,Pnuemonia
+5982,Pnuemonia
+6612,"Heart Failure"
+11388,"Heart Failure"
+1746,Stroke
+2762,"Heart Failure"
+4019,COPD
+7501,Other
+7963,AMI
+8703,Stroke
+9389,Other
+9604,Pnuemonia
+7104,Other
+9738,Other
+8476,Other
+10163,Other
+11067,Other
+12115,AMI
+523,Other
+1492,AMI
+3318,Other
+4029,AMI
+3604,COPD
+4672,COPD
+5811,Other
+6916,"Heart Failure"
+8525,Pnuemonia
+276,AMI
+1201,"Heart Failure"
+1573,Other
+3497,COPD
+49,"Heart Failure"
+637,Other
+1224,COPD
+2324,Pnuemonia
+1186,Other
+5137,"Heart Failure"
+7093,"Heart Failure"
+9141,"Heart Failure"
+4314,"Heart Failure"
+5262,Stroke
+8806,Stroke
+9603,COPD
+10810,Other
+5993,COPD
+6918,Pnuemonia
+9736,Pnuemonia
+11622,COPD
+536,"Heart Failure"
+866,"Heart Failure"
+1772,Pnuemonia
+2134,Pnuemonia
+5478,"Heart Failure"
+7272,Other
+196,Other
+1270,Other
+1925,Other
+3216,"Heart Failure"
+1588,Other
+9895,COPD
+11594,Other
+12093,Other
+10128,Pnuemonia
+4831,Pnuemonia
+225,Other
+395,Pnuemonia
+876,"Heart Failure"
+10577,AMI
+12010,Other
+12394,Stroke
+10262,AMI
+5952,"Heart Failure"
+7290,"Heart Failure"
+9120,Other
+156,Pnuemonia
+739,"Heart Failure"
+10610,Other
+2819,Other
+11012,Pnuemonia
+6245,"Heart Failure"
+6443,Stroke
+6900,AMI
+8382,Pnuemonia
+7876,Other
+8749,Stroke
+9478,COPD
+10192,Other
+3858,"Heart Failure"
+5946,Pnuemonia
+6684,Other
+8576,COPD
+413,COPD
+1727,Other
+1097,"Heart Failure"
+2202,AMI
+1907,Other
+3418,Pnuemonia
+3746,"Heart Failure"
+4418,Pnuemonia
+9436,Pnuemonia
+3751,AMI
+4061,"Heart Failure"
+5710,"Heart Failure"
+10223,COPD
+10933,Other
+11735,Other
+12114,"Heart Failure"
+3039,Other
+3796,"Heart Failure"
+4840,Other
+8430,COPD
+901,Pnuemonia
+1149,"Heart Failure"
+2445,Pnuemonia
+3670,Other
+11362,"Heart Failure"
+8033,Stroke
+5148,COPD
+6695,Pnuemonia
+8838,COPD
+11179,COPD
+261,COPD
+497,Pnuemonia
+1951,"Heart Failure"
+4351,Pnuemonia
+9490,COPD
+10047,Other
+11284,Other
+12251,AMI
+3142,Pnuemonia
+8606,Pnuemonia
+9820,Other
+10927,AMI
+12265,Other
+3837,Stroke
+5850,Other
+7032,Other
+8659,Pnuemonia
+135,COPD
+1396,"Heart Failure"
+1995,"Heart Failure"
+2293,Pnuemonia
+3633,Other
+3912,COPD
+11431,Pnuemonia
+11724,Stroke
+5006,Other
+5954,COPD
+6418,"Heart Failure"
+8441,AMI
+3317,"Heart Failure"
+3744,"Heart Failure"
+10770,Other
+11718,AMI
+4297,Other
+4652,Other
+7454,COPD
+8212,COPD
+7203,AMI
+7834,Stroke
+463,Other
+1042,AMI
+6632,"Heart Failure"
+8968,COPD
+10459,"Heart Failure"
+11458,Other
+12392,Pnuemonia
+7882,COPD
+9303,Stroke
+9594,Stroke
+11376,"Heart Failure"
+440,Other
+1015,COPD
+2656,AMI
+7859,Other
+8658,Other
+9694,Stroke
+10821,Other
+6828,Pnuemonia
+8950,"Heart Failure"
+9421,Stroke
+11110,AMI
+8234,COPD
+10073,AMI
+10637,Other
+2851,Other
+633,Pnuemonia
+22,COPD
+2724,"Heart Failure"
+3350,"Heart Failure"
+3369,AMI
+5363,Other
+7485,COPD
+2249,"Heart Failure"
+2818,Stroke
+828,"Heart Failure"
+1349,Stroke
+2985,AMI
+3437,"Heart Failure"
+5102,COPD
+4496,Other
+5677,COPD
+5847,"Heart Failure"
+7587,"Heart Failure"
+8072,"Heart Failure"
+3977,Stroke
+5441,AMI
+7353,"Heart Failure"
+118,"Heart Failure"
+3298,Other
+4290,Stroke
+5657,Other
+521,Pnuemonia
+1057,Other
+2879,AMI
+6375,Other
+8036,AMI
+9983,Pnuemonia
+2943,Pnuemonia
+3243,Other
+4591,"Heart Failure"
+5984,"Heart Failure"
+3702,"Heart Failure"
+2511,"Heart Failure"
+2772,"Heart Failure"
+3732,"Heart Failure"
+5396,"Heart Failure"
+6749,Pnuemonia
+454,Pnuemonia
+1318,AMI
+3261,AMI
+3936,Stroke
+10284,Stroke
+10333,"Heart Failure"
+10938,Other
+11409,Pnuemonia
+12272,"Heart Failure"
+11233,Other
+12349,"Heart Failure"
+6070,AMI
+7875,COPD
+1165,Other
+2189,AMI
+3634,COPD
+890,"Heart Failure"
+2632,COPD
+3700,AMI
+3884,"Heart Failure"
+5703,COPD
+5056,"Heart Failure"
+6273,Pnuemonia
+6868,Other
+323,Stroke
+602,COPD
+1238,Stroke
+4321,AMI
+6413,Other
+8371,"Heart Failure"
+9938,COPD
+4171,Other
+4924,Other
+412,Stroke
+1604,Pnuemonia
+1957,Other
+3162,"Heart Failure"
+2029,"Heart Failure"
+2618,"Heart Failure"
+1977,COPD
+6702,Other
+7747,Other
+7980,"Heart Failure"
+8485,AMI
+6324,COPD
+1435,COPD
+2996,AMI
+3590,Pnuemonia
+5522,AMI
+638,"Heart Failure"
+2681,Other
+10859,Other
+11216,Other
+12079,AMI
+3050,"Heart Failure"
+6650,Stroke
+7826,"Heart Failure"
+9310,AMI
+9039,AMI
+3007,Stroke
+3451,COPD
+4701,"Heart Failure"
+3077,"Heart Failure"
+9187,Other
+11285,Other
+11778,COPD
+9758,"Heart Failure"
+10734,Other
+11181,Pnuemonia
+12247,"Heart Failure"
+864,COPD
+1416,Other
+2892,"Heart Failure"
+4783,Other
+10834,AMI
+11606,"Heart Failure"
+12390,COPD
+1481,COPD
+3399,Stroke
+2811,"Heart Failure"
+3085,COPD
+4107,AMI
+11051,COPD
+12078,AMI
+12553,COPD
+12603,Other
+11111,Pnuemonia
+11757,"Heart Failure"
+11946,COPD
+2503,AMI
+3008,COPD
+3561,Other
+7642,Pnuemonia
+8510,Pnuemonia
+9118,"Heart Failure"
+5022,COPD
+6107,"Heart Failure"
+1927,Other
+3849,"Heart Failure"
+5521,Other
+6473,COPD
+3567,Pnuemonia
+5063,COPD
+9199,"Heart Failure"
+9615,Pnuemonia
+11234,Stroke
+11834,Pnuemonia
+3779,"Heart Failure"
+5447,Stroke
+6919,AMI
+7460,Other
+682,Other
+1563,Pnuemonia
+1843,"Heart Failure"
+3540,Pnuemonia
+5965,Other
+6531,AMI
+7232,"Heart Failure"
+8362,Other
+6302,COPD
+7641,Other
+9583,"Heart Failure"
+5711,COPD
+7477,Other
+8295,Pnuemonia
+9341,"Heart Failure"
+5778,Other
+7292,AMI
+8991,Pnuemonia
+10663,Other
+10902,Other
+4664,Other
+7816,AMI
+4365,Stroke
+5541,"Heart Failure"
+2502,Stroke
+4216,Other
+4489,AMI
+6098,Other
+7615,Pnuemonia
+9595,"Heart Failure"
+9234,Stroke
+8937,AMI
+9546,Pnuemonia
+3985,Stroke
+4675,Pnuemonia
+5122,Other
+6373,Other
+6824,COPD
+7176,Stroke
+8999,"Heart Failure"
+1926,Stroke
+7177,Pnuemonia
+7909,"Heart Failure"
+7907,"Heart Failure"
+8859,Other
+10516,AMI
+394,Other
+11401,"Heart Failure"
+4878,Other
+6669,"Heart Failure"
+3896,Other
+5476,COPD
+5220,AMI
+6689,Pnuemonia
+6967,COPD
+8940,AMI
+10526,COPD
+7598,AMI
+9179,COPD
+5690,Pnuemonia
+7643,Other
+8443,"Heart Failure"
+8880,Pnuemonia
+10109,Other
+3361,AMI
+4160,"Heart Failure"
+10214,Other
+11534,COPD
+12293,AMI
+12628,AMI
+5599,Stroke
+6003,"Heart Failure"
+6917,Other
+7932,Pnuemonia
+6889,COPD
+8250,"Heart Failure"
+455,"Heart Failure"
+1892,"Heart Failure"
+2391,AMI
+8604,Other
+10559,AMI
+12031,Pnuemonia
+7158,"Heart Failure"
+3306,"Heart Failure"
+3777,AMI
+5502,Pnuemonia
+6108,COPD
+7015,AMI
+210,Other
+863,Pnuemonia
+1710,Other
+11303,Stroke
+11762,"Heart Failure"
+12449,Pnuemonia
+7425,Stroke
+7630,Stroke
+9279,Other
+10085,"Heart Failure"
+3877,AMI
+5149,Pnuemonia
+6006,"Heart Failure"
+7190,Stroke
+8392,"Heart Failure"
+9487,"Heart Failure"
+10795,Stroke
+11906,"Heart Failure"
+11068,Other
+12325,Other
+12516,"Heart Failure"
+4279,Stroke
+5398,Stroke
+57,AMI
+557,Pnuemonia
+2141,Pnuemonia
+2104,Other
+4083,Other
+4739,AMI
+6093,Stroke
+5274,Pnuemonia
+7436,AMI
+9461,Other
+10786,Pnuemonia
+5360,Other
+7042,Pnuemonia
+8353,COPD
+6160,Other
+6106,Other
+6970,"Heart Failure"
+4437,Other
+5355,Other
+6798,"Heart Failure"
+8911,"Heart Failure"
+3767,Other
+5196,Other
+8652,COPD
+10569,Other
+6264,Other
+8058,Pnuemonia
+9749,"Heart Failure"
+5144,Other
+3186,Other
+4352,Other
+6314,"Heart Failure"
+7616,AMI
+107,COPD
+622,"Heart Failure"
+760,COPD
+1996,Pnuemonia
+4091,Other
+6128,Pnuemonia
+6898,Pnuemonia
+8847,"Heart Failure"
+11024,AMI
+11800,"Heart Failure"
+703,"Heart Failure"
+1185,"Heart Failure"
+2351,"Heart Failure"
+3687,Stroke
+10768,Other
+11945,Pnuemonia
+12523,Pnuemonia
+12659,Pnuemonia
+912,Pnuemonia
+1181,Other
+1426,AMI
+2784,Pnuemonia
+3961,"Heart Failure"
+6036,Other
+4583,Pnuemonia
+5133,Other
+1537,AMI
+2655,Pnuemonia
+4914,"Heart Failure"
+5755,AMI
+4841,"Heart Failure"
+5823,"Heart Failure"
+4364,Pnuemonia
+5729,COPD
+6431,Other
+7375,Stroke
+7663,COPD
+2874,"Heart Failure"
+3773,Stroke
+4905,"Heart Failure"
+5857,Stroke
+2609,Pnuemonia
+3857,Other
+4181,Other
+9134,Other
+694,COPD
+2165,"Heart Failure"
+3078,Pnuemonia
+9628,COPD
+10358,Pnuemonia
+11411,Stroke
+7031,"Heart Failure"
+7407,COPD
+8969,Pnuemonia
+11009,Other
+11609,AMI
+1119,Pnuemonia
+1310,Other
+3082,"Heart Failure"
+4986,Pnuemonia
+11304,COPD
+11719,Pnuemonia
+11965,Other
+1945,"Heart Failure"
+2222,"Heart Failure"
+2808,Other
+1221,AMI
+1365,COPD
+1080,Pnuemonia
+1415,AMI
+5906,Stroke
+6313,Other
+8059,Other
+8851,COPD
+10971,Pnuemonia
+11607,Pnuemonia
+12359,Pnuemonia
+1813,COPD
+3810,Other
+4497,Stroke
+5548,Stroke
+3947,Other
+4230,Other
+1317,"Heart Failure"
+3201,COPD
+3717,Pnuemonia
+4162,Pnuemonia
+6926,Stroke
+8067,Other
+4296,Other
+5675,Other
+7435,Other
+131,"Heart Failure"
+6572,Pnuemonia
+7149,Pnuemonia
+7995,AMI
+1443,"Heart Failure"
+1853,COPD
+6303,COPD
+7318,COPD
+8296,Other
+9512,Other
+3745,Pnuemonia
+4523,Other
+6001,"Heart Failure"
+6344,Stroke
+7773,Other
+9766,COPD
+10822,Stroke
+11690,Other
+1525,Other
+2247,Other
+2634,"Heart Failure"
+3999,COPD
+8381,"Heart Failure"
+9105,COPD
+10662,Other
+318,"Heart Failure"
+591,Stroke
+1586,Other
+2534,"Heart Failure"
+3415,AMI
+9937,COPD
+11547,Other
+12378,COPD
+12627,Stroke
+1344,"Heart Failure"
+1965,COPD
+2657,COPD
+3897,"Heart Failure"
+2968,Pnuemonia
+4651,COPD
+5849,Other
+7966,Pnuemonia
+4609,Pnuemonia
+5266,COPD
+2147,"Heart Failure"
+3678,AMI
+4429,Pnuemonia
+5812,"Heart Failure"
+9800,"Heart Failure"
+10414,Other
+11774,"Heart Failure"
+5477,AMI
+5761,COPD
+6035,Pnuemonia
+6909,AMI
+8366,"Heart Failure"
+6364,COPD
+7613,COPD
+6532,"Heart Failure"
+6246,Other
+8113,Stroke
+3233,"Heart Failure"
+9571,Pnuemonia
+10948,Pnuemonia
+6611,"Heart Failure"
+8181,Other
+8939,Pnuemonia
+10407,Other
+9167,Stroke
+7784,Pnuemonia
+2579,Pnuemonia
+4663,COPD
+5273,AMI
+6861,Other
+6584,"Heart Failure"
+7846,Other
+453,COPD
+1837,COPD
+3479,"Heart Failure"
+838,Pnuemonia
+2386,Other
+720,COPD
+1851,COPD
+2693,Other
+1303,COPD
+1938,Stroke
+7619,Stroke
+8462,Pnuemonia
+10205,"Heart Failure"
+11585,Other
+5276,Pnuemonia
+5964,"Heart Failure"
+6229,Stroke
+4125,"Heart Failure"
+4770,COPD
+881,Pnuemonia
+3669,"Heart Failure"
+4071,COPD
+5109,"Heart Failure"
+1328,AMI
+3200,COPD
+3416,Other
+5354,COPD
+6854,Other
+7269,Other
+7618,COPD
+8046,Other
+8663,Other
+6982,COPD
+8092,"Heart Failure"
+11525,Other
+12073,Pnuemonia
+12438,Other
+5846,Other
+7537,Other
+9285,Pnuemonia
+11247,Stroke
+4995,Other
+902,"Heart Failure"
+1747,Pnuemonia
+2817,AMI
+4451,"Heart Failure"
+4524,Other
+5886,Other
+7482,AMI
+260,Other
+1116,COPD
+1642,"Heart Failure"
+2288,Other
+3348,Pnuemonia
+4741,COPD
+50,AMI
+197,"Heart Failure"
+1331,Pnuemonia
+865,"Heart Failure"
+2373,COPD
+9188,Pnuemonia
+9639,Pnuemonia
+11554,Pnuemonia
+11042,Other
+12211,COPD
+12466,COPD
+5212,"Heart Failure"
+5563,AMI
+6887,Stroke
+7786,"Heart Failure"
+5080,AMI
+6043,Pnuemonia
+7513,Stroke
+4085,COPD
+9510,Stroke
+9896,Other
+4985,Other
+5913,Other
+7115,Other
+444,COPD
+1567,Other
+3183,Stroke
+143,AMI
+8491,Other
+2514,Other
+3038,Other
+4031,AMI
+2322,Other
+5600,COPD
+6453,"Heart Failure"
+8482,Other
+1157,"Heart Failure"
+4599,COPD
+5240,Pnuemonia
+8263,AMI
+9971,COPD
+11160,COPD
+12121,Other
+8560,"Heart Failure"
+10250,COPD
+5768,Other
+6467,COPD
+7409,AMI
+681,Pnuemonia
+922,COPD
+2209,AMI
+2492,COPD
+687,Pnuemonia
+1207,"Heart Failure"
+8686,"Heart Failure"
+9091,Pnuemonia
+11139,Other
+11892,AMI
+9280,Pnuemonia
+10346,Other
+3450,COPD
+4229,AMI
+9273,Pnuemonia
+10619,COPD
+11177,"Heart Failure"
+188,Other
+690,Other
+7952,Pnuemonia
+9624,Pnuemonia
+10553,COPD
+11138,AMI
+5728,Stroke
+6343,AMI
+7083,Other
+7785,"Heart Failure"
+11386,"Heart Failure"
+12264,AMI
+12436,Stroke
+12524,Other
+604,"Heart Failure"
+9365,Other
+9944,Other
+10211,Other
+10634,"Heart Failure"
+8372,Other
+2582,COPD
+3613,COPD
+11516,Pnuemonia
+4506,Other
+3235,"Heart Failure"
+9207,AMI
+4372,Other
+5328,COPD
+6825,"Heart Failure"
+11440,Other
+11878,COPD
+12127,"Heart Failure"
+8699,"Heart Failure"
+10164,COPD
+1867,Other
+2240,COPD
+3772,"Heart Failure"
+4450,AMI
+9139,COPD
+11312,COPD
+6260,Other
+8442,"Heart Failure"
+10444,COPD
+11636,COPD
+3269,"Heart Failure"
+7842,Pnuemonia
+6815,"Heart Failure"
+8249,COPD
+1130,Pnuemonia
+893,AMI
+1529,COPD
+3191,COPD
+3542,Other
+5536,Other
+1539,AMI
+1786,Other
+3496,COPD
+3935,AMI
+300,"Heart Failure"
+699,Other
+3268,Other
+3511,COPD
+4823,"Heart Failure"
+2390,"Heart Failure"
+4191,Pnuemonia
+5629,"Heart Failure"
+6177,Stroke
+2942,Stroke
+4698,Other
+4968,Stroke
+6520,Pnuemonia
+7761,Pnuemonia
+2471,Pnuemonia
+3032,"Heart Failure"
+4332,Other
+2211,"Heart Failure"
+2690,Other
+3305,Stroke
+3834,"Heart Failure"
+9734,"Heart Failure"
+11546,COPD
+11337,Other
+12149,Pnuemonia
+12354,Other
+12547,"Heart Failure"
+7452,Other
+8145,Other
+9275,"Heart Failure"
+535,Other
+1861,Other
+11033,"Heart Failure"
+8825,AMI
+9363,Stroke
+10512,COPD
+11230,COPD
+11430,AMI
+12165,Stroke
+9872,Pnuemonia
+11200,COPD
+11638,Other
+12023,Pnuemonia
+782,Other
+9862,Pnuemonia
+11335,"Heart Failure"
+2008,COPD
+2561,"Heart Failure"
+4174,Other
+5861,Stroke
+7844,Other
+8074,Other
+9015,AMI
+9343,Other
+11410,AMI
+12324,Other
+8498,Other
+7394,Other
+7651,Other
+9178,AMI
+9584,Stroke
+4997,COPD
+6692,"Heart Failure"
+6127,"Heart Failure"
+6741,Pnuemonia
+8793,AMI
+2224,Stroke
+2838,Stroke
+4058,Other
+4536,Stroke
+5810,COPD
+6625,Other
+6826,AMI
+8121,Pnuemonia
+10046,Other
+11149,Other
+12215,"Heart Failure"
+522,COPD
+1651,Pnuemonia
+3605,Other
+5326,COPD
+6518,Pnuemonia
+8020,Other
+8674,COPD
+2359,Other
+4084,Other
+5615,Stroke
+7801,Other
+10719,COPD
+11389,Pnuemonia
+12217,Pnuemonia
+3478,Other
+10878,Other
+2984,"Heart Failure"
+14,"Heart Failure"
+363,Pnuemonia
+999,Stroke
+8671,AMI
+8151,"Heart Failure"
+8130,"Heart Failure"
+9769,"Heart Failure"
+4622,COPD
+7261,Stroke
+8093,AMI
+9825,COPD
+10644,Pnuemonia
+3337,"Heart Failure"
+5399,Pnuemonia
+7041,Other
+7300,"Heart Failure"
+322,Stroke
+708,Other
+1043,COPD
+5561,COPD
+5869,COPD
+6991,"Heart Failure"
+1659,AMI
+1906,"Heart Failure"
+3581,COPD
+5573,Pnuemonia
+4267,Pnuemonia
+6140,"Heart Failure"
+6827,AMI
+1596,Stroke
+2225,Other
+9340,Stroke
+10171,COPD
+11729,Other
+12224,Other
+3110,"Heart Failure"
+4284,Other
+4809,Other
+6139,Pnuemonia
+8216,Stroke
+9723,AMI
+10074,Other
+5999,AMI
+7061,COPD
+9069,"Heart Failure"
+10291,Stroke
+4932,AMI
+3176,Other
+4266,Pnuemonia
+5003,Stroke
+5287,AMI
+7483,Stroke
+7709,AMI
+8778,Other
+234,Other
+1574,Other
+3397,Other
+573,Pnuemonia
+853,Stroke
+1021,COPD
+1622,COPD
+8799,Other
+9190,"Heart Failure"
+9676,"Heart Failure"
+11283,Pnuemonia
+4633,"Heart Failure"
+6292,Other
+8316,Other
+766,COPD
+1056,Other
+9735,COPD
+11689,Other
+12304,COPD
+4383,Other
+4807,"Heart Failure"
+6096,Stroke
+7499,Other
+7,Stroke
+144,Pnuemonia
+10973,Pnuemonia
+11959,AMI
+12230,"Heart Failure"
+1498,"Heart Failure"
+2619,Other
+7561,AMI
+823,Other
+2467,AMI
+7063,Other
+8437,Stroke
+1076,COPD
+10661,Other
+2307,AMI
+3031,"Heart Failure"
+3931,"Heart Failure"
+4320,Stroke
+7113,AMI
+8860,Other
+10983,COPD
+12066,AMI
+2018,Pnuemonia
+2944,COPD
+3778,COPD
+3524,COPD
+4237,Other
+10318,"Heart Failure"
+11954,Pnuemonia
+12468,"Heart Failure"
+1125,Pnuemonia
+1743,Other
+3270,Pnuemonia
+4732,"Heart Failure"
+3836,Other
+5010,Other
+2691,Stroke
+4601,"Heart Failure"
+5364,Pnuemonia
+6421,"Heart Failure"
+7705,"Heart Failure"
+8424,"Heart Failure"
+9364,Other
+1835,Stroke
+2883,"Heart Failure"
+3346,Pnuemonia
+3979,Other
+7129,Other
+7408,COPD
+8156,Other
+7757,Pnuemonia
+9427,Other
+11433,"Heart Failure"
+12368,Other
+10,Pnuemonia
+4856,Other
+829,"Heart Failure"
+1406,"Heart Failure"
+2424,Pnuemonia
+3011,Other
+1753,Other
+7453,Other
+52,Other
+149,Stroke
+292,Other
+1688,COPD
+7652,AMI
+9614,Stroke
+9871,Stroke
+9210,Pnuemonia
+11363,"Heart Failure"
+4185,Pnuemonia
+5232,Pnuemonia
+822,Pnuemonia
+1891,"Heart Failure"
+366,COPD
+771,Other
+1033,Pnuemonia
+3658,"Heart Failure"
+8129,AMI
+9247,"Heart Failure"
+11175,COPD
+601,Pnuemonia
+2803,"Heart Failure"
+3224,"Heart Failure"
+5234,AMI
+6190,Pnuemonia
+10052,Stroke
+10709,COPD
+870,Stroke
+2692,Other
+3351,Stroke
+4060,Other
+8657,AMI
+8393,Other
+830,Other
+11432,COPD
+12174,Other
+12486,Other
+919,Other
+1754,AMI
+2512,AMI
+5506,Stroke
+43,"Heart Failure"
+362,"Heart Failure"
+1316,Other
+2086,AMI
+7062,Other
+4379,Pnuemonia
+8011,Stroke
+8588,AMI
+6748,COPD
+7694,Stroke
+9626,Stroke
+994,Pnuemonia
+1784,Pnuemonia
+4021,AMI
+6084,COPD
+7536,Pnuemonia
+9764,"Heart Failure"
+10224,Other
+10466,COPD
+469,"Heart Failure"
+1180,Other
+579,Other
+1568,"Heart Failure"
+2929,Other
+8380,"Heart Failure"
+6275,"Heart Failure"
+6482,COPD
+7967,COPD
+3676,"Heart Failure"
+4978,"Heart Failure"
+6039,Other
+7448,Pnuemonia
+11037,Pnuemonia
+12113,Other
+12511,Other
+12641,Other
+2815,"Heart Failure"
+899,Other
+1644,Other
+2108,COPD
+2348,Stroke
+3929,Pnuemonia
+4218,Pnuemonia
+5243,Other
+448,Pnuemonia
+1092,COPD
+3059,"Heart Failure"
+5820,COPD
+6398,"Heart Failure"
+6493,Stroke
+7685,Other
+8743,Other
+10515,"Heart Failure"
+7581,Stroke
+9309,Other
+9934,"Heart Failure"
+9602,Other
+7167,Other
+7636,COPD
+8408,Stroke
+2638,Stroke
+3013,Other
+5348,"Heart Failure"
+6541,Other
+7637,"Heart Failure"
+5264,"Heart Failure"
+5482,"Heart Failure"
+8338,Other
+2563,"Heart Failure"
+3289,COPD
+5375,Other
+268,Other
+883,Other
+2425,COPD
+10241,COPD
+11317,COPD
+12259,COPD
+10923,Other
+11799,Pnuemonia
+12426,Pnuemonia
+12576,Other
+5082,Pnuemonia
+5842,Other
+676,"Heart Failure"
+1286,Pnuemonia
+2183,Other
+5130,AMI
+6319,Pnuemonia
+5480,Other
+5922,Other
+11228,Pnuemonia
+11348,Pnuemonia
+12313,"Heart Failure"
+12601,Other
+12657,Other
+10689,Other
+820,Other
+1885,Other
+3358,"Heart Failure"
+4777,AMI
+9780,Other
+6028,Other
+7207,AMI
+7704,Other
+3424,"Heart Failure"
+5045,COPD
+6719,Pnuemonia
+7496,"Heart Failure"
+8142,AMI
+9125,Pnuemonia
+10693,Pnuemonia
+8516,Stroke
+10051,Other
+11212,Other
+10924,"Heart Failure"
+11461,Pnuemonia
+12311,Pnuemonia
+8619,Stroke
+10400,Other
+75,Other
+1053,Other
+1356,AMI
+343,"Heart Failure"
+1638,AMI
+2775,Other
+4424,Stroke
+2146,COPD
+2418,AMI
+3763,COPD
+4519,Other
+180,"Heart Failure"
+1213,COPD
+305,COPD
+1599,COPD
+2077,"Heart Failure"
+8861,Other
+10157,AMI
+10794,Other
+11082,Other
+5224,COPD
+7127,"Heart Failure"
+6755,Pnuemonia
+8898,AMI
+5147,Other
+6133,Other
+4087,Other
+7734,Other
+443,COPD
+854,Other
+2057,Pnuemonia
+5592,Pnuemonia
+7467,"Heart Failure"
+9531,Other
+10029,Stroke
+6599,"Heart Failure"
+7239,Other
+7949,Other
+8878,"Heart Failure"
+2354,AMI
+3408,COPD
+3770,Pnuemonia
+2760,COPD
+3334,Pnuemonia
+5282,Other
+6152,COPD
+7249,Other
+8349,Stroke
+1504,Pnuemonia
+3000,COPD
+4119,AMI
+5899,AMI
+9099,"Heart Failure"
+5591,"Heart Failure"
+3765,COPD
+5259,Other
+7331,Pnuemonia
+8833,COPD
+6838,COPD
+7805,COPD
+9269,"Heart Failure"
+9432,AMI
+10775,"Heart Failure"
+7474,Pnuemonia
+7831,Pnuemonia
+9818,Other
+10398,Pnuemonia
+337,Pnuemonia
+7697,Other
+9834,AMI
+11758,"Heart Failure"
+12513,Pnuemonia
+8117,Pnuemonia
+8614,Pnuemonia
+9819,Other
+11598,COPD
+9585,"Heart Failure"
+10561,Other
+11072,Other
+291,"Heart Failure"
+691,AMI
+1838,AMI
+466,COPD
+815,"Heart Failure"
+1962,"Heart Failure"
+4317,Other
+5442,"Heart Failure"
+6965,"Heart Failure"
+4548,"Heart Failure"
+5347,COPD
+6500,Other
+7327,Other
+8323,"Heart Failure"
+9858,Pnuemonia
+2744,AMI
+8258,Other
+8691,COPD
+10645,Pnuemonia
+8243,"Heart Failure"
+9885,Other
+10922,"Heart Failure"
+731,Other
+860,Other
+1474,Other
+2078,"Heart Failure"
+7810,Pnuemonia
+7728,Other
+9330,Pnuemonia
+10607,COPD
+1109,AMI
+1307,Pnuemonia
+2151,Other
+10905,Other
+11274,COPD
+5411,"Heart Failure"
+8787,Other
+7991,AMI
+9128,"Heart Failure"
+1140,Pnuemonia
+2840,Other
+781,Other
+2088,Other
+8768,Other
+9860,AMI
+10547,Other
+11620,"Heart Failure"
+2232,AMI
+3368,COPD
+4725,AMI
+10117,Other
+8638,COPD
+10703,Stroke
+12175,Other
+138,AMI
+941,Other
+1187,Other
+2964,COPD
+9077,COPD
+9562,Stroke
+2274,"Heart Failure"
+3169,COPD
+5070,Other
+327,AMI
+1464,Other
+7866,AMI
+9647,Stroke
+10032,"Heart Failure"
+6122,Other
+409,AMI
+1138,AMI
+4582,Other
+3372,"Heart Failure"
+5463,COPD
+6150,Stroke
+5129,Other
+6011,Other
+8134,AMI
+8427,Other
+3460,COPD
+4887,COPD
+6027,"Heart Failure"
+7703,Pnuemonia
+2058,Stroke
+2912,Other
+3267,Other
+3474,COPD
+612,"Heart Failure"
+1503,"Heart Failure"
+6087,Pnuemonia
+8042,"Heart Failure"
+8014,Stroke
+8689,"Heart Failure"
+9750,"Heart Failure"
+11487,Other
+1775,AMI
+2778,COPD
+5254,Pnuemonia
+6486,Stroke
+8114,COPD
+9946,Stroke
+209,Other
+1448,Pnuemonia
+2335,Pnuemonia
+9807,"Heart Failure"
+1948,COPD
+3024,COPD
+4255,Other
+4785,Other
+6465,Stroke
+8559,Pnuemonia
+10314,Stroke
+3660,Other
+4620,Other
+983,COPD
+2271,Other
+10647,AMI
+9727,Other
+5816,COPD
+7191,"Heart Failure"
+10449,Pnuemonia
+8242,"Heart Failure"
+9926,Other
+4136,COPD
+4784,Other
+2911,Other
+3919,"Heart Failure"
+4232,"Heart Failure"
+5202,AMI
+4102,AMI
+7974,Pnuemonia
+10139,"Heart Failure"
+2265,"Heart Failure"
+4240,"Heart Failure"
+418,Other
+3532,"Heart Failure"
+4166,"Heart Failure"
+5500,"Heart Failure"
+5162,"Heart Failure"
+5642,Stroke
+7807,Other
+10295,Other
+11865,COPD
+12517,Pnuemonia
+12563,Other
+1268,COPD
+1477,Stroke
+2571,Other
+3042,Other
+9043,Other
+10606,Other
+11279,Pnuemonia
+11779,Stroke
+10920,AMI
+356,Pnuemonia
+449,Other
+4720,Stroke
+6569,COPD
+2396,Stroke
+3266,COPD
+4152,"Heart Failure"
+9560,AMI
+10787,Other
+11929,Other
+2981,Other
+3646,COPD
+5244,COPD
+6894,Pnuemonia
+5815,Stroke
+6237,"Heart Failure"
+7588,Other
+8980,AMI
+38,Other
+1478,Pnuemonia
+1692,AMI
+3507,Pnuemonia
+4726,Other
+5968,Other
+7457,"Heart Failure"
+2663,"Heart Failure"
+3131,Other
+6677,"Heart Failure"
+7078,Other
+7498,Stroke
+4695,"Heart Failure"
+5661,Other
+7378,Other
+8282,"Heart Failure"
+6300,COPD
+5058,Other
+5625,"Heart Failure"
+6047,"Heart Failure"
+8201,COPD
+8647,Other
+1436,Other
+2963,Stroke
+4470,Other
+6151,COPD
+10272,Stroke
+11698,"Heart Failure"
+12100,Other
+12592,"Heart Failure"
+8486,Stroke
+9050,AMI
+9739,"Heart Failure"
+11599,Pnuemonia
+1959,Stroke
+2877,Stroke
+30,Other
+423,AMI
+3996,Other
+1821,"Heart Failure"
+3792,"Heart Failure"
+5059,COPD
+7048,"Heart Failure"
+3211,Other
+4775,"Heart Failure"
+9505,Stroke
+11587,Pnuemonia
+10004,Stroke
+11242,COPD
+11517,"Heart Failure"
+12180,Stroke
+10884,COPD
+12,Other
+1084,Other
+7157,COPD
+9622,AMI
+11544,Stroke
+11898,"Heart Failure"
+12433,COPD
+8082,"Heart Failure"
+618,Other
+1731,AMI
+3246,Other
+3647,Other
+5499,"Heart Failure"
+6247,Pnuemonia
+7577,COPD
+9144,Stroke
+1873,Pnuemonia
+5044,Pnuemonia
+7070,AMI
+304,"Heart Failure"
+428,"Heart Failure"
+11490,Other
+7863,"Heart Failure"
+9963,Other
+11296,Other
+12363,Other
+517,AMI
+1204,Stroke
+1370,Pnuemonia
+10538,Other
+11529,Other
+10236,Other
+11055,COPD
+5373,"Heart Failure"
+7096,Stroke
+7718,"Heart Failure"
+8436,Stroke
+9678,"Heart Failure"
+10523,Other
+3533,Other
+5071,"Heart Failure"
+5641,Pnuemonia
+6381,Other
+11189,Pnuemonia
+12005,Other
+12557,Other
+12651,Pnuemonia
+456,Other
+1581,COPD
+2205,Stroke
+2816,"Heart Failure"
+541,"Heart Failure"
+1039,Other
+2635,"Heart Failure"
+832,"Heart Failure"
+1730,"Heart Failure"
+2971,Other
+3906,Other
+9245,AMI
+397,COPD
+6020,"Heart Failure"
+6232,Pnuemonia
+6452,"Heart Failure"
+7919,Other
+4329,AMI
+11044,Other
+11628,Other
+1862,Other
+2180,Other
+3376,"Heart Failure"
+4789,Other
+2128,AMI
+3148,COPD
+3888,Other
+2825,Stroke
+3955,Other
+9001,Pnuemonia
+7720,Other
+8727,Other
+9455,Pnuemonia
+10123,"Heart Failure"
+8179,Other
+9679,Pnuemonia
+2863,Pnuemonia
+4894,"Heart Failure"
+2276,"Heart Failure"
+2777,COPD
+3273,"Heart Failure"
+398,Pnuemonia
+1287,Stroke
+1932,COPD
+1502,Other
+3324,Pnuemonia
+8752,Other
+10178,Other
+10686,COPD
+11629,AMI
+6213,COPD
+1030,Pnuemonia
+2153,Other
+3475,Other
+1118,Pnuemonia
+2994,Other
+3390,AMI
+4728,Other
+3959,"Heart Failure"
+5663,"Heart Failure"
+6214,Other
+6931,Pnuemonia
+5589,Other
+6928,AMI
+8494,Pnuemonia
+11053,Other
+1551,Other
+2068,"Heart Failure"
+2720,Pnuemonia
+3459,Other
+5204,Pnuemonia
+2169,"Heart Failure"
+736,AMI
+1874,Stroke
+3473,Other
+1064,"Heart Failure"
+2604,Other
+3332,AMI
+7529,Other
+9319,Pnuemonia
+7669,Other
+9103,COPD
+183,Pnuemonia
+693,COPD
+9456,Other
+11485,"Heart Failure"
+12439,Stroke
+12639,COPD
+2989,Stroke
+4540,Stroke
+506,Other
+1196,Pnuemonia
+2569,COPD
+1987,Other
+3315,AMI
+5302,Other
+7415,Stroke
+7714,Stroke
+9711,COPD
+11392,COPD
+2123,Stroke
+4199,Pnuemonia
+5590,Stroke
+7397,Other
+11406,Pnuemonia
+11868,"Heart Failure"
+12459,Stroke
+12637,Pnuemonia
+145,AMI
+3937,Other
+5967,Other
+7849,COPD
+9947,COPD
+4539,"Heart Failure"
+6409,COPD
+7495,"Heart Failure"
+7740,Other
+8340,Other
+2009,"Heart Failure"
+4671,Stroke
+6055,Other
+8101,COPD
+8603,Other
+9041,"Heart Failure"
+10480,Other
+11418,COPD
+898,"Heart Failure"
+1256,Stroke
+63,Stroke
+1173,AMI
+2206,Stroke
+4113,Other
+9375,Stroke
+9793,Other
+11582,Pnuemonia
+12395,Other
+11291,Pnuemonia
+12244,"Heart Failure"
+12613,COPD
+809,"Heart Failure"
+1108,Stroke
+1431,Stroke
+2551,Pnuemonia
+9286,Pnuemonia
+9978,Other
+3527,"Heart Failure"
+4295,Pnuemonia
+4688,AMI
+6772,"Heart Failure"
+7755,Stroke
+9031,Other
+6978,AMI
+8161,"Heart Failure"
+9757,AMI
+6175,Other
+6794,"Heart Failure"
+8914,Other
+2107,"Heart Failure"
+2605,Other
+9153,Pnuemonia
+96,"Heart Failure"
+700,COPD
+331,AMI
+486,Other
+1760,Pnuemonia
+2499,COPD
+10297,Other
+11289,AMI
+12189,Other
+12549,COPD
+4415,Pnuemonia
+5841,Other
+6718,"Heart Failure"
+795,"Heart Failure"
+10329,Pnuemonia
+10791,Pnuemonia
+11849,Other
+12495,"Heart Failure"
+9358,Pnuemonia
+11064,"Heart Failure"
+11879,AMI
+12479,Stroke
+3045,Other
+4246,COPD
+5187,COPD
+7125,Other
+198,COPD
+1377,Other
+2833,AMI
+4659,COPD
+4970,Other
+1155,AMI
+2266,COPD
+2890,Other
+6088,COPD
+6474,COPD
+8171,"Heart Failure"
+9262,Other
+9470,"Heart Failure"
+3813,COPD
+4941,Other
+137,Pnuemonia
+7494,Pnuemonia
+8466,Other
+8687,COPD
+9792,"Heart Failure"
+1197,AMI
+2256,COPD
+1624,"Heart Failure"
+1348,Stroke
+2617,Other
+3781,"Heart Failure"
+2382,COPD
+4435,"Heart Failure"
+5481,Pnuemonia
+6331,Stroke
+10078,Other
+162,Stroke
+1175,Other
+6637,Stroke
+8192,Other
+10195,COPD
+11254,"Heart Failure"
+1963,Other
+3402,Pnuemonia
+4468,Other
+5255,COPD
+2549,Pnuemonia
+4022,Pnuemonia
+4991,Other
+5784,"Heart Failure"
+307,Pnuemonia
+487,Other
+1382,"Heart Failure"
+2374,Pnuemonia
+3807,"Heart Failure"
+5911,Stroke
+6266,Pnuemonia
+873,AMI
+2603,Stroke
+1468,COPD
+1695,Other
+3133,Pnuemonia
+3820,"Heart Failure"
+10096,Other
+5453,"Heart Failure"
+7013,COPD
+7672,AMI
+9658,Other
+6786,Other
+8211,AMI
+9344,"Heart Failure"
+9027,COPD
+9471,"Heart Failure"
+8929,Other
+9859,"Heart Failure"
+11004,COPD
+11753,Pnuemonia
+11379,"Heart Failure"
+12274,"Heart Failure"
+8777,AMI
+8987,Pnuemonia
+10216,COPD
+3355,"Heart Failure"
+4067,"Heart Failure"
+5757,Other
+7889,Other
+5705,AMI
+6318,"Heart Failure"
+7175,AMI
+4926,Stroke
+10429,Pnuemonia
+5174,AMI
+7144,Stroke
+3739,COPD
+5069,Other
+1274,Other
+2459,Other
+2875,Pnuemonia
+4607,COPD
+5566,Stroke
+7326,"Heart Failure"
+1664,COPD
+10215,Other
+8735,AMI
+10098,"Heart Failure"
+11843,"Heart Failure"
+297,"Heart Failure"
+11414,COPD
+5493,Other
+8572,Pnuemonia
+9124,Other
+10497,"Heart Failure"
+11518,Other
+11173,AMI
+576,Other
+1745,"Heart Failure"
+3108,Other
+7146,Other
+8725,Other
+9773,Pnuemonia
+2192,Stroke
+2509,Stroke
+2888,COPD
+4964,Other
+9201,COPD
+10935,Other
+12107,Other
+10491,"Heart Failure"
+11456,Stroke
+11955,AMI
+12501,Other
+280,"Heart Failure"
+539,Other
+1905,Pnuemonia
+3447,COPD
+11479,Stroke
+12027,Stroke
+1671,"Heart Failure"
+3069,Other
+9588,"Heart Failure"
+11324,Stroke
+12184,Other
+12417,Pnuemonia
+8963,Pnuemonia
+10749,Other
+3308,Other
+4990,"Heart Failure"
+5900,"Heart Failure"
+6674,"Heart Failure"
+9499,Pnuemonia
+9558,Other
+9756,Pnuemonia
+1232,Other
+6309,"Heart Failure"
+9068,Other
+7686,"Heart Failure"
+10447,COPD
+11806,Other
+127,COPD
+532,COPD
+7713,Other
+10843,Pnuemonia
+11293,Pnuemonia
+5951,Other
+6499,"Heart Failure"
+7638,Other
+9638,Other
+5949,Stroke
+1355,Other
+3160,Pnuemonia
+4233,Other
+11358,Other
+11678,COPD
+10059,"Heart Failure"
+11120,"Heart Failure"
+5043,Pnuemonia
+6215,"Heart Failure"
+7990,AMI
+2746,"Heart Failure"
+5012,"Heart Failure"
+6401,Other
+495,COPD
+1553,"Heart Failure"
+1819,"Heart Failure"
+3065,Other
+1663,"Heart Failure"
+2610,Other
+5461,AMI
+7396,Other
+8,Stroke
+157,Pnuemonia
+1074,Pnuemonia
+1960,AMI
+10498,Other
+1488,COPD
+2356,"Heart Failure"
+3661,Other
+803,COPD
+7921,Other
+10513,Other
+11640,Other
+9552,Other
+2931,AMI
+3412,Other
+5538,Other
+7517,AMI
+99,Other
+1276,COPD
+3167,"Heart Failure"
+6234,Pnuemonia
+7357,"Heart Failure"
+8155,Pnuemonia
+10490,"Heart Failure"
+8669,Other
+8942,"Heart Failure"
+9587,Other
+10271,"Heart Failure"
+11266,"Heart Failure"
+12246,Stroke
+9771,Stroke
+10423,Pnuemonia
+11927,Pnuemonia
+10999,Pnuemonia
+11205,COPD
+11537,Other
+11685,Stroke
+3547,Other
+5428,AMI
+10776,"Heart Failure"
+11265,Other
+11915,"Heart Failure"
+3819,COPD
+584,Pnuemonia
+1875,AMI
+2646,Other
+861,Other
+1044,Pnuemonia
+2689,Other
+4123,COPD
+1063,AMI
+10854,COPD
+11677,AMI
+12379,Pnuemonia
+8899,Stroke
+10997,Other
+12166,Stroke
+7047,Other
+8620,Other
+1212,COPD
+11108,COPD
+12167,Other
+12291,"Heart Failure"
+7620,COPD
+9130,Other
+10777,AMI
+11001,COPD
+10616,COPD
+10906,AMI
+12014,Pnuemonia
+12146,Stroke
+8841,AMI
+9098,Other
+10908,Pnuemonia
+12145,Other
+1729,Other
+6268,"Heart Failure"
+1230,AMI
+3048,"Heart Failure"
+3938,"Heart Failure"
+4520,Stroke
+2710,Other
+3632,COPD
+4710,Pnuemonia
+7564,Stroke
+8001,Other
+9945,Stroke
+786,Other
+8094,Other
+8593,"Heart Failure"
+10209,COPD
+10851,Other
+11704,Other
+12048,Other
+12454,Pnuemonia
+10853,Other
+12193,Stroke
+12590,Pnuemonia
+3768,Other
+11453,Other
+12434,"Heart Failure"
+12475,Pnuemonia
+11058,Other
+11325,Other
+11613,COPD
+12144,Other
+152,AMI
+6422,Other
+7567,COPD
+10533,"Heart Failure"
+11089,Pnuemonia
+12132,Other
+1684,Other
+3247,"Heart Failure"
+5996,COPD
+10725,Other
+11780,Other
+904,Pnuemonia
+8301,COPD
+1876,AMI
+3924,"Heart Failure"
+5366,"Heart Failure"
+11292,Other
+12334,Other
+1148,AMI
+1456,COPD
+10099,COPD
+11056,Other
+485,Pnuemonia
+1686,COPD
+3189,Pnuemonia
+4006,Other
+7823,"Heart Failure"
+9428,Other
+6907,AMI
+7565,AMI
+8341,Stroke
+10115,Stroke
+11172,Stroke
+4458,Other
+2182,Other
+3490,COPD
+2004,COPD
+346,Other
+749,Other
+1887,COPD
+2079,Other
+2616,COPD
+652,Pnuemonia
+1694,"Heart Failure"
+9,COPD
+232,"Heart Failure"
+1203,Pnuemonia
+1678,Other
+3708,AMI
+5559,AMI
+6231,AMI
+8154,"Heart Failure"
+8923,"Heart Failure"
+9462,Pnuemonia
+10802,Other
+11119,Other
+10097,"Heart Failure"
+10402,Other
+11864,"Heart Failure"
+12470,AMI
+5057,Stroke
+3599,Other
+4448,"Heart Failure"
+5724,COPD
+6661,"Heart Failure"
+592,AMI
+4881,Other
+6837,"Heart Failure"
+9835,COPD
+10952,"Heart Failure"
+11646,"Heart Failure"
+7071,Pnuemonia
+7906,Other
+8290,Other
+7541,"Heart Failure"
+9529,Other
+1103,Other
+2995,Other
+3688,"Heart Failure"
+5682,AMI
+392,COPD
+986,"Heart Failure"
+2647,Other
+4744,COPD
+9578,"Heart Failure"
+9886,Other
+2550,Pnuemonia
+3209,COPD
+4819,COPD
+6415,"Heart Failure"
+2876,Pnuemonia
+4773,Other
+6871,COPD
+8015,Other
+10891,COPD
+11122,AMI
+11963,Other
+12406,"Heart Failure"
+393,"Heart Failure"
+643,COPD
+826,Other
+1172,AMI
+2144,COPD
+2761,COPD
+4766,"Heart Failure"
+3565,Other
+4817,AMI
+8141,AMI
+9170,Other
+5730,Other
+10240,"Heart Failure"
+11877,Stroke
+12097,COPD
+516,Other
+1430,Other
+6322,Other
+7412,Pnuemonia
+6568,Pnuemonia
+4907,Other
+6123,"Heart Failure"
+141,"Heart Failure"
+10782,Other
+11797,COPD
+1123,Other
+2735,Other
+3601,Pnuemonia
+10151,"Heart Failure"
+11691,Other
+1054,COPD
+2798,Pnuemonia
+583,Other
+1522,Pnuemonia
+2397,COPD
+3960,AMI
+1374,Other
+7670,Other
+9308,AMI
+8004,Stroke
+9962,"Heart Failure"
+10186,Stroke
+11290,Other
+8115,"Heart Failure"
+2181,Other
+2393,Pnuemonia
+3259,"Heart Failure"
+1872,Stroke
+3808,Pnuemonia
+240,Other
+471,"Heart Failure"
+1402,"Heart Failure"
+6056,Other
+9514,"Heart Failure"
+10072,COPD
+1012,AMI
+1643,"Heart Failure"
+3375,Pnuemonia
+5252,"Heart Failure"
+6929,Other
+4243,Other
+5270,COPD
+7039,Other
+9203,AMI
+2546,"Heart Failure"
+4118,Pnuemonia
+4346,Pnuemonia
+7222,"Heart Failure"
+6400,"Heart Failure"
+8185,Pnuemonia
+1463,"Heart Failure"
+1969,Other
+2330,COPD
+112,Stroke
+1061,Pnuemonia
+2839,COPD
+4549,COPD
+1182,Stroke
+2791,Pnuemonia
+4621,COPD
+6384,Pnuemonia
+2508,COPD
+438,Other
+1142,Pnuemonia
+9544,COPD
+11027,Other
+11612,AMI
+11819,"Heart Failure"
+2721,Other
+3847,"Heart Failure"
+4358,Stroke
+5801,COPD
+7783,Stroke
+4992,"Heart Failure"
+7111,"Heart Failure"
+8527,Other
+9609,Other
+7206,Other
+504,"Heart Failure"
+2070,Stroke
+5693,"Heart Failure"
+6696,COPD
+8399,"Heart Failure"
+9194,AMI
+1321,Other
+1576,"Heart Failure"
+2204,Other
+10107,Other
+10479,"Heart Failure"
+3489,"Heart Failure"
+3975,Other
+4339,"Heart Failure"
+5950,Other
+4446,COPD
+5866,Other
+6687,Other
+8168,COPD
+2154,Stroke
+3675,"Heart Failure"
+4595,Other
+5783,Stroke
+4712,Stroke
+6598,Other
+8357,Stroke
+1755,Pnuemonia
+2528,Stroke
+3918,COPD
+4400,Stroke
+2233,Other
+3713,Pnuemonia
+312,Stroke
+8383,AMI
+10328,"Heart Failure"
+11413,Stroke
+11752,Other
+7286,Other
+8726,Stroke
+10081,Other
+462,COPD
+1029,COPD
+1701,Pnuemonia
+3374,Stroke
+3174,"Heart Failure"
+3853,Other
+5660,Stroke
+6728,Other
+7671,Stroke
+11144,COPD
+12045,COPD
+12260,"Heart Failure"
+12418,Other
+6287,Other
+8384,Other
+5819,Stroke
+6821,Pnuemonia
+7894,AMI
+9524,Pnuemonia
+9229,Other
+4133,"Heart Failure"
+4776,Stroke
+6706,Other
+5581,Other
+6085,COPD
+7696,Pnuemonia
+9874,Other
+10915,COPD
+11979,COPD
+12522,Pnuemonia
+4827,Stroke
+6248,Pnuemonia
+7888,Other
+10058,AMI
+10793,"Heart Failure"
+11370,COPD
+12241,Other
+4846,Other
+5748,Pnuemonia
+7347,Pnuemonia
+9483,Other
+422,Pnuemonia
+1361,COPD
+1521,Stroke
+2369,COPD
+10296,Pnuemonia
+7893,Other
+8985,Pnuemonia
+10392,Stroke
+5175,COPD
+6951,Other
+10270,Other
+8995,"Heart Failure"
+10365,Pnuemonia
+7429,AMI
+9244,"Heart Failure"
+10184,Other
+10478,Other
+6652,COPD
+7079,AMI
+738,Stroke
+8447,Other
+10095,Stroke
+11741,Other
+12502,Other
+1195,"Heart Failure"
+2321,AMI
+11314,Other
+11871,COPD
+12220,"Heart Failure"
+12605,COPD
+11159,"Heart Failure"
+12243,COPD
+12527,Pnuemonia
+9104,Other
+779,Other
+1612,AMI
+2346,Stroke
+4201,"Heart Failure"
+4848,Other
+11366,Other
+12159,COPD
+12328,"Heart Failure"
+4330,AMI
+5177,COPD
+5654,Pnuemonia
+11495,"Heart Failure"
+11673,Pnuemonia
+11962,Other
+12496,"Heart Failure"
+6738,Stroke
+7102,Stroke
+8887,COPD
+10430,Other
+9429,Other
+9848,COPD
+10294,Pnuemonia
+11556,Pnuemonia
+2099,Other
+3265,Other
+4650,"Heart Failure"
+10403,AMI
+10448,Stroke
+11294,"Heart Failure"
+12286,Stroke
+341,"Heart Failure"
+1523,Other
+3738,Other
+4662,"Heart Failure"
+3846,COPD
+5556,Pnuemonia
+2970,AMI
+2347,COPD
+3800,Other
+5528,Other
+4612,Other
+6310,Stroke
+7004,COPD
+9961,COPD
+11610,Pnuemonia
+11862,Other
+8834,"Heart Failure"
+9431,Other
+10008,Pnuemonia
+11510,Pnuemonia
+6683,Other
+7542,AMI
+5403,AMI
+4143,Other
+4065,"Heart Failure"
+6065,Other
+7692,COPD
+8223,AMI
+961,AMI
+2426,Pnuemonia
+3832,Stroke
+6261,Other
+7605,Pnuemonia
+8889,Other
+9908,Other
+8459,Other
+9561,Pnuemonia
+11504,Other
+10751,Stroke
+11611,Pnuemonia
+12458,COPD
+12623,Other
+10575,AMI
+11334,Other
+12347,"Heart Failure"
+12586,COPD
+5940,Pnuemonia
+7012,Pnuemonia
+7887,"Heart Failure"
+8457,AMI
+585,Other
+1444,"Heart Failure"
+1768,Other
+3521,Stroke
+2436,"Heart Failure"
+5582,Other
+7028,"Heart Failure"
+8107,Stroke
+9689,AMI
+3173,COPD
+3413,COPD
+4184,AMI
+4010,AMI
+5978,COPD
+6288,Pnuemonia
+3663,"Heart Failure"
+4957,Other
+6464,Other
+4933,COPD
+6558,COPD
+8358,Pnuemonia
+8996,COPD
+6503,Pnuemonia
+7539,Pnuemonia
+9089,"Heart Failure"
+174,Other
+770,Pnuemonia
+1637,Stroke
+2331,"Heart Failure"
+4293,Stroke
+929,"Heart Failure"
+2028,Pnuemonia
+3119,"Heart Failure"
+4363,AMI
+6501,Stroke
+8526,COPD
+9755,COPD
+11135,Other
+7621,AMI
+8143,AMI
+9152,COPD
+175,Other
+1277,COPD
+2023,Pnuemonia
+3433,Other
+10148,Other
+3043,Stroke
+3921,"Heart Failure"
+5550,"Heart Failure"
+5921,"Heart Failure"
+1870,"Heart Failure"
+2903,Other
+8299,COPD
+10534,Other
+11727,Pnuemonia
+11995,"Heart Failure"
+10237,COPD
+92,"Heart Failure"
+9211,COPD
+2651,Stroke
+4312,Pnuemonia
+5681,Other
+6185,AMI
+2383,COPD
+3736,Stroke
+4529,Other
+5035,Other
+7659,"Heart Failure"
+8084,Other
+9481,Other
+9980,"Heart Failure"
+561,COPD
+900,Other
+1524,"Heart Failure"
+2697,COPD
+9903,COPD
+846,Pnuemonia
+11182,Other
+11660,Pnuemonia
+12483,AMI
+12646,"Heart Failure"
+4403,Other
+4948,"Heart Failure"
+6347,Other
+9318,AMI
+2245,Other
+4131,"Heart Failure"
+5098,Other
+6872,Stroke
+4112,Pnuemonia
+5892,"Heart Failure"
+6980,Other
+6987,"Heart Failure"
+1353,Pnuemonia
+3139,COPD
+5113,Other
+1590,"Heart Failure"
+2349,Pnuemonia
+2849,Other
+4280,"Heart Failure"
+9298,AMI
+8244,Pnuemonia
+8770,COPD
+9654,Other
+8477,"Heart Failure"
+9884,COPD
+10325,COPD
+9258,Other
+9894,Other
+5322,Other
+1075,Other
+2547,Stroke
+4129,"Heart Failure"
+6030,Other
+2774,Other
+4649,COPD
+4885,Stroke
+5251,"Heart Failure"
+5235,Other
+6737,Other
+8716,"Heart Failure"
+9545,Other
+855,Other
+1677,Pnuemonia
+3453,Other
+5020,Stroke
+9657,Other
+10842,Other
+12059,"Heart Failure"
+12567,Pnuemonia
+10030,"Heart Failure"
+11137,Pnuemonia
+132,Other
+821,Pnuemonia
+1986,Pnuemonia
+2718,Other
+1404,Stroke
+2136,Other
+2734,Other
+3498,"Heart Failure"
+9412,COPD
+9463,Pnuemonia
+10759,Pnuemonia
+2005,Pnuemonia
+2375,Other
+4597,Other
+5979,AMI
+7166,AMI
+10500,COPD
+11591,Other
+12371,Pnuemonia
+7769,"Heart Failure"
+8184,COPD
+9067,Stroke
+2306,"Heart Failure"
+9288,COPD
+9724,Other
+11643,Other
+5206,Other
+6125,Other
+6856,COPD
+763,AMI
+140,Pnuemonia
+3531,"Heart Failure"
+3871,Other
+5471,COPD
+6286,COPD
+6320,COPD
+1250,AMI
+1970,"Heart Failure"
+9927,Stroke
+6235,AMI
+8133,"Heart Failure"
+10041,Pnuemonia
+11183,"Heart Failure"
+3257,Pnuemonia
+4234,Other
+1110,Stroke
+2982,"Heart Failure"
+4292,AMI
+10202,COPD
+11586,"Heart Failure"
+11917,COPD
+8348,Other
+9525,Pnuemonia
+7566,Pnuemonia
+8660,Stroke
+9648,AMI
+10659,"Heart Failure"
+2427,Other
+4231,COPD
+5674,Other
+6153,AMI
+3712,AMI
+5416,Other
+1105,Other
+1519,Pnuemonia
+3210,AMI
+4281,Other
+6067,"Heart Failure"
+7376,COPD
+9539,Other
+11109,"Heart Failure"
+11057,"Heart Failure"
+11315,Other
+11956,"Heart Failure"
+12487,Other
+9725,"Heart Failure"
+11286,"Heart Failure"
+11684,"Heart Failure"
+7027,Other
+8617,Other
+7428,COPD
+8064,"Heart Failure"
+9577,Stroke
+10808,Stroke
+2236,COPD
+3989,COPD
+5205,"Heart Failure"
+6773,AMI
+91,Other
+657,Pnuemonia
+953,COPD
+8753,COPD
+9017,Other
+8583,COPD
+10027,Other
+44,"Heart Failure"
+286,"Heart Failure"
+884,Stroke
+1829,"Heart Failure"
+10421,Other
+7023,"Heart Failure"
+7427,AMI
+6414,Pnuemonia
+6636,Stroke
+7215,"Heart Failure"
+40,"Heart Failure"
+732,COPD
+2033,Stroke
+4164,AMI
+9049,Other
+10944,Other
+12070,Other
+2699,AMI
+3520,AMI
+11083,COPD
+12242,COPD
+12376,Pnuemonia
+6952,"Heart Failure"
+7468,Other
+9185,"Heart Failure"
+4204,"Heart Failure"
+3576,Pnuemonia
+4930,COPD
+5338,AMI
+6896,COPD
+3248,Stroke
+5161,"Heart Failure"
+2034,COPD
+3058,COPD
+3922,Pnuemonia
+4736,"Heart Failure"
+5021,"Heart Failure"
+7410,Pnuemonia
+8543,"Heart Failure"
+9300,"Heart Failure"
+11221,Other
+3848,Stroke
+5831,Pnuemonia
+6086,Pnuemonia
+6893,Other
+600,Stroke
+1438,Other
+2487,COPD
+5283,AMI
+7230,"Heart Failure"
+7742,Other
+8071,"Heart Failure"
+9193,Stroke
+9540,COPD
+11381,Other
+12088,Pnuemonia
+12329,Pnuemonia
+3549,Other
+4696,Stroke
+6515,Other
+6762,Pnuemonia
+7024,COPD
+7675,COPD
+9299,"Heart Failure"
+6502,Pnuemonia
+7221,"Heart Failure"
+8418,"Heart Failure"
+9935,Other
+2587,Other
+4619,Other
+5090,Pnuemonia
+6363,AMI
+651,AMI
+1363,Other
+1847,Stroke
+326,COPD
+11365,Other
+6927,"Heart Failure"
+8289,Stroke
+9697,Pnuemonia
+11380,COPD
+9784,Other
+10378,AMI
+11623,AMI
+2135,Other
+2527,Pnuemonia
+3323,"Heart Failure"
+7850,Other
+9271,Other
+11000,"Heart Failure"
+10185,COPD
+11748,Other
+11916,COPD
+12552,Other
+2598,Other
+3238,Other
+3845,AMI
+984,COPD
+2362,Other
+8550,Other
+10352,"Heart Failure"
+10724,COPD
+12003,Other
+10268,Pnuemonia
+10984,Other
+11859,COPD
+9055,Other
+9687,Other
+11316,"Heart Failure"
+9028,COPD
+9559,Other
+6397,AMI
+6986,Other
+7205,Other
+8821,Other
+10716,Pnuemonia
+10964,COPD
+7469,"Heart Failure"
+9387,Other
+10003,Other
+8000,COPD
+7126,Pnuemonia
+11494,COPD
+12185,"Heart Failure"
+12471,AMI
+12579,Other
+2115,"Heart Failure"
+2636,COPD
+4128,COPD
+5292,AMI
+6873,"Heart Failure"
+8464,Stroke
+3735,Other
+5215,Other
+5749,Pnuemonia
+164,Pnuemonia
+995,AMI
+7808,"Heart Failure"
+9195,Other
+10881,COPD
+6068,AMI
+7864,Pnuemonia
+1376,Other
+2465,Other
+8065,Other
+9643,Other
+1714,Pnuemonia
+5567,Pnuemonia
+6361,Other
+8813,COPD
+9661,Other
+10087,Pnuemonia
+10349,Other
+11863,Other
+12021,"Heart Failure"
+12279,"Heart Failure"
+7339,Other
+7582,AMI
+8021,COPD
+9645,Stroke
+5236,Pnuemonia
+6029,"Heart Failure"
+8095,Other
+9586,Stroke
+9569,AMI
+9518,COPD
+10658,Stroke
+12067,Stroke
+10001,Other
+1288,Other
+555,Stroke
+788,AMI
+1540,AMI
+1888,"Heart Failure"
+2105,Other
+3282,Pnuemonia
+4469,Other
+5315,Pnuemonia
+9102,Other
+8515,"Heart Failure"
+1306,Other
+2263,"Heart Failure"
+7456,"Heart Failure"
+8052,COPD
+8298,COPD
+3087,Other
+3449,"Heart Failure"
+488,Pnuemonia
+1223,Other
+2930,AMI
+3314,COPD
+4135,AMI
+4401,Other
+4826,Stroke
+8288,AMI
+2709,"Heart Failure"
+3487,Other
+8846,COPD
+3037,COPD
+2122,Other
+3689,Other
+5414,Other
+2539,Other
+3488,COPD
+5406,Pnuemonia
+6410,Stroke
+9655,Pnuemonia
+10393,AMI
+11427,"Heart Failure"
+4774,Other
+5863,Other
+7806,Other
+9101,Stroke
+9867,"Heart Failure"
+6195,"Heart Failure"
+10792,AMI
+11275,AMI
+11883,Other
+12338,Other
+373,COPD
+701,Stroke
+10145,"Heart Failure"
+5146,COPD
+5332,Stroke
+9883,"Heart Failure"
+11560,Pnuemonia
+3645,"Heart Failure"
+4956,Other
+5412,COPD
+6752,Other
+2586,Pnuemonia
+3976,Other
+4402,Stroke
+267,Other
+611,Stroke
+925,Pnuemonia
+9690,Other
+11118,Other
+11645,Other
+12410,"Heart Failure"
+874,Stroke
+1657,Pnuemonia
+3218,Other
+3566,Pnuemonia
+1475,Other
+2329,"Heart Failure"
+3974,AMI
+3984,Pnuemonia
+5395,Pnuemonia
+6031,"Heart Failure"
+7165,Other
+10350,Pnuemonia
+11474,Stroke
+11897,COPD
+4606,Pnuemonia
+2850,Pnuemonia
+4460,"Heart Failure"
+6212,Other
+7911,COPD
+9444,Stroke
+10360,COPD
+11798,Other
+8744,Stroke
+10581,Other
+12139,Pnuemonia
+12221,"Heart Failure"
+4972,Pnuemonia
+6509,COPD
+7546,Stroke
+8811,"Heart Failure"
+6793,"Heart Failure"
+1244,AMI
+1713,"Heart Failure"
+6839,AMI
+8912,Other
+19,Pnuemonia
+511,"Heart Failure"
+1569,Other
+2305,COPD
+8495,Pnuemonia
+1160,Other
+2455,"Heart Failure"
+3435,Other
+8530,"Heart Failure"
+9928,"Heart Failure"
+11416,Other
+12026,COPD
+4994,COPD
+5245,"Heart Failure"
+8518,AMI
+9169,"Heart Failure"
+10289,AMI
+10879,Other
+479,Other
+1369,Other
+6581,Other
+7910,"Heart Failure"
+9698,COPD
+6822,COPD
+7861,COPD
+9591,COPD
+10180,Pnuemonia
+3923,COPD
+5271,Stroke
+7250,Other
+8313,COPD
+11066,"Heart Failure"
+11949,Pnuemonia
+3662,Stroke
+5809,Pnuemonia
+173,AMI
+913,"Heart Failure"
+1275,Pnuemonia
+1455,AMI
+3537,Other
+5173,"Heart Failure"
+65,AMI
+970,Other
+2910,Other
+4934,Other
+9413,Stroke
+11014,Pnuemonia
+11364,Stroke
+1383,COPD
+7399,"Heart Failure"
+6729,Other
+7568,"Heart Failure"
+9316,Other
+9688,AMI
+1999,Other
+2675,Pnuemonia
+3564,Pnuemonia
+5176,COPD
+7622,Pnuemonia
+7920,COPD
+9402,Pnuemonia
+10880,Other
+3180,AMI
+4294,"Heart Failure"
+4993,Other
+7089,Stroke
+794,COPD
+3674,Pnuemonia
+4483,COPD
+5223,Pnuemonia
+6754,Stroke
+6265,COPD
+1139,"Heart Failure"
+2889,Other
+3944,COPD
+5250,COPD
+9297,Other
+2588,Other
+3391,"Heart Failure"
+4165,"Heart Failure"
+5317,Other
+2500,COPD
+3319,"Heart Failure"
+8085,COPD
+9861,Stroke
+11005,Pnuemonia
+6360,"Heart Failure"
+7741,Stroke
+9442,"Heart Failure"
+3109,"Heart Failure"
+4730,"Heart Failure"
+6380,Other
+10134,Other
+10883,AMI
+11466,COPD
+12194,Pnuemonia
+3159,COPD
+5028,"Heart Failure"
+6048,"Heart Failure"
+10286,COPD
+11065,"Heart Failure"
+12133,Other
+3359,Other
+1354,Other
+2237,AMI
+3093,Other
+3714,Other
+10844,AMI
+11627,Other
+10499,Other
+3920,Other
+4327,Pnuemonia
+1774,Stroke
+1958,Other
+3548,Other
+4697,"Heart Failure"
+8083,Stroke
+814,COPD
+1601,COPD
+8167,COPD
+9112,Other
+10138,Pnuemonia
+6285,Other
+1161,Stroke
+3448,COPD
+5278,AMI
+6514,AMI
+7068,Stroke
+7836,Pnuemonia
+9644,"Heart Failure"
+168,Stroke
+556,AMI
+1257,Pnuemonia
+3012,"Heart Failure"
+10002,Other
+10850,COPD
+12106,Stroke
+2069,AMI
+3168,AMI
+3881,Other
+4316,"Heart Failure"
+5568,Pnuemonia
+6771,Other
+8529,COPD
+233,Other
+1560,COPD
+3441,Other
+4344,Pnuemonia
+11455,Other
+11873,"Heart Failure"
+7224,COPD
+7097,AMI
+9159,Other
+9425,Other
+10998,COPD
+90,Pnuemonia
+7576,Other
+8359,Other
+8786,Stroke
+4111,Pnuemonia
+5867,AMI
+6742,"Heart Failure"
+8862,COPD
+3621,"Heart Failure"
+5644,Pnuemonia
+5738,Other
+6662,Stroke
+7865,COPD
+4820,COPD
+1007,COPD
+1737,"Heart Failure"
+7646,Other
+8002,Other
+9042,Other
+10137,Other
+6785,Pnuemonia
+8284,Other
+2627,Pnuemonia
+4484,Other
+5316,Pnuemonia
+7213,AMI
+7502,AMI
+8571,Other
+8888,AMI
+7231,Other
+8900,Pnuemonia
+9601,"Heart Failure"
+11557,Pnuemonia
+2255,"Heart Failure"
+2674,"Heart Failure"
+6462,Other
+8409,Pnuemonia
+10277,Other
+10757,COPD
+872,COPD
+9377,Pnuemonia
+11417,Other
+11829,Pnuemonia
+623,COPD
+1971,Other
+2776,Pnuemonia
+7948,"Heart Failure"
+8594,"Heart Failure"
+9740,Other
+10031,"Heart Failure"
+716,Pnuemonia
+1625,Stroke
+2272,Other
+3147,Other
+685,COPD
+2290,Other
+3066,Other
+3373,AMI
+628,"Heart Failure"
+1738,Other
+3454,Pnuemonia
+4392,COPD
+1450,Stroke
+1466,"Heart Failure"
+2155,COPD
+5418,Pnuemonia
+5910,Pnuemonia
+7184,Other
+1489,Stroke
+3150,Pnuemonia
+4063,AMI
+5662,Other
+7756,Pnuemonia
+8286,Other
+10013,AMI
+2564,COPD
+3530,Pnuemonia
+179,Other
+670,Pnuemonia
+5091,Other
+6823,"Heart Failure"
+8116,Other
+9076,COPD
+1554,Other
+2456,AMI
+3577,"Heart Failure"
+4954,"Heart Failure"
+10666,Stroke
+3027,Pnuemonia
+4142,Other
+4378,COPD
+13,"Heart Failure"
+78,Pnuemonia
+7332,Pnuemonia
+8855,COPD
+10351,Other
+9443,Other
+10688,AMI
+7303,AMI
+9323,Other
+10338,Other
+11792,COPD
+971,"Heart Failure"
+1113,Other
+2469,Other
+4007,Other
+496,"Heart Failure"
+1840,Stroke
+5284,AMI
+8024,AMI
+10116,COPD
+11655,Pnuemonia
+586,COPD
+1575,COPD
+2067,Other
+1804,Pnuemonia
+3404,AMI
+4596,Pnuemonia
+11369,"Heart Failure"
+12201,COPD
+12312,Other
+2570,COPD
+3600,"Heart Failure"
+3930,Pnuemonia
+4254,"Heart Failure"
+4709,Other
+574,Other
+1095,Stroke
+1961,Other
+1222,Other
+178,Pnuemonia
+361,Other
+1766,"Heart Failure"
+2486,Other
+3748,Other
+4425,Other
+6485,Other
+9019,COPD
+11013,"Heart Failure"
+2799,"Heart Failure"
+3166,COPD
+8224,AMI
+9204,Pnuemonia
+538,Other
+2016,Pnuemonia
+2376,"Heart Failure"
+8458,Other
+221,Other
+1510,Pnuemonia
+9659,Pnuemonia
+11295,Other
+11614,"Heart Failure"
+11884,Other
+7240,COPD
+1174,Other
+2345,"Heart Failure"
+4203,Other
+4955,"Heart Failure"
+3331,"Heart Failure"
+4357,Other
+5367,Stroke
+7237,"Heart Failure"
+6671,Pnuemonia
+8287,"Heart Failure"
+8922,Other
+10021,Other
+10907,Other
+11772,Other
+518,AMI
+750,COPD
+2109,AMI
+2576,Pnuemonia
+9184,Pnuemonia
+10750,COPD
+1301,AMI
+1803,Pnuemonia
+2235,COPD
+3891,Other
+5405,COPD
+6077,"Heart Failure"
+11028,Pnuemonia
+12245,Other
+2270,Other
+3120,COPD
+4859,Pnuemonia
+6979,Other
+3711,COPD
+5186,Other
+9646,COPD
+8988,Other
+9987,Pnuemonia
+10849,"Heart Failure"
+11347,Other
+7040,COPD
+8324,Stroke
+10361,Pnuemonia
+8953,"Heart Failure"
+10904,COPD
+675,Other
+1339,Pnuemonia
+7660,Stroke
+296,Other
+10781,"Heart Failure"
+1079,COPD
+1998,Other
+4089,AMI
+4636,Other
+6295,Pnuemonia
+9029,COPD
+9324,AMI
+7438,Other
+8812,Stroke
+1290,Pnuemonia
+2585,"Heart Failure"
+4167,Pnuemonia
+6144,"Heart Failure"
+3620,COPD
+4661,AMI
+6487,"Heart Failure"
+8517,AMI
+3344,Stroke
+133,Other
+569,"Heart Failure"
+1104,COPD
+1400,Other
+7506,Other
+8410,"Heart Failure"
+9492,Other
+10572,Other
+11323,Pnuemonia
+11167,Pnuemonia
+11715,Stroke
+808,Stroke
+2389,Other
+10524,Other
+10866,Other
+11184,COPD
+12306,"Heart Failure"
+674,Other
+4015,Other
+5072,Stroke
+5694,"Heart Failure"
+220,Stroke
+1552,Pnuemonia
+3423,Other
+3966,Other
+2139,Other
+2814,Pnuemonia
+4459,COPD
+5706,"Heart Failure"
+7770,Pnuemonia
+8051,Pnuemonia
+7430,Other
+9500,Other
+11031,AMI
+8584,COPD
+6124,AMI
+5981,"Heart Failure"
+6653,"Heart Failure"
+8374,Stroke
+11227,Pnuemonia
+7314,AMI
+7674,"Heart Failure"
+3118,Other
+4860,COPD
+6430,Other
+7131,"Heart Failure"
+5415,Other
+5799,"Heart Failure"
+7716,Stroke
+8528,AMI
+540,AMI
+946,AMI
+2491,COPD
+7214,AMI
+8202,Pnuemonia
+10299,COPD
+1993,Other
+3203,COPD
+4568,Pnuemonia
+7398,Pnuemonia
+8285,Other
+10305,COPD
+10629,AMI
+3695,"Heart Failure"
+4064,Stroke
+5664,AMI
+9498,Other
+10100,COPD
+11132,"Heart Failure"
+11558,COPD
+5894,COPD
+6810,Stroke
+11357,COPD
+11887,Other
+12452,Other
+12644,Pnuemonia
+269,Stroke
+624,Other
+6963,"Heart Failure"
+8964,Other
+10399,"Heart Failure"
+1045,AMI
+2273,Stroke
+3092,Stroke
+9618,Stroke
+10897,Pnuemonia
+12055,Other
+12307,"Heart Failure"
+9660,"Heart Failure"
+10122,Other
+11342,Other
+12222,Pnuemonia
+9904,COPD
+10778,AMI
+400,Other
+5034,Pnuemonia
+6348,Other
+7488,Other
+1916,COPD
+3422,COPD
+11134,COPD
+11828,"Heart Failure"
+12388,Other
+12515,Pnuemonia
+249,"Heart Failure"
+1715,Stroke
+3476,Stroke
+3983,Stroke
+6964,Other
+3917,COPD
+4318,Other
+6194,AMI
+1839,"Heart Failure"
+2470,Pnuemonia
+4629,COPD
+9006,Other
+9494,Pnuemonia
+10899,Pnuemonia
+4482,"Heart Failure"
+5980,Other
+7809,Pnuemonia
+8191,COPD
+9718,Other
+11090,"Heart Failure"
+11728,Other
+12504,"Heart Failure"
+4467,Pnuemonia
+730,"Heart Failure"
+954,COPD
+2484,Other
+5099,Other
+6494,AMI
+6743,Other
+7095,"Heart Failure"
+598,COPD
+1386,"Heart Failure"
+1950,Pnuemonia
+4028,Stroke
+5569,Pnuemonia
+6942,Other
+8629,COPD
+5878,Other
+7771,Other
+3,"Heart Failure"
+236,Other
+505,COPD
+1062,Other
+1360,"Heart Failure"
+6444,Stroke
+6635,Pnuemonia
+2676,AMI
+5253,Other
+7278,Pnuemonia
+9004,Other
+10028,AMI
+1541,Other
+2887,Pnuemonia
+4886,Other
+7330,Stroke
+10882,"Heart Failure"
+11937,Other
+12258,AMI
+12625,"Heart Failure"
+3403,Stroke
+265,Stroke
+593,"Heart Failure"
+1723,Other
+2626,Other
+3988,"Heart Failure"
+5614,Pnuemonia
+4567,COPD
+6332,"Heart Failure"
+6670,AMI
+8023,AMI
+5909,Pnuemonia
+7936,"Heart Failure"
+8267,Other
+10170,Stroke
+6646,Stroke
+8448,Stroke
+10129,Pnuemonia
+4804,Stroke
+6548,Other
+8618,"Heart Failure"
+7147,Stroke
+8180,AMI
+7912,Other
+8952,COPD
+10996,Pnuemonia
+686,Other
+8465,Other
+9710,COPD
+10424,Stroke
+1702,"Heart Failure"
+2344,AMI
+3149,Other
+4727,AMI
+5323,Other
+7085,Pnuemonia
+9360,Other
+9986,Other
+10760,Other
+11812,Other
+11054,COPD
+11804,Other
+2507,Other
+3710,Other
+4670,"Heart Failure"
+5402,Other
+7475,COPD
+7739,COPD
+9123,COPD
+10279,"Heart Failure"
+222,Other
+1114,Other
+1662,COPD
+903,Other
+1405,Other
+7922,Stroke
+10060,COPD
+10758,Other
+8003,AMI
+9691,"Heart Failure"
+10168,Other
+11896,"Heart Failure"
+642,Other
+985,COPD
+6523,"Heart Failure"
+7530,"Heart Failure"
+8519,Other
+9129,"Heart Failure"
+1347,COPD
+2488,"Heart Failure"
+3434,Pnuemonia
+10631,AMI
+10898,"Heart Failure"
+12118,Other
+12362,"Heart Failure"
+3780,Other
+5185,COPD
+5764,Stroke
+4598,COPD
+4847,Other
+5404,"Heart Failure"
+6187,AMI
+8769,AMI
+10179,Stroke
+10628,Other
+11343,Other
+7923,"Heart Failure"
+8428,"Heart Failure"
+9976,Stroke
+650,COPD
+1322,Other
+4066,AMI
+4870,Other
+5765,Pnuemonia
+7673,Other
+10593,"Heart Failure"
+11486,COPD
+12044,COPD
+9469,Pnuemonia
+10855,"Heart Failure"
+11605,Other
+12424,Other
+6267,COPD
+7950,AMI
+8761,Stroke
+8646,Other
+4518,Other
+5526,AMI
+7169,"Heart Failure"
+10940,Pnuemonia
+11555,COPD
+12275,Other
+12546,Pnuemonia
+847,Other
+5115,AMI
+6308,Other
+5507,COPD
+231,Pnuemonia
+1626,COPD
+2234,COPD
+2662,Other
+10701,"Heart Failure"
+11023,Pnuemonia
+11985,AMI
+12320,Other
+9493,AMI
+10735,COPD
+4908,AMI
+6233,"Heart Failure"
+5249,COPD
+5995,"Heart Failure"
+6317,"Heart Failure"
+10537,Stroke
+11581,Other
+12348,"Heart Failure"
+1248,AMI
+1949,Pnuemonia
+2902,"Heart Failure"
+4508,AMI
+6143,"Heart Failure"
+7733,Other
+9154,Pnuemonia
+8120,Other
+10254,COPD
+11742,Stroke
+11980,Other
+790,"Heart Failure"
+1401,Other
+3188,COPD
+3560,Pnuemonia
+3726,Other
+6402,"Heart Failure"
+6811,Stroke
+8325,"Heart Failure"
+8941,COPD
+10065,Pnuemonia
+11415,"Heart Failure"
+11699,Pnuemonia
+5192,Other
+7138,Other
+8707,COPD
+3691,"Heart Failure"
+11252,"Heart Failure"
+12263,COPD
+12566,Pnuemonia
+12663,COPD
+10470,Other
+11015,Stroke
+12087,Stroke
+8509,"Heart Failure"
+2304,Pnuemonia
+4023,Stroke
+4721,Pnuemonia
+6132,Pnuemonia
+11038,AMI
+11145,Stroke
+12154,Other
+12585,Pnuemonia
+4547,Stroke
+833,Other
+2145,"Heart Failure"
+3505,Stroke
+5107,COPD
+4034,Other
+5865,Other
+6808,Stroke
+8300,Other
+7708,"Heart Failure"
+8339,COPD
+9847,Other
+10941,"Heart Failure"
+11855,Other
+2597,"Heart Failure"
+4385,COPD
+5083,Pnuemonia
+7727,Other
+8820,"Heart Failure"
+9477,Other
+9917,Pnuemonia
+9772,AMI
+10939,"Heart Failure"
+11858,"Heart Failure"
+12150,AMI
+7862,Pnuemonia
+9991,Pnuemonia
+10702,"Heart Failure"
+11992,Pnuemonia
+6809,"Heart Failure"
+8913,Stroke
+10287,Pnuemonia
+1479,Other
+3044,COPD
+3325,AMI
+4130,Other
+6688,Other
+2489,Other
+4062,Pnuemonia
+4328,"Heart Failure"
+5527,Pnuemonia
+3190,COPD
+3890,"Heart Failure"
+5001,Stroke
+7346,COPD
+11278,Other
+12037,Other
+12153,COPD
+12604,"Heart Failure"
+7064,"Heart Failure"
+9218,"Heart Failure"
+10560,"Heart Failure"
+11091,Stroke
+10965,Other
+5191,"Heart Failure"
+6236,"Heart Failure"
+7173,"Heart Failure"
+7635,COPD
+8639,Pnuemonia
+9747,Other
+2914,Stroke
+4925,Other
+692,Other
+1131,Other
+1820,Pnuemonia
+3283,Other
+4883,Pnuemonia
+6792,Other
+7684,AMI
+6046,Other
+7279,"Heart Failure"
+8337,COPD
+9809,"Heart Failure"
+10790,"Heart Failure"
+4114,Pnuemonia
+5046,"Heart Failure"
+6751,Pnuemonia
+7168,AMI
+8335,"Heart Failure"
+9253,"Heart Failure"
+9526,COPD
+11264,Stroke
+11736,Other
+12278,"Heart Failure"
+2435,COPD
+2932,Pnuemonia
+4163,Other
+9598,Pnuemonia
+11277,AMI
+11703,COPD
+11930,Other
+9100,COPD
+10150,Stroke
+10788,"Heart Failure"
+11964,Other
+5413,Other
+6186,COPD
+7069,Other
+8690,Other
+111,"Heart Failure"
+644,Other
+962,Pnuemonia
+1392,Other
+940,Other
+1429,Other
+7317,AMI
+7951,"Heart Failure"
+9386,Other
+9770,"Heart Failure"
+1467,Pnuemonia
+2277,"Heart Failure"
+3749,Other
+8365,Other
+10522,"Heart Failure"
+11166,COPD
+12120,Stroke
+1086,COPD
+1550,AMI
+2708,Other
+2441,"Heart Failure"
+2017,Pnuemonia
+3455,Stroke
+4971,Other
+9504,Other
+9808,Other
+10646,AMI
+11256,Other
+7590,Other
+2548,Other
+3070,COPD
+3345,"Heart Failure"
+8407,COPD
+153,Stroke
+1375,"Heart Failure"
+9171,COPD
+599,COPD
+9887,Pnuemonia
+10130,"Heart Failure"
+10510,Other
+12004,"Heart Failure"
+8232,Other
+9992,Stroke
+11255,Other
+12344,Stroke
+9836,Other
+10852,Other
+8266,Other
+9243,Other
+10285,AMI
+11099,AMI
+5920,Pnuemonia
+6524,Stroke
+1871,Other
+3873,Pnuemonia
+4711,Stroke
+5096,Other
+8804,"Heart Failure"
+8978,AMI
+10576,Stroke
+11720,Stroke
+2458,COPD
+4256,Stroke
+5653,Other
+6525,AMI
+7255,"Heart Failure"
+9411,Pnuemonia
+11123,COPD
+10585,Pnuemonia
+11133,AMI
+12101,Other
+3733,COPD
+10945,Other
+11489,Other
+11672,Other
+11207,"Heart Failure"
+11743,Pnuemonia
+12482,"Heart Failure"
+2797,Stroke
+4257,AMI
+5623,AMI
+5802,Other
+6947,COPD
+7400,COPD
+64,Other
+1102,"Heart Failure"
+2664,COPD
+2027,COPD
+3799,Other
+4132,Pnuemonia
+6651,"Heart Failure"
+6962,Pnuemonia
+7414,Other
+8767,Other
+9918,Other
+11759,Other
+9359,Stroke
+10366,Other
+11872,"Heart Failure"
+10422,Other
+12022,Other
+12540,COPD
+12595,Other
+7768,"Heart Failure"
+8934,Pnuemonia
+9730,AMI
+11002,Other
+7026,COPD
+8693,COPD
+8426,Other
+9833,Pnuemonia
+5725,Other
+6557,Pnuemonia
+8713,"Heart Failure"
+9317,Other
+6440,Stroke
+8400,COPD
+10088,COPD
+8706,"Heart Failure"
+10261,Other
+11856,Other
+11045,"Heart Failure"
+2538,"Heart Failure"
+3237,Other
+5097,AMI
+6753,Other
+1249,"Heart Failure"
+1886,"Heart Failure"
+3737,Pnuemonia
+7486,Other
+1341,COPD
+2719,COPD
+3872,Other
+4787,"Heart Failure"
+1205,Stroke
+3026,Other
+4183,Pnuemonia
+5303,Stroke
+7029,COPD
+8886,Other
+3586,Other
+4251,Other
+5864,Other
+7411,Other
+8979,COPD
+10124,Other
+802,Pnuemonia
+2116,AMI
+6202,Other
+7538,Pnuemonia
+9563,AMI
+2056,"Heart Failure"
+3028,Other
+4929,"Heart Failure"
+6040,"Heart Failure"
+8022,Pnuemonia
+7824,AMI
+8198,"Heart Failure"
+1028,Stroke
+1013,"Heart Failure"
+2217,Other
+4009,"Heart Failure"
+4849,AMI
+2913,"Heart Failure"
+4193,Other
+4678,Other
+6321,COPD
+250,"Heart Failure"
+10656,Other
+10960,Other
+12252,Other
+12570,Other
+6597,Other
+7973,Stroke
+8925,Other
+10425,COPD
+7223,Other
+9018,"Heart Failure"
+10700,Pnuemonia
+12071,Stroke
+5013,Pnuemonia
+6045,Other
+7553,Other
+8231,AMI
+6072,Other
+3333,Pnuemonia
+8803,COPD
+2865,"Heart Failure"
+4014,"Heart Failure"
+5817,"Heart Failure"
+7333,AMI
+1676,"Heart Failure"
+1308,Stroke
+1917,Pnuemonia
+2980,"Heart Failure"
+350,Other
+5203,Pnuemonia
+7025,Stroke
+8302,Other
+4088,Pnuemonia
+5128,Stroke
+6996,Other
+9002,Other
+5598,AMI
+7497,COPD
+510,Pnuemonia
+2098,"Heart Failure"
+4008,Other
+1693,Pnuemonia
+1611,"Heart Failure"
+3047,Other
+4202,Other
+4605,COPD
+5726,"Heart Failure"
+3377,Pnuemonia
+5558,Other
+6019,"Heart Failure"
+7377,Stroke
+1661,COPD
+3202,"Heart Failure"
+3963,"Heart Failure"
+4906,Other
+8385,Other
+10298,Pnuemonia
+10726,"Heart Failure"
+5508,Other
+11478,Pnuemonia
+11644,Pnuemonia
+12463,Stroke
+9287,Pnuemonia
+10401,AMI
+11276,AMI
+11926,Other
+45,"Heart Failure"
+230,"Heart Failure"
+7302,Other
+8718,Pnuemonia
+10677,Pnuemonia
+12102,Other
+4445,COPD
+4708,AMI
+10324,"Heart Failure"
+11253,"Heart Failure"
+11659,Pnuemonia
+12195,Pnuemonia
+6567,"Heart Failure"
+6930,Other
+8715,COPD
+6663,COPD
+6915,Stroke
+10974,COPD
+11694,COPD
+11948,Other
+12091,"Heart Failure"
+7487,"Heart Failure"
+8203,Other
+2904,Pnuemonia
+4786,"Heart Failure"
+5114,Other
+6463,COPD
+10469,Stroke
+12054,Other
+12584,Pnuemonia
+12643,Other
+10809,AMI
+11844,Other
+12528,AMI
+12660,Other
+3709,AMI
+5714,COPD
+6451,Pnuemonia
+8336,Pnuemonia
+5643,Other
+6784,Pnuemonia
+8386,"Heart Failure"
+10158,Stroke
+2402,AMI
+10413,Pnuemonia
+11488,"Heart Failure"
+12345,Other
+12428,COPD
+9270,COPD
+11158,AMI
+11842,"Heart Failure"
+12200,Other
+3559,"Heart Failure"
+9030,Pnuemonia
+10455,COPD
+11813,COPD
+4447,"Heart Failure"
+4928,COPD
+5766,COPD
+6736,AMI
+208,COPD
+920,COPD
+1802,Stroke
+2923,Pnuemonia
+10245,Pnuemonia
+11121,"Heart Failure"
+11652,Other
+12427,Other
+1403,"Heart Failure"
+2933,Pnuemonia
+3465,"Heart Failure"
+4304,Other
+5304,Stroke
+10845,AMI
+1143,Other
+2790,Pnuemonia
+3787,Other
+10942,"Heart Failure"
+5612,AMI
+7003,"Heart Failure"
+37,"Heart Failure"
+315,Other
+1141,Other
+2087,Other
+334,Other
+1214,Other
+1437,Pnuemonia
+2891,Pnuemonia
+7315,Pnuemonia
+8832,AMI
+10239,COPD
+8661,Other
+10379,Stroke
+11538,AMI
+9846,Other
+10359,Other
+11503,Stroke
+12375,Stroke
+4217,Pnuemonia
+4895,"Heart Failure"
+6382,"Heart Failure"
+619,Other
+2055,Other
+5613,Pnuemonia
+7743,Other
+11206,Other
+12262,COPD
+12554,AMI
+8688,Other
+10080,COPD
+7002,Other
+7554,"Heart Failure"
+10752,AMI
+11899,"Heart Failure"
+12500,Other
+12647,Other
+8314,Other
+9746,Other
+10592,Stroke
+10990,Other
+1011,Pnuemonia
+1600,Other
+2485,Pnuemonia
+4635,AMI
+3046,AMI
+3788,AMI
+4260,Other
+478,COPD
+669,Stroke
+1014,Other
+1449,"Heart Failure"
+266,"Heart Failure"
+8924,Stroke
+9482,COPD
+10149,Pnuemonia
+5893,"Heart Failure"
+7090,"Heart Failure"
+7715,Other
+8714,COPD
+6101,AMI
+8204,COPD
+1767,Other
+3132,Other
+2106,COPD
+3734,COPD
+4880,Pnuemonia
+6961,Other
+6774,"Heart Failure"
+4305,Pnuemonia
+6277,Stroke
+7236,Stroke
+9005,"Heart Failure"
+76,Stroke
+399,Pnuemonia
+1610,Pnuemonia
+7358,Other
+7881,Other
+5565,AMI
+7067,Other
+8717,AMI
+9726,COPD
+6941,"Heart Failure"
+6626,"Heart Failure"
+7287,"Heart Failure"
+8431,Pnuemonia
+10106,Pnuemonia
+11352,"Heart Failure"
+12346,"Heart Failure"
+6224,Stroke
+7238,Other
+9376,Other
+10630,Other
+7717,COPD
+9003,Other
+10826,Pnuemonia
+382,"Heart Failure"
+1022,AMI
+2457,Pnuemonia
+4016,COPD
+10608,"Heart Failure"
+629,COPD
+780,AMI
+8840,"Heart Failure"
+2637,Pnuemonia
+470,Other
+1639,"Heart Failure"
+8549,Stroke
+10201,Pnuemonia
+10554,Other
+11220,Other
+4356,COPD
+6349,Stroke
+7174,Other
+3814,Other
+5036,"Heart Failure"
+5758,"Heart Failure"
+6885,Other
+7204,Other
+7719,COPD
+4818,Stroke
+5551,Other
+859,AMI
+2203,"Heart Failure"
+3764,"Heart Failure"
+5365,Other
+6457,Stroke
+7540,Other
+8965,AMI
+10144,"Heart Failure"
+11428,COPD
+11700,Other
+5715,Other
+6908,COPD
+8745,Other
+10989,Other
+11998,Other
+12330,Other
+12484,AMI
+930,Stroke
+2275,Other
+2745,"Heart Failure"
+4788,"Heart Failure"
+7413,Other
+10446,Other
+10801,Other
+11263,"Heart Failure"
+8928,Pnuemonia
+10687,"Heart Failure"
+12179,AMI
+12519,Pnuemonia
+8102,Stroke
+9374,COPD
+10364,Other
+3538,Other
+5291,Other
+10867,Other
+5818,Pnuemonia
+5855,COPD
+7835,Other
+8233,Pnuemonia
+9205,Pnuemonia
+761,COPD
+1362,Stroke
+1895,COPD
+3258,"Heart Failure"
+21,"Heart Failure"
+124,Pnuemonia
+613,AMI
+6362,Pnuemonia
+6678,Pnuemonia
+5597,Stroke
+6066,Stroke
+8283,Other
+8613,Other
+10827,AMI
+11661,Other
+12223,"Heart Failure"
+2677,Stroke
+3356,COPD
+5011,Other
+8342,Other
+8628,Other
+9977,COPD
+10313,"Heart Failure"
+10981,Pnuemonia
+3175,"Heart Failure"
+4423,"Heart Failure"
+6399,"Heart Failure"
+4035,Pnuemonia
+6995,AMI
+8724,Other
+9202,AMI
+11136,Stroke
+5293,"Heart Failure"
+7084,Pnuemonia
+9097,COPD
+1085,Other
+2934,"Heart Failure"
+3690,Other
+4200,Pnuemonia
+1685,"Heart Failure"
+2127,Pnuemonia
+3889,"Heart Failure"
+5557,Other
+9430,Pnuemonia
+1422,Other
+3313,Other
+4958,Other
+5324,COPD
+1289,AMI
+3071,"Heart Failure"
+4049,"Heart Failure"
+8986,"Heart Failure"
+9668,Stroke
+9656,"Heart Failure"
+10278,Other
+10657,Other
+11592,"Heart Failure"
+11454,"Heart Failure"
+11841,AMI
+12485,COPD
+4660,COPD
+5767,COPD
+7379,Pnuemonia
+8446,Pnuemonia
+10330,Other
+2490,Other
+342,COPD
+1703,Other
+560,Pnuemonia
+1040,AMI
+1465,Other
+2328,COPD
+8050,AMI
+9979,AMI
+10253,Other
+11604,COPD
+4963,"Heart Failure"
+3025,Other
+4238,Stroke
+5394,COPD
+7014,Other
+787,Pnuemonia
+976,COPD
+1340,Pnuemonia
+7130,Other
+575,"Heart Failure"
+845,Other
+1006,"Heart Failure"
+6647,Other
+7589,Pnuemonia
+9296,Other
+10456,AMI
+10269,Other
+10514,COPD
+11590,AMI
+11885,COPD
+2864,Other
+3274,AMI
+3916,COPD
+4521,Other
+5462,Pnuemonia
+6383,AMI
+7645,Pnuemonia
+6606,COPD
+6895,Pnuemonia
+2700,Pnuemonia
+4036,COPD
+4927,"Heart Failure"
+5704,Pnuemonia
+6203,COPD
+6948,Pnuemonia
+7316,Pnuemonia
+9401,COPD
+5997,"Heart Failure"
+6483,Pnuemonia
+7738,Other
+8487,COPD
+3414,Other
+5417,Pnuemonia
+2848,"Heart Failure"
+3086,"Heart Failure"
+4729,COPD
+4250,Other
+6379,Pnuemonia
+20,Pnuemonia
+154,AMI
+1083,Pnuemonia
+2168,Stroke
+1972,"Heart Failure"
+1700,COPD
+2310,"Heart Failure"
+8230,Other
+4345,Other
+6131,"Heart Failure"
+7604,Other
+8802,Other
+9513,Other
+11559,COPD
+844,"Heart Failure"
+8153,Other
+8692,Other
+9623,Other
+10014,"Heart Failure"
+4679,"Heart Failure"
+5374,Pnuemonia
+3357,AMI
+4745,Pnuemonia
+6441,"Heart Failure"
+2698,Other
+4001,Stroke
+4680,Stroke
+5868,"Heart Failure"
+5800,"Heart Failure"
+1231,"Heart Failure"
+2510,Other
+3622,AMI
+6484,Other
+9530,"Heart Failure"
+9748,"Heart Failure"
+11003,"Heart Failure"
+897,Other
+5624,Stroke
+7145,Pnuemonia
+2152,"Heart Failure"
+10108,Pnuemonia
+10288,Stroke
+408,Other
+1577,"Heart Failure"
+3506,Other
+404,Pnuemonia
+79,Pnuemonia
+1055,Pnuemonia
+2355,Other
+4168,AMI
+5238,AMI
+5423,Pnuemonia
+146,AMI
+1343,Other
+1527,AMI
+2568,Other
+6172,"Heart Failure"
+3950,COPD
+4390,Other
+5807,"Heart Failure"
+6284,"Heart Failure"
+7838,AMI
+10341,Other
+12012,Other
+5797,AMI
+6622,COPD
+8566,Pnuemonia
+9988,"Heart Failure"
+5687,COPD
+6222,Other
+7163,"Heart Failure"
+7439,AMI
+11509,Pnuemonia
+12423,COPD
+12488,Other
+12649,Other
+4792,Pnuemonia
+6547,Stroke
+8616,Other
+9192,Other
+8685,Stroke
+9642,Stroke
+10978,Other
+12161,COPD
+3429,"Heart Failure"
+4543,Other
+5871,Pnuemonia
+7736,Other
+1728,Other
+2219,"Heart Failure"
+3328,COPD
+8643,AMI
+9667,COPD
+10494,AMI
+8158,Other
+9474,Other
+9754,Other
+10248,Other
+2495,"Heart Failure"
+4718,Pnuemonia
+5479,"Heart Failure"
+5822,COPD
+5272,Other
+3841,Other
+5168,Stroke
+6552,Other
+7228,AMI
+8921,AMI
+9906,Pnuemonia
+11731,"Heart Failure"
+9606,COPD
+10462,Pnuemonia
+11851,Pnuemonia
+11950,Other
+9073,COPD
+9632,COPD
+6571,"Heart Failure"
+7307,Stroke
+7792,Pnuemonia
+9093,Other
+1129,Other
+2208,Other
+3878,"Heart Failure"
+5311,Other
+7313,Stroke
+4454,Other
+4685,Stroke
+1264,"Heart Failure"
+2075,"Heart Failure"
+2363,Other
+2557,Other
+10857,Other
+7186,Other
+11098,Pnuemonia
+12083,Stroke
+12232,Pnuemonia
+12572,Other
+8187,Other
+8500,COPD
+8875,Other
+10894,Stroke
+4918,COPD
+6345,Other
+7640,"Heart Failure"
+3353,COPD
+1665,COPD
+3307,"Heart Failure"
+4272,COPD
+4974,Other
+5924,COPD
+7531,COPD
+319,Pnuemonia
+1378,Other
+3033,COPD
+3486,"Heart Failure"
+3784,Pnuemonia
+4882,Other
+5455,"Heart Failure"
+199,COPD
+313,Other
+1533,Other
+2074,Other
+3546,AMI
+10363,Other
+10979,"Heart Failure"
+3381,COPD
+4762,COPD
+4576,"Heart Failure"
+5606,Other
+6681,Other
+223,Stroke
+969,"Heart Failure"
+2261,Other
+3223,Pnuemonia
+11267,COPD
+12332,Stroke
+2947,Other
+3239,"Heart Failure"
+5218,AMI
+7754,"Heart Failure"
+9325,Other
+5393,AMI
+7018,Pnuemonia
+7799,AMI
+9519,Other
+9352,"Heart Failure"
+9446,Other
+10699,Pnuemonia
+11633,Other
+2156,Other
+2409,Stroke
+2938,"Heart Failure"
+5692,Stroke
+6044,Stroke
+7227,Other
+8990,COPD
+1211,"Heart Failure"
+2063,"Heart Failure"
+2949,Other
+4369,AMI
+7101,Stroke
+8828,Pnuemonia
+3426,Other
+7098,Other
+9447,Pnuemonia
+10797,Other
+11816,"Heart Failure"
+5342,COPD
+5854,Other
+3574,Other
+4494,Pnuemonia
+6015,Other
+7710,Other
+10354,Other
+10609,Pnuemonia
+11723,COPD
+12389,Other
+5336,Other
+6580,Stroke
+3292,Stroke
+4340,Other
+9889,Other
